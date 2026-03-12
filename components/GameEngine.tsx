@@ -124,7 +124,7 @@ export default function GameEngine({ puzzle, mode }: Props) {
         </div>
 
         {/* Panel — fixed compact height on mobile, sidebar on desktop */}
-        <div className="h-[22vh] md:h-auto md:flex-none md:w-72 flex flex-col bg-gray-900 border-t md:border-t-0 md:border-l border-gray-800 overflow-y-auto shrink-0">
+        <div className="h-[30vh] md:h-auto md:flex-none md:w-72 flex flex-col bg-gray-900 border-t md:border-t-0 md:border-l border-gray-800 overflow-y-auto shrink-0">
           {phase === "guessing" && (
             <CluePanel
               round={currentRound}
