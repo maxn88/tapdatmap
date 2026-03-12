@@ -13,10 +13,10 @@ import type { Round } from "@/lib/types";
 
 const MAPBOX_TOKEN = process.env.NEXT_PUBLIC_MAPBOX_TOKEN!;
 
-// US bounds [sw, ne]
+// Wide bounds that include Alaska and Hawaii
 const US_BOUNDS: [[number, number], [number, number]] = [
-  [-168, 15],
-  [-60, 72],
+  [-180, 15],
+  [-60, 75],
 ];
 
 interface GuessPin {
@@ -54,9 +54,9 @@ export default function Map3D({ round, phase, onGuess, guessPin }: Props) {
     }
     if (phase === "guessing") {
       mapRef.current?.flyTo({
-        center: [-96, 38],
-        zoom: 3.5,
-        pitch: 30,
+        center: [-110, 45],
+        zoom: 2.2,
+        pitch: 20,
         bearing: 0,
         duration: 800,
       });
@@ -75,14 +75,14 @@ export default function Map3D({ round, phase, onGuess, guessPin }: Props) {
         ref={mapRef}
         mapboxAccessToken={MAPBOX_TOKEN}
         initialViewState={{
-          longitude: -96,
-          latitude: 38,
-          zoom: 3.5,
-          pitch: 30,
+          longitude: -110,
+          latitude: 45,
+          zoom: 2.2,
+          pitch: 20,
           bearing: 0,
         }}
         maxBounds={US_BOUNDS}
-        minZoom={2}
+        minZoom={1.5}
         maxZoom={12}
         mapStyle="mapbox://styles/mapbox/satellite-v9"
         terrain={{ source: "mapbox-dem", exaggeration: 1.5 }}
