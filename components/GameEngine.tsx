@@ -114,7 +114,7 @@ export default function GameEngine({ puzzle, mode }: Props) {
 
       <div className="flex flex-col md:flex-row flex-1 overflow-hidden">
         {/* Map — tall on mobile, fills remaining width on desktop */}
-        <div className="h-[70vw] min-h-[260px] max-h-[72vh] md:h-auto md:max-h-none md:flex-1 relative">
+        <div className="h-[80vw] min-h-[280px] max-h-[82vh] md:h-auto md:max-h-none md:flex-1 relative">
           <Map3D
             round={currentRound}
             phase={phase as "guessing" | "result" | "idle" | "complete"}

@@ -49,9 +49,9 @@ export default function Map3D({ round, phase, onGuess, guessPin }: Props) {
     }
     if (phase === "guessing") {
       mapRef.current?.flyTo({
-        center: [-110, 45],
-        zoom: 2.2,
-        pitch: 20,
+        center: [-96, 38],
+        zoom: 1.8,
+        pitch: 0,
         bearing: 0,
         duration: 800,
       });
@@ -70,10 +70,10 @@ export default function Map3D({ round, phase, onGuess, guessPin }: Props) {
         ref={mapRef}
         mapboxAccessToken={MAPBOX_TOKEN}
         initialViewState={{
-          longitude: -110,
-          latitude: 45,
-          zoom: 2.2,
-          pitch: 20,
+          longitude: -96,
+          latitude: 38,
+          zoom: 1.8,
+          pitch: 0,
           bearing: 0,
         }}
         minZoom={1.5}
