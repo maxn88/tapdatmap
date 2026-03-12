@@ -14,7 +14,8 @@ import type { Round } from "@/lib/types";
 const MAPBOX_TOKEN = process.env.NEXT_PUBLIC_MAPBOX_TOKEN!;
 
 const isMobile = () => typeof window !== "undefined" && window.innerWidth < 768;
-const defaultZoom = () => (isMobile() ? 1.8 : 3.2);
+const defaultZoom = () => (isMobile() ? 1.8 : 2.3);
+const defaultCenter = (): [number, number] => isMobile() ? [-96, 38] : [-95, 47];
 
 
 interface GuessPin {
@@ -52,7 +53,7 @@ export default function Map3D({ round, phase, onGuess, guessPin }: Props) {
     }
     if (phase === "guessing") {
       mapRef.current?.flyTo({
-        center: [-96, 38],
+        center: defaultCenter(),
         zoom: defaultZoom(),
         pitch: 0,
         bearing: 0,
@@ -73,8 +74,8 @@ export default function Map3D({ round, phase, onGuess, guessPin }: Props) {
         ref={mapRef}
         mapboxAccessToken={MAPBOX_TOKEN}
         initialViewState={{
-          longitude: -96,
-          latitude: 38,
+          longitude: defaultCenter()[0],
+          latitude: defaultCenter()[1],
           zoom: defaultZoom(),
           pitch: 0,
           bearing: 0,
