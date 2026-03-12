@@ -114,7 +114,7 @@ export default function GameEngine({ puzzle, mode }: Props) {
 
       <div className="flex flex-col md:flex-row flex-1 overflow-hidden">
         {/* Map — tall on mobile, fills remaining width on desktop */}
-        <div className="h-[58vw] min-h-[220px] max-h-[60vh] md:h-auto md:max-h-none md:flex-1 relative">
+        <div className="h-[70vw] min-h-[260px] max-h-[72vh] md:h-auto md:max-h-none md:flex-1 relative">
           <Map3D
             round={currentRound}
             phase={phase as "guessing" | "result" | "idle" | "complete"}
@@ -124,7 +124,7 @@ export default function GameEngine({ puzzle, mode }: Props) {
         </div>
 
         {/* Panel — scrollable below map on mobile, sidebar on desktop */}
-        <div className="flex-1 md:flex-none md:w-80 flex flex-col bg-gray-900 border-t md:border-t-0 md:border-l border-gray-800 overflow-y-auto">
+        <div className="flex-1 md:flex-none md:w-72 flex flex-col bg-gray-900 border-t md:border-t-0 md:border-l border-gray-800 overflow-y-auto">
           {phase === "guessing" && (
             <CluePanel
               round={currentRound}
