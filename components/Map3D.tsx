@@ -13,11 +13,6 @@ import type { Round } from "@/lib/types";
 
 const MAPBOX_TOKEN = process.env.NEXT_PUBLIC_MAPBOX_TOKEN!;
 
-// Wide bounds that include Alaska and Hawaii
-const US_BOUNDS: [[number, number], [number, number]] = [
-  [-180, 15],
-  [-60, 75],
-];
 
 interface GuessPin {
   lat: number;
@@ -81,7 +76,6 @@ export default function Map3D({ round, phase, onGuess, guessPin }: Props) {
           pitch: 20,
           bearing: 0,
         }}
-        maxBounds={US_BOUNDS}
         minZoom={1.5}
         maxZoom={12}
         mapStyle="mapbox://styles/mapbox/satellite-v9"
