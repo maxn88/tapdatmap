@@ -3,6 +3,7 @@ import puzzles from "@/data/daily-puzzles.json";
 import type { Puzzle } from "@/lib/types";
 import GameEngine from "@/components/GameEngine";
 import QuizMenu from "@/components/QuizMenu";
+import AdBanner from "@/components/AdBanner";
 
 function getTodaysPuzzle(): Puzzle {
   const today = new Date().toISOString().slice(0, 10);
@@ -27,6 +28,9 @@ export default function HomePage() {
           <GameEngine puzzle={puzzle} mode="daily" />
         </Suspense>
       </div>
+
+      {/* Ad banner */}
+      <AdBanner />
     </main>
   );
 }
