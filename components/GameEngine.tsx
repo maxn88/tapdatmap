@@ -112,8 +112,9 @@ export default function GameEngine({ puzzle, mode }: Props) {
         total={puzzle.rounds.length}
       />
 
-      <div className="flex flex-1 overflow-hidden">
-        <div className="flex-1 relative">
+      <div className="flex flex-col md:flex-row flex-1 overflow-hidden">
+        {/* Map — tall on mobile, fills remaining width on desktop */}
+        <div className="h-[58vw] min-h-[220px] max-h-[60vh] md:h-auto md:max-h-none md:flex-1 relative">
           <Map3D
             round={currentRound}
             phase={phase as "guessing" | "result" | "idle" | "complete"}
@@ -122,7 +123,8 @@ export default function GameEngine({ puzzle, mode }: Props) {
           />
         </div>
 
-        <div className="w-80 flex flex-col bg-gray-900 border-l border-gray-800 overflow-y-auto">
+        {/* Panel — scrollable below map on mobile, sidebar on desktop */}
+        <div className="flex-1 md:flex-none md:w-80 flex flex-col bg-gray-900 border-t md:border-t-0 md:border-l border-gray-800 overflow-y-auto">
           {phase === "guessing" && (
             <CluePanel
               round={currentRound}
@@ -156,12 +158,12 @@ function Header({
   total: number;
 }) {
   return (
-    <header className="flex items-center justify-between px-6 py-3 bg-gray-900 border-b border-gray-800">
-      <div className="flex items-center gap-3">
-        <span className="text-xl font-black tracking-tight text-white">
+    <header className="flex items-center justify-between px-4 py-2 bg-gray-900 border-b border-gray-800">
+      <div className="flex items-center gap-2">
+        <span className="text-base font-black tracking-tight text-white">
           Tap<span className="text-yellow-400">Dat</span>Map
         </span>
-        <span className="text-sm text-gray-400">{title}</span>
+        <span className="text-xs text-gray-400 hidden sm:inline">{title}</span>
       </div>
       <div className="flex items-center gap-6">
         <div className="flex gap-1.5">

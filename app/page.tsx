@@ -15,9 +15,9 @@ export default function HomePage() {
 
   return (
     <main className="h-screen flex flex-col bg-gray-950 text-white">
-      {/* Quiz topic strip above the game */}
-      <div className="flex items-center gap-3 px-4 py-2 bg-gray-900 border-b border-gray-800 overflow-x-auto">
-        <span className="text-xs text-gray-500 uppercase tracking-widest shrink-0">Quizzes</span>
+      {/* Quiz topic strip — compact on mobile */}
+      <div className="flex items-center gap-2 px-3 py-1.5 bg-gray-900 border-b border-gray-800 overflow-x-auto scrollbar-none">
+        <span className="text-xs text-gray-500 uppercase tracking-widest shrink-0 hidden sm:inline">Quizzes</span>
         <QuizMenu />
       </div>
 
