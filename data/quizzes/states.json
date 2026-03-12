@@ -1,0 +1,53 @@
+{
+  "id": "states",
+  "title": "US States",
+  "description": "Click anywhere inside the correct state for full points!",
+  "emoji": "🗺️",
+  "rounds": [
+    {
+      "id": 1,
+      "type": "state",
+      "clue": "The largest US state by area, it spans four time zones and contains 17 of the 20 highest peaks in the country.",
+      "answer": "Alaska",
+      "lat": 64.2008,
+      "lng": -153.4937,
+      "bbox": [-180, 51.2, -130.0, 71.4]
+    },
+    {
+      "id": 2,
+      "type": "state",
+      "clue": "The only US state that is an archipelago, it was the 50th state admitted to the union in 1959.",
+      "answer": "Hawaii",
+      "lat": 19.8968,
+      "lng": -155.5828,
+      "bbox": [-160.2, 18.9, -154.8, 22.2]
+    },
+    {
+      "id": 3,
+      "type": "state",
+      "clue": "Known as the Lone Star State, it is the largest contiguous US state by both area and population.",
+      "answer": "Texas",
+      "lat": 31.9686,
+      "lng": -99.9018,
+      "bbox": [-106.6, 25.8, -93.5, 36.5]
+    },
+    {
+      "id": 4,
+      "type": "state",
+      "clue": "This Great Lakes state is shaped like a mitten and is home to more freshwater coastline than any other state.",
+      "answer": "Michigan",
+      "lat": 44.3148,
+      "lng": -85.6024,
+      "bbox": [-90.4, 41.7, -82.4, 48.3]
+    },
+    {
+      "id": 5,
+      "type": "state",
+      "clue": "The smallest US state by area, it was the first to declare independence from Britain in 1776.",
+      "answer": "Rhode Island",
+      "lat": 41.5801,
+      "lng": -71.4774,
+      "bbox": [-71.9, 41.1, -71.1, 42.0]
+    }
+  ]
+}

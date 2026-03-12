@@ -1,0 +1,48 @@
+{
+  "id": "national-parks",
+  "title": "National Parks",
+  "description": "Can you find these iconic US National Parks on the map?",
+  "emoji": "🏔️",
+  "rounds": [
+    {
+      "id": 1,
+      "type": "national_park",
+      "clue": "The oldest national park in the US, known for its geysers and hot springs sitting atop a supervolcano.",
+      "answer": "Yellowstone National Park, WY",
+      "lat": 44.4280,
+      "lng": -110.5885
+    },
+    {
+      "id": 2,
+      "type": "national_park",
+      "clue": "Famous for its giant sequoia trees, this California park's valley floor is surrounded by granite cliffs including El Capitan.",
+      "answer": "Yosemite National Park, CA",
+      "lat": 37.8651,
+      "lng": -119.5383
+    },
+    {
+      "id": 3,
+      "type": "national_park",
+      "clue": "Straddling the border of Arizona and Utah, this park is known for its towering sandstone buttes and mesas.",
+      "answer": "Monument Valley Navajo Tribal Park, AZ/UT",
+      "lat": 36.9830,
+      "lng": -110.1077
+    },
+    {
+      "id": 4,
+      "type": "national_park",
+      "clue": "The most visited national park in the US, located in the Appalachian Mountains between Tennessee and North Carolina.",
+      "answer": "Great Smoky Mountains National Park, TN/NC",
+      "lat": 35.6532,
+      "lng": -83.5070
+    },
+    {
+      "id": 5,
+      "type": "national_park",
+      "clue": "This Florida park protects the largest subtropical wilderness in the US, home to manatees and alligators.",
+      "answer": "Everglades National Park, FL",
+      "lat": 25.2866,
+      "lng": -80.8987
+    }
+  ]
+}

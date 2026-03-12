@@ -1,0 +1,94 @@
+{
+  "2026-03-12": {
+    "puzzleNumber": 1,
+    "title": "Puzzle #1",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "The birthplace of jazz, this city sits where the Mississippi River meets the Gulf of Mexico.",
+        "answer": "New Orleans, LA",
+        "lat": 29.9511,
+        "lng": -90.0715
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "This iconic arch stands 630 feet tall on the western bank of the Mississippi River, symbolizing the gateway to the West.",
+        "answer": "Gateway Arch, St. Louis, MO",
+        "lat": 38.6247,
+        "lng": -90.1848
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Home to the world's largest collection of geysers, including Old Faithful, this park sits atop a massive supervolcano.",
+        "answer": "Yellowstone National Park, WY",
+        "lat": 44.4280,
+        "lng": -110.5885
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "This Florida county is home to the most visited theme park destination on Earth.",
+        "answer": "Orange County, FL",
+        "lat": 28.5383,
+        "lng": -81.3792
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "This mountain capital city sits at 5,280 feet above sea level — exactly one mile high.",
+        "answer": "Denver, CO",
+        "lat": 39.7392,
+        "lng": -104.9903
+      }
+    ]
+  },
+  "2026-03-13": {
+    "puzzleNumber": 2,
+    "title": "Puzzle #2",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Known as the Windy City, this Great Lakes metropolis is famous for its deep-dish pizza and stunning architecture.",
+        "answer": "Chicago, IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "The largest national park in the US, this Alaskan wilderness spans over 13 million acres.",
+        "answer": "Wrangell-St. Elias National Park, AK",
+        "lat": 61.7104,
+        "lng": -142.9858
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Carved into the granite face of the Black Hills, four presidents' faces overlook South Dakota.",
+        "answer": "Mount Rushmore, SD",
+        "lat": 43.8791,
+        "lng": -103.4591
+      },
+      {
+        "id": 4,
+        "type": "city",
+        "clue": "This city on Puget Sound is the birthplace of Starbucks, Amazon, and grunge music.",
+        "answer": "Seattle, WA",
+        "lat": 47.6062,
+        "lng": -122.3321
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "The most populous county in Texas, home to Houston's Space Center and energy industry.",
+        "answer": "Harris County, TX",
+        "lat": 29.8473,
+        "lng": -95.4100
+      }
+    ]
+  }
+}

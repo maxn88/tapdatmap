@@ -1,0 +1,48 @@
+{
+  "id": "monuments",
+  "title": "Monuments & Landmarks",
+  "description": "Locate these iconic American monuments and landmarks on the map.",
+  "emoji": "🗽",
+  "rounds": [
+    {
+      "id": 1,
+      "type": "landmark",
+      "clue": "Standing in New York Harbor, this copper statue was a gift from France and holds a torch aloft.",
+      "answer": "Statue of Liberty, NY",
+      "lat": 40.6892,
+      "lng": -74.0445
+    },
+    {
+      "id": 2,
+      "type": "landmark",
+      "clue": "This iconic suspension bridge connects San Francisco to Marin County, painted in International Orange.",
+      "answer": "Golden Gate Bridge, CA",
+      "lat": 37.8199,
+      "lng": -122.4783
+    },
+    {
+      "id": 3,
+      "type": "landmark",
+      "clue": "The world's tallest arch, this 630-foot stainless steel monument overlooks the Mississippi River.",
+      "answer": "Gateway Arch, St. Louis, MO",
+      "lat": 38.6247,
+      "lng": -90.1848
+    },
+    {
+      "id": 4,
+      "type": "landmark",
+      "clue": "Four presidents' faces are carved into this South Dakota granite mountain in the Black Hills.",
+      "answer": "Mount Rushmore, SD",
+      "lat": 43.8791,
+      "lng": -103.4591
+    },
+    {
+      "id": 5,
+      "type": "landmark",
+      "clue": "This Washington DC monument is the world's tallest stone obelisk, dedicated to the nation's first president.",
+      "answer": "Washington Monument, DC",
+      "lat": 38.8895,
+      "lng": -77.0353
+    }
+  ]
+}

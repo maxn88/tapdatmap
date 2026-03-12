@@ -1,0 +1,48 @@
+{
+  "id": "state-capitals",
+  "title": "State Capitals",
+  "description": "How well do you know where the state capitals are?",
+  "emoji": "🏛️",
+  "rounds": [
+    {
+      "id": 1,
+      "type": "state_capital",
+      "clue": "The capital of Alaska, this city can only be reached by boat or plane — no roads connect it to the rest of the state.",
+      "answer": "Juneau, AK",
+      "lat": 58.3005,
+      "lng": -134.4197
+    },
+    {
+      "id": 2,
+      "type": "state_capital",
+      "clue": "Sitting at exactly one mile above sea level, this Colorado capital is nicknamed the Mile High City.",
+      "answer": "Denver, CO",
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    {
+      "id": 3,
+      "type": "state_capital",
+      "clue": "Despite being the capital of the most populous US state, this city is not its largest — that honor goes to Los Angeles.",
+      "answer": "Sacramento, CA",
+      "lat": 38.5816,
+      "lng": -121.4944
+    },
+    {
+      "id": 4,
+      "type": "state_capital",
+      "clue": "This Rhode Island capital is the smallest state capital by population in New England.",
+      "answer": "Providence, RI",
+      "lat": 41.8240,
+      "lng": -71.4128
+    },
+    {
+      "id": 5,
+      "type": "state_capital",
+      "clue": "This Texas capital is famous for its live music scene and is home to the University of Texas Longhorns.",
+      "answer": "Austin, TX",
+      "lat": 30.2672,
+      "lng": -97.7431
+    }
+  ]
+}

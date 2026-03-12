@@ -1,0 +1,48 @@
+{
+  "id": "universities",
+  "title": "Universities",
+  "description": "Find the campuses of these famous American universities.",
+  "emoji": "🎓",
+  "rounds": [
+    {
+      "id": 1,
+      "type": "landmark",
+      "clue": "The oldest university in the US, founded in 1636, this Ivy League school sits across the river from Boston.",
+      "answer": "Harvard University, Cambridge, MA",
+      "lat": 42.3770,
+      "lng": -71.1167
+    },
+    {
+      "id": 2,
+      "type": "landmark",
+      "clue": "Home to the Trojans, this private research university sits in the heart of Los Angeles.",
+      "answer": "University of Southern California, Los Angeles, CA",
+      "lat": 34.0224,
+      "lng": -118.2851
+    },
+    {
+      "id": 3,
+      "type": "landmark",
+      "clue": "The flagship state university of Texas, home to the Longhorns, located in the state capital.",
+      "answer": "University of Texas at Austin, TX",
+      "lat": 30.2849,
+      "lng": -97.7341
+    },
+    {
+      "id": 4,
+      "type": "landmark",
+      "clue": "Located in Ann Arbor, this Big Ten school has the largest football stadium in the US — the Big House.",
+      "answer": "University of Michigan, Ann Arbor, MI",
+      "lat": 42.2780,
+      "lng": -83.7382
+    },
+    {
+      "id": 5,
+      "type": "landmark",
+      "clue": "Nestled in the Rocky Mountains of Colorado, this school is nicknamed CU Boulder and is known for its research programs.",
+      "answer": "University of Colorado Boulder, CO",
+      "lat": 40.0076,
+      "lng": -105.2659
+    }
+  ]
+}
