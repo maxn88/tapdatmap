@@ -24,7 +24,7 @@
         "type": "national_park",
         "clue": "Home to the world's largest collection of geysers, including Old Faithful, this park sits atop a massive supervolcano.",
         "answer": "Yellowstone National Park, WY",
-        "lat": 44.4280,
+        "lat": 44.428,
         "lng": -110.5885
       },
       {
@@ -38,7 +38,7 @@
       {
         "id": 5,
         "type": "state_capital",
-        "clue": "This mountain capital city sits at 5,280 feet above sea level — exactly one mile high.",
+        "clue": "This mountain capital city sits at 5,280 feet above sea level \u2014 exactly one mile high.",
         "answer": "Denver, CO",
         "lat": 39.7392,
         "lng": -104.9903
@@ -87,7 +87,4147 @@
         "clue": "The most populous county in Texas, home to Houston's Space Center and energy industry.",
         "answer": "Harris County, TX",
         "lat": 29.8473,
-        "lng": -95.4100
+        "lng": -95.41
+      }
+    ]
+  },
+  "2026-03-14": {
+    "puzzleNumber": 3,
+    "title": "Puzzle #3",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "The birthplace of Elvis Presley and home to Graceland, this Tennessee city sits on the Mississippi River.",
+        "answer": "Memphis, TN",
+        "lat": 35.1495,
+        "lng": -90.049
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Rising 555 feet above the National Mall, this obelisk is the world's tallest stone structure.",
+        "answer": "Washington Monument, DC",
+        "lat": 38.8895,
+        "lng": -77.0353
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "The Grand Canyon was carved by the Colorado River over millions of years; it's a mile deep and 277 miles long.",
+        "answer": "Grand Canyon National Park, AZ",
+        "lat": 36.1069,
+        "lng": -112.1129
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "The most populous county in the US, home to Los Angeles and Hollywood.",
+        "answer": "Los Angeles County, CA",
+        "lat": 34.3,
+        "lng": -118.22
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "This small Vermont city is the least populous state capital in the US, home to just 8,000 people.",
+        "answer": "Montpelier, VT",
+        "lat": 44.2601,
+        "lng": -72.5754
+      }
+    ]
+  },
+  "2026-03-15": {
+    "puzzleNumber": 4,
+    "title": "Puzzle #4",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "national_park",
+        "clue": "This California park in the Sierra Nevada is home to Half Dome, El Capitan, and Yosemite Falls.",
+        "answer": "Yosemite National Park, CA",
+        "lat": 37.8651,
+        "lng": -119.5383
+      },
+      {
+        "id": 2,
+        "type": "city",
+        "clue": "This Georgia city hosted the 1996 Summer Olympics and is headquarters to Coca-Cola and CNN.",
+        "answer": "Atlanta, GA",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Alaska's capital city is accessible only by boat or plane \u2014 no roads connect it to the rest of the state.",
+        "answer": "Juneau, AK",
+        "lat": 58.3005,
+        "lng": -134.4197
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "This copper statue given by France stands on Liberty Island in New York Harbor.",
+        "answer": "Statue of Liberty, NY",
+        "lat": 40.6892,
+        "lng": -74.0445
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "Illinois' most populous county encompasses Chicago and its inner suburbs.",
+        "answer": "Cook County, IL",
+        "lat": 41.84,
+        "lng": -87.82
+      }
+    ]
+  },
+  "2026-03-16": {
+    "puzzleNumber": 5,
+    "title": "Puzzle #5",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "landmark",
+        "clue": "Spanning the Golden Gate strait, this iconic suspension bridge in San Francisco is painted International Orange.",
+        "answer": "Golden Gate Bridge, CA",
+        "lat": 37.8199,
+        "lng": -122.4783
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "Arizona's most populous county contains Phoenix, Scottsdale, and Tempe.",
+        "answer": "Maricopa County, AZ",
+        "lat": 33.49,
+        "lng": -112.07
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Nicknamed the City of Brotherly Love, it's home to the Liberty Bell and Independence Hall.",
+        "answer": "Philadelphia, PA",
+        "lat": 39.9526,
+        "lng": -75.1652
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Connecticut's state capital along the Connecticut River was once the center of the American insurance industry.",
+        "answer": "Hartford, CT",
+        "lat": 41.7658,
+        "lng": -72.6851
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Utah's smallest national park is packed with over 2,000 natural sandstone arches, including Delicate Arch.",
+        "answer": "Arches National Park, UT",
+        "lat": 38.7331,
+        "lng": -109.5925
+      }
+    ]
+  },
+  "2026-03-17": {
+    "puzzleNumber": 6,
+    "title": "Puzzle #6",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "state_capital",
+        "clue": "This South Dakota capital sits on the Missouri River and has a population of just over 14,000.",
+        "answer": "Pierre, SD",
+        "lat": 44.3683,
+        "lng": -100.351
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "This Montana park is called the Crown of the Continent and has over 700 miles of trails through pristine wilderness.",
+        "answer": "Glacier National Park, MT",
+        "lat": 48.7596,
+        "lng": -113.787
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Abraham Lincoln sits enthroned at the west end of the National Mall in Washington, DC.",
+        "answer": "Lincoln Memorial, DC",
+        "lat": 38.8893,
+        "lng": -77.0502
+      },
+      {
+        "id": 4,
+        "type": "city",
+        "clue": "This Massachusetts city is home to the Red Sox, Harvard, and MIT.",
+        "answer": "Boston, MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "This California county on the Pacific coast is home to San Diego, the nation's eighth largest city.",
+        "answer": "San Diego County, CA",
+        "lat": 32.71,
+        "lng": -116.96
+      }
+    ]
+  },
+  "2026-03-18": {
+    "puzzleNumber": 7,
+    "title": "Puzzle #7",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "county",
+        "clue": "Home to Disneyland and Anaheim, this Southern California county is the second most populous in the state.",
+        "answer": "Orange County, CA",
+        "lat": 33.72,
+        "lng": -117.75
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "The capital of New Mexico is the oldest state capital city in the US, founded by the Spanish in 1610.",
+        "answer": "Santa Fe, NM",
+        "lat": 35.687,
+        "lng": -105.9378
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Sin City sits in the Mojave Desert and is famous for its casinos and the Strip.",
+        "answer": "Las Vegas, NV",
+        "lat": 36.1699,
+        "lng": -115.1398
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "The park with the most visitors in the US straddles the Tennessee-North Carolina border in the Blue Ridge Mountains.",
+        "answer": "Great Smoky Mountains National Park, TN/NC",
+        "lat": 35.6118,
+        "lng": -83.4895
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "This 102-story Art Deco skyscraper on Fifth Avenue was the world's tallest building from 1931 to 1970.",
+        "answer": "Empire State Building, NY",
+        "lat": 40.7484,
+        "lng": -73.9967
+      }
+    ]
+  },
+  "2026-03-19": {
+    "puzzleNumber": 8,
+    "title": "Puzzle #8",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "The Music City, home to the Grand Ole Opry and country music's biggest stars.",
+        "answer": "Nashville, TN",
+        "lat": 36.1627,
+        "lng": -86.7816
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Atop Queen Anne Hill in Seattle, this 605-foot tower was built for the 1962 World's Fair.",
+        "answer": "Space Needle, WA",
+        "lat": 47.6205,
+        "lng": -122.3493
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Utah's first national park is famous for its towering red cliffs and the Virgin River Narrows.",
+        "answer": "Zion National Park, UT",
+        "lat": 37.2982,
+        "lng": -113.0263
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "This Florida county is the most populous in the state, home to Miami and its beaches.",
+        "answer": "Miami-Dade County, FL",
+        "lat": 25.55,
+        "lng": -80.62
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "This Wyoming capital is nicknamed the Magic City of the Plains and is the least populous state capital.",
+        "answer": "Cheyenne, WY",
+        "lat": 41.14,
+        "lng": -104.8202
+      }
+    ]
+  },
+  "2026-03-20": {
+    "puzzleNumber": 9,
+    "title": "Puzzle #9",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "national_park",
+        "clue": "Named for its pink-red hoodoo rock spires, this Utah park sits on the Paunsaugunt Plateau.",
+        "answer": "Bryce Canyon National Park, UT",
+        "lat": 37.593,
+        "lng": -112.1871
+      },
+      {
+        "id": 2,
+        "type": "city",
+        "clue": "This Texas city is the largest in the US by area and home to NASA's Johnson Space Center.",
+        "answer": "Houston, TX",
+        "lat": 29.7604,
+        "lng": -95.3698
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Idaho's capital city sits on the Boise River at the foot of the Rocky Mountains.",
+        "answer": "Boise, ID",
+        "lat": 43.615,
+        "lng": -116.2023
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Built in the Nevada desert during the Great Depression, this concrete arch-gravity dam on the Colorado River was the world's tallest when completed.",
+        "answer": "Hoover Dam, NV/AZ",
+        "lat": 36.0161,
+        "lng": -114.7377
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "The most populous county in Texas encompasses Dallas and many of its suburbs.",
+        "answer": "Dallas County, TX",
+        "lat": 32.77,
+        "lng": -96.78
+      }
+    ]
+  },
+  "2026-03-21": {
+    "puzzleNumber": 10,
+    "title": "Puzzle #10",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "landmark",
+        "clue": "This cracked iron bell in Philadelphia rang to summon lawmakers to hear the first public reading of the Declaration of Independence.",
+        "answer": "Liberty Bell, PA",
+        "lat": 39.9496,
+        "lng": -75.1503
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "This Nevada county in the Mojave Desert is home to Las Vegas and over 2 million people.",
+        "answer": "Clark County, NV",
+        "lat": 36.2,
+        "lng": -115.01
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Nicknamed the City of Angels, it's the entertainment capital of the world.",
+        "answer": "Los Angeles, CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "The capital of Maryland sits on the Severn River and is home to the US Naval Academy.",
+        "answer": "Annapolis, MD",
+        "lat": 38.9784,
+        "lng": -76.4922
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "This Colorado park offers 14,000-foot peaks, alpine meadows, and the highest paved road in the US.",
+        "answer": "Rocky Mountain National Park, CO",
+        "lat": 40.3428,
+        "lng": -105.6836
+      }
+    ]
+  },
+  "2026-03-22": {
+    "puzzleNumber": 11,
+    "title": "Puzzle #11",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "state_capital",
+        "clue": "This Kentucky capital is located on the Kentucky River and is famous for bourbon whiskey production.",
+        "answer": "Frankfort, KY",
+        "lat": 38.2009,
+        "lng": -84.8733
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "The rainiest national park in the Lower 48, this Washington park on the Olympic Peninsula features temperate rainforests.",
+        "answer": "Olympic National Park, WA",
+        "lat": 47.8021,
+        "lng": -123.6044
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Built in 1718, this Spanish mission in San Antonio is famous for the 1836 battle where Davy Crockett fell.",
+        "answer": "The Alamo, TX",
+        "lat": 29.426,
+        "lng": -98.4861
+      },
+      {
+        "id": 4,
+        "type": "city",
+        "clue": "This Arizona city is the most populous state capital in the US and gets over 300 sunny days a year.",
+        "answer": "Phoenix, AZ",
+        "lat": 33.4484,
+        "lng": -112.074
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "Washington state's most populous county includes Seattle, Bellevue, and Redmond \u2014 home to Microsoft's headquarters.",
+        "answer": "King County, WA",
+        "lat": 47.53,
+        "lng": -121.83
+      }
+    ]
+  },
+  "2026-03-23": {
+    "puzzleNumber": 12,
+    "title": "Puzzle #12",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "county",
+        "clue": "This Texas county surrounding Fort Worth is the second most populous in the Dallas-Fort Worth metroplex.",
+        "answer": "Tarrant County, TX",
+        "lat": 32.78,
+        "lng": -97.29
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Iowa's capital and largest city sits at the confluence of the Raccoon and Des Moines rivers.",
+        "answer": "Des Moines, IA",
+        "lat": 41.5868,
+        "lng": -93.625
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Home to the Alamo and the River Walk, this Texas city is the nation's seventh largest.",
+        "answer": "San Antonio, TX",
+        "lat": 29.4241,
+        "lng": -98.4936
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "This Maine park on Mount Desert Island has the first sunrise in the continental US each morning.",
+        "answer": "Acadia National Park, ME",
+        "lat": 44.3386,
+        "lng": -68.2733
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "At 1,776 feet, this glass-and-steel tower in Lower Manhattan is the tallest building in the Western Hemisphere.",
+        "answer": "One World Trade Center, NY",
+        "lat": 40.7127,
+        "lng": -74.0134
+      }
+    ]
+  },
+  "2026-03-24": {
+    "puzzleNumber": 13,
+    "title": "Puzzle #13",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Perched on seven hills by the bay, this city is famous for cable cars and sourdough bread.",
+        "answer": "San Francisco, CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "This sign high above the Hollywood Hills has watched over Los Angeles since 1923 \u2014 it originally read 'HOLLYWOODLAND'.",
+        "answer": "Hollywood Sign, CA",
+        "lat": 34.1341,
+        "lng": -118.3215
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "The hottest and driest national park in North America sits below sea level in eastern California.",
+        "answer": "Death Valley National Park, CA",
+        "lat": 36.5054,
+        "lng": -117.0794
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "Michigan's most populous county encompasses Detroit and the older suburbs to its east and south.",
+        "answer": "Wayne County, MI",
+        "lat": 42.33,
+        "lng": -83.05
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Montana's capital city in the Rocky Mountain foothills was founded during the gold rush era.",
+        "answer": "Helena, MT",
+        "lat": 46.5958,
+        "lng": -112.027
+      }
+    ]
+  },
+  "2026-03-25": {
+    "puzzleNumber": 14,
+    "title": "Puzzle #14",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "national_park",
+        "clue": "This active volcanic park on Hawaii's Big Island features two of the world's most active volcanoes.",
+        "answer": "Hawaii Volcanoes National Park, HI",
+        "lat": 19.4194,
+        "lng": -155.2885
+      },
+      {
+        "id": 2,
+        "type": "city",
+        "clue": "This Ohio city on Lake Erie was once called the Mistake on the Lake but is home to the Rock and Roll Hall of Fame.",
+        "answer": "Cleveland, OH",
+        "lat": 41.4993,
+        "lng": -81.6944
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "This North Dakota capital sits on the Missouri River and is named after German Chancellor Otto von Bismarck.",
+        "answer": "Bismarck, ND",
+        "lat": 46.8083,
+        "lng": -100.7837
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "The nation's founding documents were signed in this Philadelphia hall, now a UNESCO World Heritage Site.",
+        "answer": "Independence Hall, PA",
+        "lat": 39.9489,
+        "lng": -75.15
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "This Southern California county stretches from the San Bernardino Mountains to the Salton Sea.",
+        "answer": "Riverside County, CA",
+        "lat": 33.75,
+        "lng": -115.98
+      }
+    ]
+  },
+  "2026-03-26": {
+    "puzzleNumber": 15,
+    "title": "Puzzle #15",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "landmark",
+        "clue": "Plummeting 167 feet on the US-Canada border, these falls are the most powerful in North America.",
+        "answer": "Niagara Falls, NY",
+        "lat": 43.0962,
+        "lng": -79.0377
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "Home to Apple, Google, and Meta headquarters, this Bay Area county is the heart of Silicon Valley.",
+        "answer": "Santa Clara County, CA",
+        "lat": 37.23,
+        "lng": -121.97
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "The Mile High City sits exactly 5,280 feet above sea level at the foot of the Rockies.",
+        "answer": "Denver, CO",
+        "lat": 39.7392,
+        "lng": -104.9903
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Nebraska's capital city is home to the University of Nebraska and Husker football.",
+        "answer": "Lincoln, NE",
+        "lat": 40.8136,
+        "lng": -96.7026
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Florida's only national park covering the southern tip of the Everglades protects the largest tropical wilderness in the US.",
+        "answer": "Everglades National Park, FL",
+        "lat": 25.2866,
+        "lng": -80.8987
+      }
+    ]
+  },
+  "2026-03-27": {
+    "puzzleNumber": 16,
+    "title": "Puzzle #16",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "state_capital",
+        "clue": "Nevada's capital sits in the Carson Valley east of the Sierra Nevada and is named after frontiersman Kit Carson.",
+        "answer": "Carson City, NV",
+        "lat": 39.1638,
+        "lng": -119.7674
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "This Oregon park features the deepest lake in the US, formed in a collapsed volcano caldera, known for its vivid blue color.",
+        "answer": "Crater Lake National Park, OR",
+        "lat": 42.9446,
+        "lng": -122.109
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Elvis Presley's colonial-revival mansion in Memphis became a museum after his death in 1977.",
+        "answer": "Graceland, TN",
+        "lat": 35.0453,
+        "lng": -90.0228
+      },
+      {
+        "id": 4,
+        "type": "city",
+        "clue": "This city on Puget Sound is the birthplace of Starbucks, Amazon, and grunge music.",
+        "answer": "Seattle, WA",
+        "lat": 47.6062,
+        "lng": -122.3321
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "This North Carolina county is home to Charlotte, the state's largest city and a major banking hub.",
+        "answer": "Mecklenburg County, NC",
+        "lat": 35.26,
+        "lng": -80.83
+      }
+    ]
+  },
+  "2026-03-28": {
+    "puzzleNumber": 17,
+    "title": "Puzzle #17",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "county",
+        "clue": "Tennessee's most populous county encompasses Memphis and sits on the Mississippi River.",
+        "answer": "Shelby County, TN",
+        "lat": 35.18,
+        "lng": -89.98
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "New Hampshire's capital on the Merrimack River is home to Saint Anselm College and the first primary in presidential races.",
+        "answer": "Concord, NH",
+        "lat": 43.2081,
+        "lng": -71.5376
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Home to the Gateway Arch and once called the Gateway to the West, this Missouri city straddles the Mississippi.",
+        "answer": "St. Louis, MO",
+        "lat": 38.627,
+        "lng": -90.1994
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Washington state's highest peak, a glaciated stratovolcano, is surrounded by old-growth forests in this park.",
+        "answer": "Mount Rainier National Park, WA",
+        "lat": 46.8523,
+        "lng": -121.7603
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "This Florida complex launched every US crewed moon mission; its Vehicle Assembly Building is one of the largest structures in the world.",
+        "answer": "Kennedy Space Center, FL",
+        "lat": 28.5729,
+        "lng": -80.649
+      }
+    ]
+  },
+  "2026-03-29": {
+    "puzzleNumber": 18,
+    "title": "Puzzle #18",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "The Motor City, birthplace of the American automobile industry and Motown Records.",
+        "answer": "Detroit, MI",
+        "lat": 42.3314,
+        "lng": -83.0458
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Attacked on December 7, 1941, this Pearl Harbor battleship memorial straddles the sunken USS Arizona.",
+        "answer": "USS Arizona Memorial, HI",
+        "lat": 21.3645,
+        "lng": -157.9768
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Home to the world's tallest trees, this Northern California park protects ancient coastal redwood forests.",
+        "answer": "Redwood National Park, CA",
+        "lat": 41.2132,
+        "lng": -124.0046
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "This Alabama county contains Birmingham, the state's largest city, and has a legacy tied to the civil rights movement.",
+        "answer": "Jefferson County, AL",
+        "lat": 33.52,
+        "lng": -86.84
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "The capital of New Jersey sits across the Delaware River from Philadelphia.",
+        "answer": "Trenton, NJ",
+        "lat": 40.2171,
+        "lng": -74.7429
+      }
+    ]
+  },
+  "2026-03-30": {
+    "puzzleNumber": 19,
+    "title": "Puzzle #19",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "national_park",
+        "clue": "This park in the Chihuahuan Desert of New Mexico features the world's largest known cave room.",
+        "answer": "Carlsbad Caverns National Park, NM",
+        "lat": 32.1479,
+        "lng": -104.5567
+      },
+      {
+        "id": 2,
+        "type": "city",
+        "clue": "This city sits at the confluence of the Ohio, Allegheny, and Monongahela rivers and is known as the Steel City.",
+        "answer": "Pittsburgh, PA",
+        "lat": 40.4406,
+        "lng": -79.9959
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "This New York capital on the Hudson River has been the state capital since 1797.",
+        "answer": "Albany, NY",
+        "lat": 42.6526,
+        "lng": -73.7562
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Built on a rocky island in San Francisco Bay, this former maximum-security federal penitentiary housed Al Capone.",
+        "answer": "Alcatraz Island, CA",
+        "lat": 37.8267,
+        "lng": -122.423
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "The most densely populated county in the US is the island of Manhattan in New York City.",
+        "answer": "New York County (Manhattan), NY",
+        "lat": 40.7831,
+        "lng": -73.9712
+      }
+    ]
+  },
+  "2026-03-31": {
+    "puzzleNumber": 20,
+    "title": "Puzzle #20",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "landmark",
+        "clue": "This 110-story Chicago skyscraper, now known as Willis Tower, was the world's tallest building from 1973 to 1998.",
+        "answer": "Willis Tower, IL",
+        "lat": 41.8789,
+        "lng": -87.6359
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "This Ohio county on Lake Erie contains Cleveland and was once an industrial powerhouse of the Rust Belt.",
+        "answer": "Cuyahoga County, OH",
+        "lat": 41.45,
+        "lng": -81.68
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Nicknamed the Rose City, it sits near Mount Hood in the Pacific Northwest.",
+        "answer": "Portland, OR",
+        "lat": 45.5051,
+        "lng": -122.675
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Oregon's capital sits in the Willamette Valley between Portland and Eugene.",
+        "answer": "Salem, OR",
+        "lat": 44.9429,
+        "lng": -123.0351
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "The most remote national park in the US sits in the heart of the Brooks Range in northern Alaska.",
+        "answer": "Gates of the Arctic National Park, AK",
+        "lat": 67.7836,
+        "lng": -153.3006
+      }
+    ]
+  },
+  "2026-04-01": {
+    "puzzleNumber": 21,
+    "title": "Puzzle #21",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "state_capital",
+        "clue": "The capital of Washington state sits at the southern end of Puget Sound.",
+        "answer": "Olympia, WA",
+        "lat": 47.0379,
+        "lng": -122.9007
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "This South Dakota park's rugged terrain reveals fossils of prehistoric animals and colorful badlands formations.",
+        "answer": "Badlands National Park, SD",
+        "lat": 43.8554,
+        "lng": -102.3397
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "At 180 feet tall, this St. Louis arch is the world's tallest man-made monument and symbolizes westward expansion.",
+        "answer": "Gateway Arch, MO",
+        "lat": 38.6247,
+        "lng": -90.1848
+      },
+      {
+        "id": 4,
+        "type": "city",
+        "clue": "This Hawaiian city on Oahu is home to Waikiki Beach and Diamond Head crater.",
+        "answer": "Honolulu, HI",
+        "lat": 21.3069,
+        "lng": -157.8583
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "Florida's second most populous county, home to Fort Lauderdale and many Miami-area communities.",
+        "answer": "Broward County, FL",
+        "lat": 26.12,
+        "lng": -80.25
+      }
+    ]
+  },
+  "2026-04-02": {
+    "puzzleNumber": 22,
+    "title": "Puzzle #22",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "county",
+        "clue": "This San Francisco Bay Area county is home to Oakland, Berkeley, and the University of California's flagship campus.",
+        "answer": "Alameda County, CA",
+        "lat": 37.65,
+        "lng": -121.92
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "West Virginia's capital and largest city sits at the confluence of the Elk and Kanawha rivers.",
+        "answer": "Charleston, WV",
+        "lat": 38.3498,
+        "lng": -81.6326
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "The largest city in Alaska, sitting in the shadow of the Chugach Mountains.",
+        "answer": "Anchorage, AK",
+        "lat": 61.2181,
+        "lng": -149.9003
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Named after the 26th president, this North Dakota park protects the rugged badlands of the Little Missouri River valley.",
+        "answer": "Theodore Roosevelt National Park, ND",
+        "lat": 46.9797,
+        "lng": -103.538
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Four presidents are carved into the granite face of South Dakota's Black Hills.",
+        "answer": "Mount Rushmore, SD",
+        "lat": 43.8791,
+        "lng": -103.4591
+      }
+    ]
+  },
+  "2026-04-03": {
+    "puzzleNumber": 23,
+    "title": "Puzzle #23",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "This North Carolina city is the largest in the state and home to NASCAR's Hall of Fame.",
+        "answer": "Charlotte, NC",
+        "lat": 35.2271,
+        "lng": -80.8431
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "This Fenway Park landmark, the world's oldest professional baseball stadium, has been home to the Red Sox since 1912.",
+        "answer": "Fenway Park, MA",
+        "lat": 42.3467,
+        "lng": -71.0972
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "This Colorado park contains the largest concentration of ancient Ancestral Puebloan cliff dwellings in North America.",
+        "answer": "Mesa Verde National Park, CO",
+        "lat": 37.1853,
+        "lng": -108.4898
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "Home to the capital of Texas, this county also encompasses the University of Texas at Austin.",
+        "answer": "Travis County, TX",
+        "lat": 30.3,
+        "lng": -97.75
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Wisconsin's capital is home to the University of Wisconsin and sits on an isthmus between two lakes.",
+        "answer": "Madison, WI",
+        "lat": 43.0731,
+        "lng": -89.4012
+      }
+    ]
+  },
+  "2026-04-04": {
+    "puzzleNumber": 24,
+    "title": "Puzzle #24",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "national_park",
+        "clue": "A dormant volcano on Maui, this park features the world's largest dormant volcanic crater.",
+        "answer": "Haleakala National Park, HI",
+        "lat": 20.7204,
+        "lng": -156.1551
+      },
+      {
+        "id": 2,
+        "type": "city",
+        "clue": "Minnesota's largest city sits on the Mississippi headwaters and is known as the City of Lakes.",
+        "answer": "Minneapolis, MN",
+        "lat": 44.9778,
+        "lng": -93.265
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Pennsylvania's capital on the Susquehanna River has been the state capital since 1812.",
+        "answer": "Harrisburg, PA",
+        "lat": 40.2732,
+        "lng": -76.8867
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Built in 1914, this Chicago ballpark is famous for its ivy-covered brick outfield walls.",
+        "answer": "Wrigley Field, IL",
+        "lat": 41.9484,
+        "lng": -87.6553
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "This Georgia county containing Atlanta is one of the fastest-growing in the Southeast.",
+        "answer": "Fulton County, GA",
+        "lat": 33.79,
+        "lng": -84.46
+      }
+    ]
+  },
+  "2026-04-05": {
+    "puzzleNumber": 25,
+    "title": "Puzzle #25",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "landmark",
+        "clue": "This famous New Orleans street in the French Quarter is known for its Mardi Gras celebrations and vibrant nightlife.",
+        "answer": "Bourbon Street, LA",
+        "lat": 29.9584,
+        "lng": -90.0654
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "Maryland's most populous county borders Washington, DC, and is home to many federal workers.",
+        "answer": "Montgomery County, MD",
+        "lat": 39.15,
+        "lng": -77.2
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "This Florida city on Tampa Bay is known for Busch Gardens and its Latin-influenced Ybor City district.",
+        "answer": "Tampa, FL",
+        "lat": 27.9506,
+        "lng": -82.4572
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "The capital of South Carolina sits in the center of the state along the Congaree River.",
+        "answer": "Columbia, SC",
+        "lat": 34.0007,
+        "lng": -81.0348
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "This Texas park in the Chihuahuan Desert features the Rio Grande, hot springs, and the Chisos Mountains.",
+        "answer": "Big Bend National Park, TX",
+        "lat": 29.2498,
+        "lng": -103.2502
+      }
+    ]
+  },
+  "2026-04-06": {
+    "puzzleNumber": 26,
+    "title": "Puzzle #26",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "state_capital",
+        "clue": "Mississippi's capital and largest city sits on the Pearl River in the western part of the state.",
+        "answer": "Jackson, MS",
+        "lat": 32.2988,
+        "lng": -90.1848
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Kentucky's most visited attraction features the world's longest known cave system with over 400 miles of passageways.",
+        "answer": "Mammoth Cave National Park, KY",
+        "lat": 37.1862,
+        "lng": -86.1003
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "The crossroads of the world \u2014 this iconic intersection in Midtown Manhattan is famous for its billboards and New Year's Eve ball drop.",
+        "answer": "Times Square, NY",
+        "lat": 40.758,
+        "lng": -73.9855
+      },
+      {
+        "id": 4,
+        "type": "city",
+        "clue": "The Sunshine State's southernmost major city is famous for Art Deco, beaches, and vibrant nightlife.",
+        "answer": "Miami, FL",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "This Virginia county adjacent to Washington, DC, is home to the Pentagon and Crystal City.",
+        "answer": "Arlington County, VA",
+        "lat": 38.88,
+        "lng": -77.1
+      }
+    ]
+  },
+  "2026-04-07": {
+    "puzzleNumber": 27,
+    "title": "Puzzle #27",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "county",
+        "clue": "Colorado's most populous county contains Denver and is one of the fastest-growing large counties in the US.",
+        "answer": "Denver County, CO",
+        "lat": 39.7392,
+        "lng": -104.9903
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Missouri's capital sits on the Missouri River midway between St. Louis and Kansas City.",
+        "answer": "Jefferson City, MO",
+        "lat": 38.5767,
+        "lng": -92.1735
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Known as the Silicon Prairie, this Texas capital is home to the University of Texas and South by Southwest.",
+        "answer": "Austin, TX",
+        "lat": 30.2672,
+        "lng": -97.7431
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "This Arkansas park was the first land set aside by the US government for public use, known for its thermal springs.",
+        "answer": "Hot Springs National Park, AR",
+        "lat": 34.5217,
+        "lng": -93.0424
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "This massive five-sided building in Arlington, Virginia is the headquarters of the US Department of Defense.",
+        "answer": "The Pentagon, VA",
+        "lat": 38.8719,
+        "lng": -77.0563
+      }
+    ]
+  },
+  "2026-04-08": {
+    "puzzleNumber": 28,
+    "title": "Puzzle #28",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "This Indiana city hosts the world's most famous auto race every Memorial Day weekend.",
+        "answer": "Indianapolis, IN",
+        "lat": 39.7684,
+        "lng": -86.1581
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Rising 555 feet above the National Mall, this obelisk is the world's tallest stone structure.",
+        "answer": "Washington Monument, DC",
+        "lat": 38.8895,
+        "lng": -77.0353
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Located on Lake Superior, this Michigan island park is accessible only by boat or floatplane and is car-free.",
+        "answer": "Isle Royale National Park, MI",
+        "lat": 47.9953,
+        "lng": -88.909
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "The most populous county in the US, home to Los Angeles and Hollywood.",
+        "answer": "Los Angeles County, CA",
+        "lat": 34.3,
+        "lng": -118.22
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Maine's capital city on the Kennebec River is the largest city east of the Mississippi without a direct interstate connection.",
+        "answer": "Augusta, ME",
+        "lat": 44.3106,
+        "lng": -69.7795
+      }
+    ]
+  },
+  "2026-04-09": {
+    "puzzleNumber": 29,
+    "title": "Puzzle #29",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "national_park",
+        "clue": "Colorado's newest national park features towering sand dunes against the backdrop of the Sangre de Cristo Mountains.",
+        "answer": "Great Sand Dunes National Park, CO",
+        "lat": 37.7319,
+        "lng": -105.5943
+      },
+      {
+        "id": 2,
+        "type": "city",
+        "clue": "Ohio's state capital is home to Ohio State University and the nation's largest university campus.",
+        "answer": "Columbus, OH",
+        "lat": 39.9612,
+        "lng": -82.9988
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Michigan's capital city, not Detroit, is home to Michigan State University.",
+        "answer": "Lansing, MI",
+        "lat": 42.7325,
+        "lng": -84.5555
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "This copper statue given by France stands on Liberty Island in New York Harbor.",
+        "answer": "Statue of Liberty, NY",
+        "lat": 40.6892,
+        "lng": -74.0445
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "Illinois' most populous county encompasses Chicago and its inner suburbs.",
+        "answer": "Cook County, IL",
+        "lat": 41.84,
+        "lng": -87.82
+      }
+    ]
+  },
+  "2026-04-10": {
+    "puzzleNumber": 30,
+    "title": "Puzzle #30",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "landmark",
+        "clue": "Spanning the Golden Gate strait, this iconic suspension bridge in San Francisco is painted International Orange.",
+        "answer": "Golden Gate Bridge, CA",
+        "lat": 37.8199,
+        "lng": -122.4783
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "Arizona's most populous county contains Phoenix, Scottsdale, and Tempe.",
+        "answer": "Maricopa County, AZ",
+        "lat": 33.49,
+        "lng": -112.07
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "This Maryland city on the Chesapeake Bay is known for its crabs, the Inner Harbor, and Johns Hopkins University.",
+        "answer": "Baltimore, MD",
+        "lat": 39.2904,
+        "lng": -76.6122
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "The Twin Cities' less-famous half, this city is actually Minnesota's capital.",
+        "answer": "St. Paul, MN",
+        "lat": 44.9537,
+        "lng": -93.09
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "This Nevada park is one of the darkest night-sky locations in the US and contains Lehman Caves.",
+        "answer": "Great Basin National Park, NV",
+        "lat": 38.983,
+        "lng": -114.3
+      }
+    ]
+  },
+  "2026-04-11": {
+    "puzzleNumber": 31,
+    "title": "Puzzle #31",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "state_capital",
+        "clue": "Alabama's capital city was the first capital of the Confederacy in 1861.",
+        "answer": "Montgomery, AL",
+        "lat": 32.3792,
+        "lng": -86.3077
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "South Carolina's least-visited national park protects the largest intact expanse of old-growth bottomland hardwood forest in the Southeast.",
+        "answer": "Congaree National Park, SC",
+        "lat": 33.7948,
+        "lng": -80.782
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Abraham Lincoln sits enthroned at the west end of the National Mall in Washington, DC.",
+        "answer": "Lincoln Memorial, DC",
+        "lat": 38.8893,
+        "lng": -77.0502
+      },
+      {
+        "id": 4,
+        "type": "city",
+        "clue": "Kentucky's largest city sits on the Ohio River and is famous for the Kentucky Derby and Louisville Slugger bats.",
+        "answer": "Louisville, KY",
+        "lat": 38.2527,
+        "lng": -85.7585
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "This California county on the Pacific coast is home to San Diego, the nation's eighth largest city.",
+        "answer": "San Diego County, CA",
+        "lat": 32.71,
+        "lng": -116.96
+      }
+    ]
+  },
+  "2026-04-12": {
+    "puzzleNumber": 32,
+    "title": "Puzzle #32",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "county",
+        "clue": "Home to Disneyland and Anaheim, this Southern California county is the second most populous in the state.",
+        "answer": "Orange County, CA",
+        "lat": 33.72,
+        "lng": -117.75
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "The capital of Kansas sits on the Kansas River and is the geographic center of the contiguous US.",
+        "answer": "Topeka, KS",
+        "lat": 39.0558,
+        "lng": -95.689
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "The Crescent City \u2014 birthplace of jazz \u2014 sits at the mouth of the Mississippi River.",
+        "answer": "New Orleans, LA",
+        "lat": 29.9511,
+        "lng": -90.0715
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "This Ohio park along the Cuyahoga River protects a green corridor between Cleveland and Akron.",
+        "answer": "Cuyahoga Valley National Park, OH",
+        "lat": 41.2808,
+        "lng": -81.5678
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "This 102-story Art Deco skyscraper on Fifth Avenue was the world's tallest building from 1931 to 1970.",
+        "answer": "Empire State Building, NY",
+        "lat": 40.7484,
+        "lng": -73.9967
+      }
+    ]
+  },
+  "2026-04-13": {
+    "puzzleNumber": 33,
+    "title": "Puzzle #33",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "New Mexico's largest city sits in the Rio Grande valley and is known for its hot air balloon festival.",
+        "answer": "Albuquerque, NM",
+        "lat": 35.0844,
+        "lng": -106.6504
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Atop Queen Anne Hill in Seattle, this 605-foot tower was built for the 1962 World's Fair.",
+        "answer": "Space Needle, WA",
+        "lat": 47.6205,
+        "lng": -122.3493
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "The Grand Canyon was carved by the Colorado River over millions of years; it's a mile deep and 277 miles long.",
+        "answer": "Grand Canyon National Park, AZ",
+        "lat": 36.1069,
+        "lng": -112.1129
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "This Florida county is the most populous in the state, home to Miami and its beaches.",
+        "answer": "Miami-Dade County, FL",
+        "lat": 25.55,
+        "lng": -80.62
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "This small Vermont city is the least populous state capital in the US, home to just 8,000 people.",
+        "answer": "Montpelier, VT",
+        "lat": 44.2601,
+        "lng": -72.5754
+      }
+    ]
+  },
+  "2026-04-14": {
+    "puzzleNumber": 34,
+    "title": "Puzzle #34",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "national_park",
+        "clue": "This California park in the Sierra Nevada is home to Half Dome, El Capitan, and Yosemite Falls.",
+        "answer": "Yosemite National Park, CA",
+        "lat": 37.8651,
+        "lng": -119.5383
+      },
+      {
+        "id": 2,
+        "type": "city",
+        "clue": "This Kansas city on the Missouri border is famous for jazz, BBQ, and the Country Club Plaza.",
+        "answer": "Kansas City, MO",
+        "lat": 39.0997,
+        "lng": -94.5786
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Alaska's capital city is accessible only by boat or plane \u2014 no roads connect it to the rest of the state.",
+        "answer": "Juneau, AK",
+        "lat": 58.3005,
+        "lng": -134.4197
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Built in the Nevada desert during the Great Depression, this concrete arch-gravity dam on the Colorado River was the world's tallest when completed.",
+        "answer": "Hoover Dam, NV/AZ",
+        "lat": 36.0161,
+        "lng": -114.7377
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "The most populous county in Texas encompasses Dallas and many of its suburbs.",
+        "answer": "Dallas County, TX",
+        "lat": 32.77,
+        "lng": -96.78
+      }
+    ]
+  },
+  "2026-04-15": {
+    "puzzleNumber": 35,
+    "title": "Puzzle #35",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "landmark",
+        "clue": "This cracked iron bell in Philadelphia rang to summon lawmakers to hear the first public reading of the Declaration of Independence.",
+        "answer": "Liberty Bell, PA",
+        "lat": 39.9496,
+        "lng": -75.1503
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "This Nevada county in the Mojave Desert is home to Las Vegas and over 2 million people.",
+        "answer": "Clark County, NV",
+        "lat": 36.2,
+        "lng": -115.01
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Nebraska's largest city on the Missouri River is the hometown of Warren Buffett.",
+        "answer": "Omaha, NE",
+        "lat": 41.2565,
+        "lng": -95.9345
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Connecticut's state capital along the Connecticut River was once the center of the American insurance industry.",
+        "answer": "Hartford, CT",
+        "lat": 41.7658,
+        "lng": -72.6851
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Utah's smallest national park is packed with over 2,000 natural sandstone arches, including Delicate Arch.",
+        "answer": "Arches National Park, UT",
+        "lat": 38.7331,
+        "lng": -109.5925
+      }
+    ]
+  },
+  "2026-04-16": {
+    "puzzleNumber": 36,
+    "title": "Puzzle #36",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "state_capital",
+        "clue": "This South Dakota capital sits on the Missouri River and has a population of just over 14,000.",
+        "answer": "Pierre, SD",
+        "lat": 44.3683,
+        "lng": -100.351
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "This Montana park is called the Crown of the Continent and has over 700 miles of trails through pristine wilderness.",
+        "answer": "Glacier National Park, MT",
+        "lat": 48.7596,
+        "lng": -113.787
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Built in 1718, this Spanish mission in San Antonio is famous for the 1836 battle where Davy Crockett fell.",
+        "answer": "The Alamo, TX",
+        "lat": 29.426,
+        "lng": -98.4861
+      },
+      {
+        "id": 4,
+        "type": "city",
+        "clue": "This city at the southern tip of Manhattan is the most densely populated in the US.",
+        "answer": "New York, NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "Washington state's most populous county includes Seattle, Bellevue, and Redmond \u2014 home to Microsoft's headquarters.",
+        "answer": "King County, WA",
+        "lat": 47.53,
+        "lng": -121.83
+      }
+    ]
+  },
+  "2026-04-17": {
+    "puzzleNumber": 37,
+    "title": "Puzzle #37",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "county",
+        "clue": "This Texas county surrounding Fort Worth is the second most populous in the Dallas-Fort Worth metroplex.",
+        "answer": "Tarrant County, TX",
+        "lat": 32.78,
+        "lng": -97.29
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "The capital of New Mexico is the oldest state capital city in the US, founded by the Spanish in 1610.",
+        "answer": "Santa Fe, NM",
+        "lat": 35.687,
+        "lng": -105.9378
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "The Big Easy's neighbor, this city sits where the Red River meets the Mississippi and is Louisiana's capital.",
+        "answer": "Baton Rouge, LA",
+        "lat": 30.4515,
+        "lng": -91.1871
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "The park with the most visitors in the US straddles the Tennessee-North Carolina border in the Blue Ridge Mountains.",
+        "answer": "Great Smoky Mountains National Park, TN/NC",
+        "lat": 35.6118,
+        "lng": -83.4895
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "At 1,776 feet, this glass-and-steel tower in Lower Manhattan is the tallest building in the Western Hemisphere.",
+        "answer": "One World Trade Center, NY",
+        "lat": 40.7127,
+        "lng": -74.0134
+      }
+    ]
+  },
+  "2026-04-18": {
+    "puzzleNumber": 38,
+    "title": "Puzzle #38",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Wisconsin's largest city on Lake Michigan is known for Miller beer and the Harley-Davidson Museum.",
+        "answer": "Milwaukee, WI",
+        "lat": 43.0389,
+        "lng": -87.9065
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "This sign high above the Hollywood Hills has watched over Los Angeles since 1923 \u2014 it originally read 'HOLLYWOODLAND'.",
+        "answer": "Hollywood Sign, CA",
+        "lat": 34.1341,
+        "lng": -118.3215
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Utah's first national park is famous for its towering red cliffs and the Virgin River Narrows.",
+        "answer": "Zion National Park, UT",
+        "lat": 37.2982,
+        "lng": -113.0263
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "Michigan's most populous county encompasses Detroit and the older suburbs to its east and south.",
+        "answer": "Wayne County, MI",
+        "lat": 42.33,
+        "lng": -83.05
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "This Wyoming capital is nicknamed the Magic City of the Plains and is the least populous state capital.",
+        "answer": "Cheyenne, WY",
+        "lat": 41.14,
+        "lng": -104.8202
+      }
+    ]
+  },
+  "2026-04-19": {
+    "puzzleNumber": 39,
+    "title": "Puzzle #39",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "national_park",
+        "clue": "Named for its pink-red hoodoo rock spires, this Utah park sits on the Paunsaugunt Plateau.",
+        "answer": "Bryce Canyon National Park, UT",
+        "lat": 37.593,
+        "lng": -112.1871
+      },
+      {
+        "id": 2,
+        "type": "city",
+        "clue": "This city in the heart of Oklahoma was largely rebuilt after a devastating 1995 federal building bombing.",
+        "answer": "Oklahoma City, OK",
+        "lat": 35.4676,
+        "lng": -97.5164
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Idaho's capital city sits on the Boise River at the foot of the Rocky Mountains.",
+        "answer": "Boise, ID",
+        "lat": 43.615,
+        "lng": -116.2023
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "The nation's founding documents were signed in this Philadelphia hall, now a UNESCO World Heritage Site.",
+        "answer": "Independence Hall, PA",
+        "lat": 39.9489,
+        "lng": -75.15
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "This Southern California county stretches from the San Bernardino Mountains to the Salton Sea.",
+        "answer": "Riverside County, CA",
+        "lat": 33.75,
+        "lng": -115.98
+      }
+    ]
+  },
+  "2026-04-20": {
+    "puzzleNumber": 40,
+    "title": "Puzzle #40",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "landmark",
+        "clue": "Plummeting 167 feet on the US-Canada border, these falls are the most powerful in North America.",
+        "answer": "Niagara Falls, NY",
+        "lat": 43.0962,
+        "lng": -79.0377
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "Home to Apple, Google, and Meta headquarters, this Bay Area county is the heart of Silicon Valley.",
+        "answer": "Santa Clara County, CA",
+        "lat": 37.23,
+        "lng": -121.97
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Virginia's capital along the James River served as the capital of the Confederacy.",
+        "answer": "Richmond, VA",
+        "lat": 37.5407,
+        "lng": -77.436
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "The capital of Maryland sits on the Severn River and is home to the US Naval Academy.",
+        "answer": "Annapolis, MD",
+        "lat": 38.9784,
+        "lng": -76.4922
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "This Colorado park offers 14,000-foot peaks, alpine meadows, and the highest paved road in the US.",
+        "answer": "Rocky Mountain National Park, CO",
+        "lat": 40.3428,
+        "lng": -105.6836
+      }
+    ]
+  },
+  "2026-04-21": {
+    "puzzleNumber": 41,
+    "title": "Puzzle #41",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "state_capital",
+        "clue": "This Kentucky capital is located on the Kentucky River and is famous for bourbon whiskey production.",
+        "answer": "Frankfort, KY",
+        "lat": 38.2009,
+        "lng": -84.8733
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "The rainiest national park in the Lower 48, this Washington park on the Olympic Peninsula features temperate rainforests.",
+        "answer": "Olympic National Park, WA",
+        "lat": 47.8021,
+        "lng": -123.6044
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Elvis Presley's colonial-revival mansion in Memphis became a museum after his death in 1977.",
+        "answer": "Graceland, TN",
+        "lat": 35.0453,
+        "lng": -90.0228
+      },
+      {
+        "id": 4,
+        "type": "city",
+        "clue": "This Utah city sits near the Great Salt Lake and is headquarters to the Church of Jesus Christ of Latter-day Saints.",
+        "answer": "Salt Lake City, UT",
+        "lat": 40.7608,
+        "lng": -111.891
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "This North Carolina county is home to Charlotte, the state's largest city and a major banking hub.",
+        "answer": "Mecklenburg County, NC",
+        "lat": 35.26,
+        "lng": -80.83
+      }
+    ]
+  },
+  "2026-04-22": {
+    "puzzleNumber": 42,
+    "title": "Puzzle #42",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "county",
+        "clue": "Tennessee's most populous county encompasses Memphis and sits on the Mississippi River.",
+        "answer": "Shelby County, TN",
+        "lat": 35.18,
+        "lng": -89.98
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Iowa's capital and largest city sits at the confluence of the Raccoon and Des Moines rivers.",
+        "answer": "Des Moines, IA",
+        "lat": 41.5868,
+        "lng": -93.625
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Tucked in the Santa Cruz Mountains, this California city is the tech hub of Silicon Valley.",
+        "answer": "San Jose, CA",
+        "lat": 37.3382,
+        "lng": -121.8863
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "This Maine park on Mount Desert Island has the first sunrise in the continental US each morning.",
+        "answer": "Acadia National Park, ME",
+        "lat": 44.3386,
+        "lng": -68.2733
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "This Florida complex launched every US crewed moon mission; its Vehicle Assembly Building is one of the largest structures in the world.",
+        "answer": "Kennedy Space Center, FL",
+        "lat": 28.5729,
+        "lng": -80.649
+      }
+    ]
+  },
+  "2026-04-23": {
+    "puzzleNumber": 43,
+    "title": "Puzzle #43",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "The birthplace of Elvis Presley and home to Graceland, this Tennessee city sits on the Mississippi River.",
+        "answer": "Memphis, TN",
+        "lat": 35.1495,
+        "lng": -90.049
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Attacked on December 7, 1941, this Pearl Harbor battleship memorial straddles the sunken USS Arizona.",
+        "answer": "USS Arizona Memorial, HI",
+        "lat": 21.3645,
+        "lng": -157.9768
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "The hottest and driest national park in North America sits below sea level in eastern California.",
+        "answer": "Death Valley National Park, CA",
+        "lat": 36.5054,
+        "lng": -117.0794
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "This Alabama county contains Birmingham, the state's largest city, and has a legacy tied to the civil rights movement.",
+        "answer": "Jefferson County, AL",
+        "lat": 33.52,
+        "lng": -86.84
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Montana's capital city in the Rocky Mountain foothills was founded during the gold rush era.",
+        "answer": "Helena, MT",
+        "lat": 46.5958,
+        "lng": -112.027
+      }
+    ]
+  },
+  "2026-04-24": {
+    "puzzleNumber": 44,
+    "title": "Puzzle #44",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "national_park",
+        "clue": "This active volcanic park on Hawaii's Big Island features two of the world's most active volcanoes.",
+        "answer": "Hawaii Volcanoes National Park, HI",
+        "lat": 19.4194,
+        "lng": -155.2885
+      },
+      {
+        "id": 2,
+        "type": "city",
+        "clue": "This Georgia city hosted the 1996 Summer Olympics and is headquarters to Coca-Cola and CNN.",
+        "answer": "Atlanta, GA",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "This North Dakota capital sits on the Missouri River and is named after German Chancellor Otto von Bismarck.",
+        "answer": "Bismarck, ND",
+        "lat": 46.8083,
+        "lng": -100.7837
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Built on a rocky island in San Francisco Bay, this former maximum-security federal penitentiary housed Al Capone.",
+        "answer": "Alcatraz Island, CA",
+        "lat": 37.8267,
+        "lng": -122.423
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "The most densely populated county in the US is the island of Manhattan in New York City.",
+        "answer": "New York County (Manhattan), NY",
+        "lat": 40.7831,
+        "lng": -73.9712
+      }
+    ]
+  },
+  "2026-04-25": {
+    "puzzleNumber": 45,
+    "title": "Puzzle #45",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "landmark",
+        "clue": "This 110-story Chicago skyscraper, now known as Willis Tower, was the world's tallest building from 1973 to 1998.",
+        "answer": "Willis Tower, IL",
+        "lat": 41.8789,
+        "lng": -87.6359
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "This Ohio county on Lake Erie contains Cleveland and was once an industrial powerhouse of the Rust Belt.",
+        "answer": "Cuyahoga County, OH",
+        "lat": 41.45,
+        "lng": -81.68
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Nicknamed the City of Brotherly Love, it's home to the Liberty Bell and Independence Hall.",
+        "answer": "Philadelphia, PA",
+        "lat": 39.9526,
+        "lng": -75.1652
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Nebraska's capital city is home to the University of Nebraska and Husker football.",
+        "answer": "Lincoln, NE",
+        "lat": 40.8136,
+        "lng": -96.7026
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Florida's only national park covering the southern tip of the Everglades protects the largest tropical wilderness in the US.",
+        "answer": "Everglades National Park, FL",
+        "lat": 25.2866,
+        "lng": -80.8987
+      }
+    ]
+  },
+  "2026-04-26": {
+    "puzzleNumber": 46,
+    "title": "Puzzle #46",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "state_capital",
+        "clue": "Nevada's capital sits in the Carson Valley east of the Sierra Nevada and is named after frontiersman Kit Carson.",
+        "answer": "Carson City, NV",
+        "lat": 39.1638,
+        "lng": -119.7674
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "This Oregon park features the deepest lake in the US, formed in a collapsed volcano caldera, known for its vivid blue color.",
+        "answer": "Crater Lake National Park, OR",
+        "lat": 42.9446,
+        "lng": -122.109
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "At 180 feet tall, this St. Louis arch is the world's tallest man-made monument and symbolizes westward expansion.",
+        "answer": "Gateway Arch, MO",
+        "lat": 38.6247,
+        "lng": -90.1848
+      },
+      {
+        "id": 4,
+        "type": "city",
+        "clue": "This Massachusetts city is home to the Red Sox, Harvard, and MIT.",
+        "answer": "Boston, MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "Florida's second most populous county, home to Fort Lauderdale and many Miami-area communities.",
+        "answer": "Broward County, FL",
+        "lat": 26.12,
+        "lng": -80.25
+      }
+    ]
+  },
+  "2026-04-27": {
+    "puzzleNumber": 47,
+    "title": "Puzzle #47",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "county",
+        "clue": "This San Francisco Bay Area county is home to Oakland, Berkeley, and the University of California's flagship campus.",
+        "answer": "Alameda County, CA",
+        "lat": 37.65,
+        "lng": -121.92
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "New Hampshire's capital on the Merrimack River is home to Saint Anselm College and the first primary in presidential races.",
+        "answer": "Concord, NH",
+        "lat": 43.2081,
+        "lng": -71.5376
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Sin City sits in the Mojave Desert and is famous for its casinos and the Strip.",
+        "answer": "Las Vegas, NV",
+        "lat": 36.1699,
+        "lng": -115.1398
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Washington state's highest peak, a glaciated stratovolcano, is surrounded by old-growth forests in this park.",
+        "answer": "Mount Rainier National Park, WA",
+        "lat": 46.8523,
+        "lng": -121.7603
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Four presidents are carved into the granite face of South Dakota's Black Hills.",
+        "answer": "Mount Rushmore, SD",
+        "lat": 43.8791,
+        "lng": -103.4591
+      }
+    ]
+  },
+  "2026-04-28": {
+    "puzzleNumber": 48,
+    "title": "Puzzle #48",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "The Music City, home to the Grand Ole Opry and country music's biggest stars.",
+        "answer": "Nashville, TN",
+        "lat": 36.1627,
+        "lng": -86.7816
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "This Fenway Park landmark, the world's oldest professional baseball stadium, has been home to the Red Sox since 1912.",
+        "answer": "Fenway Park, MA",
+        "lat": 42.3467,
+        "lng": -71.0972
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Home to the world's tallest trees, this Northern California park protects ancient coastal redwood forests.",
+        "answer": "Redwood National Park, CA",
+        "lat": 41.2132,
+        "lng": -124.0046
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "Home to the capital of Texas, this county also encompasses the University of Texas at Austin.",
+        "answer": "Travis County, TX",
+        "lat": 30.3,
+        "lng": -97.75
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "The capital of New Jersey sits across the Delaware River from Philadelphia.",
+        "answer": "Trenton, NJ",
+        "lat": 40.2171,
+        "lng": -74.7429
+      }
+    ]
+  },
+  "2026-04-29": {
+    "puzzleNumber": 49,
+    "title": "Puzzle #49",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "national_park",
+        "clue": "This park in the Chihuahuan Desert of New Mexico features the world's largest known cave room.",
+        "answer": "Carlsbad Caverns National Park, NM",
+        "lat": 32.1479,
+        "lng": -104.5567
+      },
+      {
+        "id": 2,
+        "type": "city",
+        "clue": "This Texas city is the largest in the US by area and home to NASA's Johnson Space Center.",
+        "answer": "Houston, TX",
+        "lat": 29.7604,
+        "lng": -95.3698
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "This New York capital on the Hudson River has been the state capital since 1797.",
+        "answer": "Albany, NY",
+        "lat": 42.6526,
+        "lng": -73.7562
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Built in 1914, this Chicago ballpark is famous for its ivy-covered brick outfield walls.",
+        "answer": "Wrigley Field, IL",
+        "lat": 41.9484,
+        "lng": -87.6553
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "This Georgia county containing Atlanta is one of the fastest-growing in the Southeast.",
+        "answer": "Fulton County, GA",
+        "lat": 33.79,
+        "lng": -84.46
+      }
+    ]
+  },
+  "2026-04-30": {
+    "puzzleNumber": 50,
+    "title": "Puzzle #50",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "landmark",
+        "clue": "This famous New Orleans street in the French Quarter is known for its Mardi Gras celebrations and vibrant nightlife.",
+        "answer": "Bourbon Street, LA",
+        "lat": 29.9584,
+        "lng": -90.0654
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "Maryland's most populous county borders Washington, DC, and is home to many federal workers.",
+        "answer": "Montgomery County, MD",
+        "lat": 39.15,
+        "lng": -77.2
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Nicknamed the City of Angels, it's the entertainment capital of the world.",
+        "answer": "Los Angeles, CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Oregon's capital sits in the Willamette Valley between Portland and Eugene.",
+        "answer": "Salem, OR",
+        "lat": 44.9429,
+        "lng": -123.0351
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "The most remote national park in the US sits in the heart of the Brooks Range in northern Alaska.",
+        "answer": "Gates of the Arctic National Park, AK",
+        "lat": 67.7836,
+        "lng": -153.3006
+      }
+    ]
+  },
+  "2026-05-01": {
+    "puzzleNumber": 51,
+    "title": "Puzzle #51",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "state_capital",
+        "clue": "The capital of Washington state sits at the southern end of Puget Sound.",
+        "answer": "Olympia, WA",
+        "lat": 47.0379,
+        "lng": -122.9007
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "This South Dakota park's rugged terrain reveals fossils of prehistoric animals and colorful badlands formations.",
+        "answer": "Badlands National Park, SD",
+        "lat": 43.8554,
+        "lng": -102.3397
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "The crossroads of the world \u2014 this iconic intersection in Midtown Manhattan is famous for its billboards and New Year's Eve ball drop.",
+        "answer": "Times Square, NY",
+        "lat": 40.758,
+        "lng": -73.9855
+      },
+      {
+        "id": 4,
+        "type": "city",
+        "clue": "This Arizona city is the most populous state capital in the US and gets over 300 sunny days a year.",
+        "answer": "Phoenix, AZ",
+        "lat": 33.4484,
+        "lng": -112.074
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "This Virginia county adjacent to Washington, DC, is home to the Pentagon and Crystal City.",
+        "answer": "Arlington County, VA",
+        "lat": 38.88,
+        "lng": -77.1
+      }
+    ]
+  },
+  "2026-05-02": {
+    "puzzleNumber": 52,
+    "title": "Puzzle #52",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "county",
+        "clue": "Colorado's most populous county contains Denver and is one of the fastest-growing large counties in the US.",
+        "answer": "Denver County, CO",
+        "lat": 39.7392,
+        "lng": -104.9903
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "West Virginia's capital and largest city sits at the confluence of the Elk and Kanawha rivers.",
+        "answer": "Charleston, WV",
+        "lat": 38.3498,
+        "lng": -81.6326
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Home to the Alamo and the River Walk, this Texas city is the nation's seventh largest.",
+        "answer": "San Antonio, TX",
+        "lat": 29.4241,
+        "lng": -98.4936
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Named after the 26th president, this North Dakota park protects the rugged badlands of the Little Missouri River valley.",
+        "answer": "Theodore Roosevelt National Park, ND",
+        "lat": 46.9797,
+        "lng": -103.538
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "This massive five-sided building in Arlington, Virginia is the headquarters of the US Department of Defense.",
+        "answer": "The Pentagon, VA",
+        "lat": 38.8719,
+        "lng": -77.0563
+      }
+    ]
+  },
+  "2026-05-03": {
+    "puzzleNumber": 53,
+    "title": "Puzzle #53",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Perched on seven hills by the bay, this city is famous for cable cars and sourdough bread.",
+        "answer": "San Francisco, CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Rising 555 feet above the National Mall, this obelisk is the world's tallest stone structure.",
+        "answer": "Washington Monument, DC",
+        "lat": 38.8895,
+        "lng": -77.0353
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "This Colorado park contains the largest concentration of ancient Ancestral Puebloan cliff dwellings in North America.",
+        "answer": "Mesa Verde National Park, CO",
+        "lat": 37.1853,
+        "lng": -108.4898
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "The most populous county in the US, home to Los Angeles and Hollywood.",
+        "answer": "Los Angeles County, CA",
+        "lat": 34.3,
+        "lng": -118.22
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Wisconsin's capital is home to the University of Wisconsin and sits on an isthmus between two lakes.",
+        "answer": "Madison, WI",
+        "lat": 43.0731,
+        "lng": -89.4012
+      }
+    ]
+  },
+  "2026-05-04": {
+    "puzzleNumber": 54,
+    "title": "Puzzle #54",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "national_park",
+        "clue": "A dormant volcano on Maui, this park features the world's largest dormant volcanic crater.",
+        "answer": "Haleakala National Park, HI",
+        "lat": 20.7204,
+        "lng": -156.1551
+      },
+      {
+        "id": 2,
+        "type": "city",
+        "clue": "This Ohio city on Lake Erie was once called the Mistake on the Lake but is home to the Rock and Roll Hall of Fame.",
+        "answer": "Cleveland, OH",
+        "lat": 41.4993,
+        "lng": -81.6944
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Pennsylvania's capital on the Susquehanna River has been the state capital since 1812.",
+        "answer": "Harrisburg, PA",
+        "lat": 40.2732,
+        "lng": -76.8867
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "This copper statue given by France stands on Liberty Island in New York Harbor.",
+        "answer": "Statue of Liberty, NY",
+        "lat": 40.6892,
+        "lng": -74.0445
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "Illinois' most populous county encompasses Chicago and its inner suburbs.",
+        "answer": "Cook County, IL",
+        "lat": 41.84,
+        "lng": -87.82
+      }
+    ]
+  },
+  "2026-05-05": {
+    "puzzleNumber": 55,
+    "title": "Puzzle #55",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "landmark",
+        "clue": "Spanning the Golden Gate strait, this iconic suspension bridge in San Francisco is painted International Orange.",
+        "answer": "Golden Gate Bridge, CA",
+        "lat": 37.8199,
+        "lng": -122.4783
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "Arizona's most populous county contains Phoenix, Scottsdale, and Tempe.",
+        "answer": "Maricopa County, AZ",
+        "lat": 33.49,
+        "lng": -112.07
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "The Mile High City sits exactly 5,280 feet above sea level at the foot of the Rockies.",
+        "answer": "Denver, CO",
+        "lat": 39.7392,
+        "lng": -104.9903
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "The capital of South Carolina sits in the center of the state along the Congaree River.",
+        "answer": "Columbia, SC",
+        "lat": 34.0007,
+        "lng": -81.0348
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "This Texas park in the Chihuahuan Desert features the Rio Grande, hot springs, and the Chisos Mountains.",
+        "answer": "Big Bend National Park, TX",
+        "lat": 29.2498,
+        "lng": -103.2502
+      }
+    ]
+  },
+  "2026-05-06": {
+    "puzzleNumber": 56,
+    "title": "Puzzle #56",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "state_capital",
+        "clue": "Mississippi's capital and largest city sits on the Pearl River in the western part of the state.",
+        "answer": "Jackson, MS",
+        "lat": 32.2988,
+        "lng": -90.1848
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Kentucky's most visited attraction features the world's longest known cave system with over 400 miles of passageways.",
+        "answer": "Mammoth Cave National Park, KY",
+        "lat": 37.1862,
+        "lng": -86.1003
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Abraham Lincoln sits enthroned at the west end of the National Mall in Washington, DC.",
+        "answer": "Lincoln Memorial, DC",
+        "lat": 38.8893,
+        "lng": -77.0502
+      },
+      {
+        "id": 4,
+        "type": "city",
+        "clue": "This city on Puget Sound is the birthplace of Starbucks, Amazon, and grunge music.",
+        "answer": "Seattle, WA",
+        "lat": 47.6062,
+        "lng": -122.3321
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "This California county on the Pacific coast is home to San Diego, the nation's eighth largest city.",
+        "answer": "San Diego County, CA",
+        "lat": 32.71,
+        "lng": -116.96
+      }
+    ]
+  },
+  "2026-05-07": {
+    "puzzleNumber": 57,
+    "title": "Puzzle #57",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "county",
+        "clue": "Home to Disneyland and Anaheim, this Southern California county is the second most populous in the state.",
+        "answer": "Orange County, CA",
+        "lat": 33.72,
+        "lng": -117.75
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Missouri's capital sits on the Missouri River midway between St. Louis and Kansas City.",
+        "answer": "Jefferson City, MO",
+        "lat": 38.5767,
+        "lng": -92.1735
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Home to the Gateway Arch and once called the Gateway to the West, this Missouri city straddles the Mississippi.",
+        "answer": "St. Louis, MO",
+        "lat": 38.627,
+        "lng": -90.1994
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "This Arkansas park was the first land set aside by the US government for public use, known for its thermal springs.",
+        "answer": "Hot Springs National Park, AR",
+        "lat": 34.5217,
+        "lng": -93.0424
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "This 102-story Art Deco skyscraper on Fifth Avenue was the world's tallest building from 1931 to 1970.",
+        "answer": "Empire State Building, NY",
+        "lat": 40.7484,
+        "lng": -73.9967
+      }
+    ]
+  },
+  "2026-05-08": {
+    "puzzleNumber": 58,
+    "title": "Puzzle #58",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "The Motor City, birthplace of the American automobile industry and Motown Records.",
+        "answer": "Detroit, MI",
+        "lat": 42.3314,
+        "lng": -83.0458
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Atop Queen Anne Hill in Seattle, this 605-foot tower was built for the 1962 World's Fair.",
+        "answer": "Space Needle, WA",
+        "lat": 47.6205,
+        "lng": -122.3493
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Located on Lake Superior, this Michigan island park is accessible only by boat or floatplane and is car-free.",
+        "answer": "Isle Royale National Park, MI",
+        "lat": 47.9953,
+        "lng": -88.909
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "This Florida county is the most populous in the state, home to Miami and its beaches.",
+        "answer": "Miami-Dade County, FL",
+        "lat": 25.55,
+        "lng": -80.62
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Maine's capital city on the Kennebec River is the largest city east of the Mississippi without a direct interstate connection.",
+        "answer": "Augusta, ME",
+        "lat": 44.3106,
+        "lng": -69.7795
+      }
+    ]
+  },
+  "2026-05-09": {
+    "puzzleNumber": 59,
+    "title": "Puzzle #59",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "national_park",
+        "clue": "Colorado's newest national park features towering sand dunes against the backdrop of the Sangre de Cristo Mountains.",
+        "answer": "Great Sand Dunes National Park, CO",
+        "lat": 37.7319,
+        "lng": -105.5943
+      },
+      {
+        "id": 2,
+        "type": "city",
+        "clue": "This city sits at the confluence of the Ohio, Allegheny, and Monongahela rivers and is known as the Steel City.",
+        "answer": "Pittsburgh, PA",
+        "lat": 40.4406,
+        "lng": -79.9959
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Michigan's capital city, not Detroit, is home to Michigan State University.",
+        "answer": "Lansing, MI",
+        "lat": 42.7325,
+        "lng": -84.5555
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Built in the Nevada desert during the Great Depression, this concrete arch-gravity dam on the Colorado River was the world's tallest when completed.",
+        "answer": "Hoover Dam, NV/AZ",
+        "lat": 36.0161,
+        "lng": -114.7377
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "The most populous county in Texas encompasses Dallas and many of its suburbs.",
+        "answer": "Dallas County, TX",
+        "lat": 32.77,
+        "lng": -96.78
+      }
+    ]
+  },
+  "2026-05-10": {
+    "puzzleNumber": 60,
+    "title": "Puzzle #60",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "landmark",
+        "clue": "This cracked iron bell in Philadelphia rang to summon lawmakers to hear the first public reading of the Declaration of Independence.",
+        "answer": "Liberty Bell, PA",
+        "lat": 39.9496,
+        "lng": -75.1503
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "This Nevada county in the Mojave Desert is home to Las Vegas and over 2 million people.",
+        "answer": "Clark County, NV",
+        "lat": 36.2,
+        "lng": -115.01
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Nicknamed the Rose City, it sits near Mount Hood in the Pacific Northwest.",
+        "answer": "Portland, OR",
+        "lat": 45.5051,
+        "lng": -122.675
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "The Twin Cities' less-famous half, this city is actually Minnesota's capital.",
+        "answer": "St. Paul, MN",
+        "lat": 44.9537,
+        "lng": -93.09
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "This Nevada park is one of the darkest night-sky locations in the US and contains Lehman Caves.",
+        "answer": "Great Basin National Park, NV",
+        "lat": 38.983,
+        "lng": -114.3
+      }
+    ]
+  },
+  "2026-05-11": {
+    "puzzleNumber": 61,
+    "title": "Puzzle #61",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "state_capital",
+        "clue": "Alabama's capital city was the first capital of the Confederacy in 1861.",
+        "answer": "Montgomery, AL",
+        "lat": 32.3792,
+        "lng": -86.3077
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "South Carolina's least-visited national park protects the largest intact expanse of old-growth bottomland hardwood forest in the Southeast.",
+        "answer": "Congaree National Park, SC",
+        "lat": 33.7948,
+        "lng": -80.782
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Built in 1718, this Spanish mission in San Antonio is famous for the 1836 battle where Davy Crockett fell.",
+        "answer": "The Alamo, TX",
+        "lat": 29.426,
+        "lng": -98.4861
+      },
+      {
+        "id": 4,
+        "type": "city",
+        "clue": "This Hawaiian city on Oahu is home to Waikiki Beach and Diamond Head crater.",
+        "answer": "Honolulu, HI",
+        "lat": 21.3069,
+        "lng": -157.8583
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "Washington state's most populous county includes Seattle, Bellevue, and Redmond \u2014 home to Microsoft's headquarters.",
+        "answer": "King County, WA",
+        "lat": 47.53,
+        "lng": -121.83
+      }
+    ]
+  },
+  "2026-05-12": {
+    "puzzleNumber": 62,
+    "title": "Puzzle #62",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "county",
+        "clue": "This Texas county surrounding Fort Worth is the second most populous in the Dallas-Fort Worth metroplex.",
+        "answer": "Tarrant County, TX",
+        "lat": 32.78,
+        "lng": -97.29
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "The capital of Kansas sits on the Kansas River and is the geographic center of the contiguous US.",
+        "answer": "Topeka, KS",
+        "lat": 39.0558,
+        "lng": -95.689
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "The largest city in Alaska, sitting in the shadow of the Chugach Mountains.",
+        "answer": "Anchorage, AK",
+        "lat": 61.2181,
+        "lng": -149.9003
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "This Ohio park along the Cuyahoga River protects a green corridor between Cleveland and Akron.",
+        "answer": "Cuyahoga Valley National Park, OH",
+        "lat": 41.2808,
+        "lng": -81.5678
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "At 1,776 feet, this glass-and-steel tower in Lower Manhattan is the tallest building in the Western Hemisphere.",
+        "answer": "One World Trade Center, NY",
+        "lat": 40.7127,
+        "lng": -74.0134
+      }
+    ]
+  },
+  "2026-05-13": {
+    "puzzleNumber": 63,
+    "title": "Puzzle #63",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "This North Carolina city is the largest in the state and home to NASCAR's Hall of Fame.",
+        "answer": "Charlotte, NC",
+        "lat": 35.2271,
+        "lng": -80.8431
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "This sign high above the Hollywood Hills has watched over Los Angeles since 1923 \u2014 it originally read 'HOLLYWOODLAND'.",
+        "answer": "Hollywood Sign, CA",
+        "lat": 34.1341,
+        "lng": -118.3215
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "The Grand Canyon was carved by the Colorado River over millions of years; it's a mile deep and 277 miles long.",
+        "answer": "Grand Canyon National Park, AZ",
+        "lat": 36.1069,
+        "lng": -112.1129
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "Michigan's most populous county encompasses Detroit and the older suburbs to its east and south.",
+        "answer": "Wayne County, MI",
+        "lat": 42.33,
+        "lng": -83.05
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "This small Vermont city is the least populous state capital in the US, home to just 8,000 people.",
+        "answer": "Montpelier, VT",
+        "lat": 44.2601,
+        "lng": -72.5754
+      }
+    ]
+  },
+  "2026-05-14": {
+    "puzzleNumber": 64,
+    "title": "Puzzle #64",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "national_park",
+        "clue": "This California park in the Sierra Nevada is home to Half Dome, El Capitan, and Yosemite Falls.",
+        "answer": "Yosemite National Park, CA",
+        "lat": 37.8651,
+        "lng": -119.5383
+      },
+      {
+        "id": 2,
+        "type": "city",
+        "clue": "Minnesota's largest city sits on the Mississippi headwaters and is known as the City of Lakes.",
+        "answer": "Minneapolis, MN",
+        "lat": 44.9778,
+        "lng": -93.265
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Alaska's capital city is accessible only by boat or plane \u2014 no roads connect it to the rest of the state.",
+        "answer": "Juneau, AK",
+        "lat": 58.3005,
+        "lng": -134.4197
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "The nation's founding documents were signed in this Philadelphia hall, now a UNESCO World Heritage Site.",
+        "answer": "Independence Hall, PA",
+        "lat": 39.9489,
+        "lng": -75.15
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "This Southern California county stretches from the San Bernardino Mountains to the Salton Sea.",
+        "answer": "Riverside County, CA",
+        "lat": 33.75,
+        "lng": -115.98
+      }
+    ]
+  },
+  "2026-05-15": {
+    "puzzleNumber": 65,
+    "title": "Puzzle #65",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "landmark",
+        "clue": "Plummeting 167 feet on the US-Canada border, these falls are the most powerful in North America.",
+        "answer": "Niagara Falls, NY",
+        "lat": 43.0962,
+        "lng": -79.0377
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "Home to Apple, Google, and Meta headquarters, this Bay Area county is the heart of Silicon Valley.",
+        "answer": "Santa Clara County, CA",
+        "lat": 37.23,
+        "lng": -121.97
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "This Florida city on Tampa Bay is known for Busch Gardens and its Latin-influenced Ybor City district.",
+        "answer": "Tampa, FL",
+        "lat": 27.9506,
+        "lng": -82.4572
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Connecticut's state capital along the Connecticut River was once the center of the American insurance industry.",
+        "answer": "Hartford, CT",
+        "lat": 41.7658,
+        "lng": -72.6851
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Utah's smallest national park is packed with over 2,000 natural sandstone arches, including Delicate Arch.",
+        "answer": "Arches National Park, UT",
+        "lat": 38.7331,
+        "lng": -109.5925
+      }
+    ]
+  },
+  "2026-05-16": {
+    "puzzleNumber": 66,
+    "title": "Puzzle #66",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "state_capital",
+        "clue": "This South Dakota capital sits on the Missouri River and has a population of just over 14,000.",
+        "answer": "Pierre, SD",
+        "lat": 44.3683,
+        "lng": -100.351
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "This Montana park is called the Crown of the Continent and has over 700 miles of trails through pristine wilderness.",
+        "answer": "Glacier National Park, MT",
+        "lat": 48.7596,
+        "lng": -113.787
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Elvis Presley's colonial-revival mansion in Memphis became a museum after his death in 1977.",
+        "answer": "Graceland, TN",
+        "lat": 35.0453,
+        "lng": -90.0228
+      },
+      {
+        "id": 4,
+        "type": "city",
+        "clue": "The Sunshine State's southernmost major city is famous for Art Deco, beaches, and vibrant nightlife.",
+        "answer": "Miami, FL",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "This North Carolina county is home to Charlotte, the state's largest city and a major banking hub.",
+        "answer": "Mecklenburg County, NC",
+        "lat": 35.26,
+        "lng": -80.83
+      }
+    ]
+  },
+  "2026-05-17": {
+    "puzzleNumber": 67,
+    "title": "Puzzle #67",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "county",
+        "clue": "Tennessee's most populous county encompasses Memphis and sits on the Mississippi River.",
+        "answer": "Shelby County, TN",
+        "lat": 35.18,
+        "lng": -89.98
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "The capital of New Mexico is the oldest state capital city in the US, founded by the Spanish in 1610.",
+        "answer": "Santa Fe, NM",
+        "lat": 35.687,
+        "lng": -105.9378
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Known as the Silicon Prairie, this Texas capital is home to the University of Texas and South by Southwest.",
+        "answer": "Austin, TX",
+        "lat": 30.2672,
+        "lng": -97.7431
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "The park with the most visitors in the US straddles the Tennessee-North Carolina border in the Blue Ridge Mountains.",
+        "answer": "Great Smoky Mountains National Park, TN/NC",
+        "lat": 35.6118,
+        "lng": -83.4895
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "This Florida complex launched every US crewed moon mission; its Vehicle Assembly Building is one of the largest structures in the world.",
+        "answer": "Kennedy Space Center, FL",
+        "lat": 28.5729,
+        "lng": -80.649
+      }
+    ]
+  },
+  "2026-05-18": {
+    "puzzleNumber": 68,
+    "title": "Puzzle #68",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "This Indiana city hosts the world's most famous auto race every Memorial Day weekend.",
+        "answer": "Indianapolis, IN",
+        "lat": 39.7684,
+        "lng": -86.1581
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Attacked on December 7, 1941, this Pearl Harbor battleship memorial straddles the sunken USS Arizona.",
+        "answer": "USS Arizona Memorial, HI",
+        "lat": 21.3645,
+        "lng": -157.9768
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Utah's first national park is famous for its towering red cliffs and the Virgin River Narrows.",
+        "answer": "Zion National Park, UT",
+        "lat": 37.2982,
+        "lng": -113.0263
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "This Alabama county contains Birmingham, the state's largest city, and has a legacy tied to the civil rights movement.",
+        "answer": "Jefferson County, AL",
+        "lat": 33.52,
+        "lng": -86.84
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "This Wyoming capital is nicknamed the Magic City of the Plains and is the least populous state capital.",
+        "answer": "Cheyenne, WY",
+        "lat": 41.14,
+        "lng": -104.8202
+      }
+    ]
+  },
+  "2026-05-19": {
+    "puzzleNumber": 69,
+    "title": "Puzzle #69",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "national_park",
+        "clue": "Named for its pink-red hoodoo rock spires, this Utah park sits on the Paunsaugunt Plateau.",
+        "answer": "Bryce Canyon National Park, UT",
+        "lat": 37.593,
+        "lng": -112.1871
+      },
+      {
+        "id": 2,
+        "type": "city",
+        "clue": "Ohio's state capital is home to Ohio State University and the nation's largest university campus.",
+        "answer": "Columbus, OH",
+        "lat": 39.9612,
+        "lng": -82.9988
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Idaho's capital city sits on the Boise River at the foot of the Rocky Mountains.",
+        "answer": "Boise, ID",
+        "lat": 43.615,
+        "lng": -116.2023
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Built on a rocky island in San Francisco Bay, this former maximum-security federal penitentiary housed Al Capone.",
+        "answer": "Alcatraz Island, CA",
+        "lat": 37.8267,
+        "lng": -122.423
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "The most densely populated county in the US is the island of Manhattan in New York City.",
+        "answer": "New York County (Manhattan), NY",
+        "lat": 40.7831,
+        "lng": -73.9712
+      }
+    ]
+  },
+  "2026-05-20": {
+    "puzzleNumber": 70,
+    "title": "Puzzle #70",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "landmark",
+        "clue": "This 110-story Chicago skyscraper, now known as Willis Tower, was the world's tallest building from 1973 to 1998.",
+        "answer": "Willis Tower, IL",
+        "lat": 41.8789,
+        "lng": -87.6359
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "This Ohio county on Lake Erie contains Cleveland and was once an industrial powerhouse of the Rust Belt.",
+        "answer": "Cuyahoga County, OH",
+        "lat": 41.45,
+        "lng": -81.68
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "This Maryland city on the Chesapeake Bay is known for its crabs, the Inner Harbor, and Johns Hopkins University.",
+        "answer": "Baltimore, MD",
+        "lat": 39.2904,
+        "lng": -76.6122
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "The capital of Maryland sits on the Severn River and is home to the US Naval Academy.",
+        "answer": "Annapolis, MD",
+        "lat": 38.9784,
+        "lng": -76.4922
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "This Colorado park offers 14,000-foot peaks, alpine meadows, and the highest paved road in the US.",
+        "answer": "Rocky Mountain National Park, CO",
+        "lat": 40.3428,
+        "lng": -105.6836
+      }
+    ]
+  },
+  "2026-05-21": {
+    "puzzleNumber": 71,
+    "title": "Puzzle #71",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "state_capital",
+        "clue": "This Kentucky capital is located on the Kentucky River and is famous for bourbon whiskey production.",
+        "answer": "Frankfort, KY",
+        "lat": 38.2009,
+        "lng": -84.8733
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "The rainiest national park in the Lower 48, this Washington park on the Olympic Peninsula features temperate rainforests.",
+        "answer": "Olympic National Park, WA",
+        "lat": 47.8021,
+        "lng": -123.6044
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "At 180 feet tall, this St. Louis arch is the world's tallest man-made monument and symbolizes westward expansion.",
+        "answer": "Gateway Arch, MO",
+        "lat": 38.6247,
+        "lng": -90.1848
+      },
+      {
+        "id": 4,
+        "type": "city",
+        "clue": "Kentucky's largest city sits on the Ohio River and is famous for the Kentucky Derby and Louisville Slugger bats.",
+        "answer": "Louisville, KY",
+        "lat": 38.2527,
+        "lng": -85.7585
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "Florida's second most populous county, home to Fort Lauderdale and many Miami-area communities.",
+        "answer": "Broward County, FL",
+        "lat": 26.12,
+        "lng": -80.25
+      }
+    ]
+  },
+  "2026-05-22": {
+    "puzzleNumber": 72,
+    "title": "Puzzle #72",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "county",
+        "clue": "This San Francisco Bay Area county is home to Oakland, Berkeley, and the University of California's flagship campus.",
+        "answer": "Alameda County, CA",
+        "lat": 37.65,
+        "lng": -121.92
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Iowa's capital and largest city sits at the confluence of the Raccoon and Des Moines rivers.",
+        "answer": "Des Moines, IA",
+        "lat": 41.5868,
+        "lng": -93.625
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "The Crescent City \u2014 birthplace of jazz \u2014 sits at the mouth of the Mississippi River.",
+        "answer": "New Orleans, LA",
+        "lat": 29.9511,
+        "lng": -90.0715
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "This Maine park on Mount Desert Island has the first sunrise in the continental US each morning.",
+        "answer": "Acadia National Park, ME",
+        "lat": 44.3386,
+        "lng": -68.2733
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Four presidents are carved into the granite face of South Dakota's Black Hills.",
+        "answer": "Mount Rushmore, SD",
+        "lat": 43.8791,
+        "lng": -103.4591
+      }
+    ]
+  },
+  "2026-05-23": {
+    "puzzleNumber": 73,
+    "title": "Puzzle #73",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "New Mexico's largest city sits in the Rio Grande valley and is known for its hot air balloon festival.",
+        "answer": "Albuquerque, NM",
+        "lat": 35.0844,
+        "lng": -106.6504
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "This Fenway Park landmark, the world's oldest professional baseball stadium, has been home to the Red Sox since 1912.",
+        "answer": "Fenway Park, MA",
+        "lat": 42.3467,
+        "lng": -71.0972
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "The hottest and driest national park in North America sits below sea level in eastern California.",
+        "answer": "Death Valley National Park, CA",
+        "lat": 36.5054,
+        "lng": -117.0794
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "Home to the capital of Texas, this county also encompasses the University of Texas at Austin.",
+        "answer": "Travis County, TX",
+        "lat": 30.3,
+        "lng": -97.75
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Montana's capital city in the Rocky Mountain foothills was founded during the gold rush era.",
+        "answer": "Helena, MT",
+        "lat": 46.5958,
+        "lng": -112.027
+      }
+    ]
+  },
+  "2026-05-24": {
+    "puzzleNumber": 74,
+    "title": "Puzzle #74",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "national_park",
+        "clue": "This active volcanic park on Hawaii's Big Island features two of the world's most active volcanoes.",
+        "answer": "Hawaii Volcanoes National Park, HI",
+        "lat": 19.4194,
+        "lng": -155.2885
+      },
+      {
+        "id": 2,
+        "type": "city",
+        "clue": "This Kansas city on the Missouri border is famous for jazz, BBQ, and the Country Club Plaza.",
+        "answer": "Kansas City, MO",
+        "lat": 39.0997,
+        "lng": -94.5786
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "This North Dakota capital sits on the Missouri River and is named after German Chancellor Otto von Bismarck.",
+        "answer": "Bismarck, ND",
+        "lat": 46.8083,
+        "lng": -100.7837
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Built in 1914, this Chicago ballpark is famous for its ivy-covered brick outfield walls.",
+        "answer": "Wrigley Field, IL",
+        "lat": 41.9484,
+        "lng": -87.6553
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "This Georgia county containing Atlanta is one of the fastest-growing in the Southeast.",
+        "answer": "Fulton County, GA",
+        "lat": 33.79,
+        "lng": -84.46
+      }
+    ]
+  },
+  "2026-05-25": {
+    "puzzleNumber": 75,
+    "title": "Puzzle #75",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "landmark",
+        "clue": "This famous New Orleans street in the French Quarter is known for its Mardi Gras celebrations and vibrant nightlife.",
+        "answer": "Bourbon Street, LA",
+        "lat": 29.9584,
+        "lng": -90.0654
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "Maryland's most populous county borders Washington, DC, and is home to many federal workers.",
+        "answer": "Montgomery County, MD",
+        "lat": 39.15,
+        "lng": -77.2
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Nebraska's largest city on the Missouri River is the hometown of Warren Buffett.",
+        "answer": "Omaha, NE",
+        "lat": 41.2565,
+        "lng": -95.9345
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Nebraska's capital city is home to the University of Nebraska and Husker football.",
+        "answer": "Lincoln, NE",
+        "lat": 40.8136,
+        "lng": -96.7026
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Florida's only national park covering the southern tip of the Everglades protects the largest tropical wilderness in the US.",
+        "answer": "Everglades National Park, FL",
+        "lat": 25.2866,
+        "lng": -80.8987
+      }
+    ]
+  },
+  "2026-05-26": {
+    "puzzleNumber": 76,
+    "title": "Puzzle #76",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "state_capital",
+        "clue": "Nevada's capital sits in the Carson Valley east of the Sierra Nevada and is named after frontiersman Kit Carson.",
+        "answer": "Carson City, NV",
+        "lat": 39.1638,
+        "lng": -119.7674
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "This Oregon park features the deepest lake in the US, formed in a collapsed volcano caldera, known for its vivid blue color.",
+        "answer": "Crater Lake National Park, OR",
+        "lat": 42.9446,
+        "lng": -122.109
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "The crossroads of the world \u2014 this iconic intersection in Midtown Manhattan is famous for its billboards and New Year's Eve ball drop.",
+        "answer": "Times Square, NY",
+        "lat": 40.758,
+        "lng": -73.9855
+      },
+      {
+        "id": 4,
+        "type": "city",
+        "clue": "This city at the southern tip of Manhattan is the most densely populated in the US.",
+        "answer": "New York, NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "This Virginia county adjacent to Washington, DC, is home to the Pentagon and Crystal City.",
+        "answer": "Arlington County, VA",
+        "lat": 38.88,
+        "lng": -77.1
+      }
+    ]
+  },
+  "2026-05-27": {
+    "puzzleNumber": 77,
+    "title": "Puzzle #77",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "county",
+        "clue": "Colorado's most populous county contains Denver and is one of the fastest-growing large counties in the US.",
+        "answer": "Denver County, CO",
+        "lat": 39.7392,
+        "lng": -104.9903
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "New Hampshire's capital on the Merrimack River is home to Saint Anselm College and the first primary in presidential races.",
+        "answer": "Concord, NH",
+        "lat": 43.2081,
+        "lng": -71.5376
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "The Big Easy's neighbor, this city sits where the Red River meets the Mississippi and is Louisiana's capital.",
+        "answer": "Baton Rouge, LA",
+        "lat": 30.4515,
+        "lng": -91.1871
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Washington state's highest peak, a glaciated stratovolcano, is surrounded by old-growth forests in this park.",
+        "answer": "Mount Rainier National Park, WA",
+        "lat": 46.8523,
+        "lng": -121.7603
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "This massive five-sided building in Arlington, Virginia is the headquarters of the US Department of Defense.",
+        "answer": "The Pentagon, VA",
+        "lat": 38.8719,
+        "lng": -77.0563
+      }
+    ]
+  },
+  "2026-05-28": {
+    "puzzleNumber": 78,
+    "title": "Puzzle #78",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Wisconsin's largest city on Lake Michigan is known for Miller beer and the Harley-Davidson Museum.",
+        "answer": "Milwaukee, WI",
+        "lat": 43.0389,
+        "lng": -87.9065
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Rising 555 feet above the National Mall, this obelisk is the world's tallest stone structure.",
+        "answer": "Washington Monument, DC",
+        "lat": 38.8895,
+        "lng": -77.0353
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Home to the world's tallest trees, this Northern California park protects ancient coastal redwood forests.",
+        "answer": "Redwood National Park, CA",
+        "lat": 41.2132,
+        "lng": -124.0046
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "The most populous county in the US, home to Los Angeles and Hollywood.",
+        "answer": "Los Angeles County, CA",
+        "lat": 34.3,
+        "lng": -118.22
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "The capital of New Jersey sits across the Delaware River from Philadelphia.",
+        "answer": "Trenton, NJ",
+        "lat": 40.2171,
+        "lng": -74.7429
+      }
+    ]
+  },
+  "2026-05-29": {
+    "puzzleNumber": 79,
+    "title": "Puzzle #79",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "national_park",
+        "clue": "This park in the Chihuahuan Desert of New Mexico features the world's largest known cave room.",
+        "answer": "Carlsbad Caverns National Park, NM",
+        "lat": 32.1479,
+        "lng": -104.5567
+      },
+      {
+        "id": 2,
+        "type": "city",
+        "clue": "This city in the heart of Oklahoma was largely rebuilt after a devastating 1995 federal building bombing.",
+        "answer": "Oklahoma City, OK",
+        "lat": 35.4676,
+        "lng": -97.5164
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "This New York capital on the Hudson River has been the state capital since 1797.",
+        "answer": "Albany, NY",
+        "lat": 42.6526,
+        "lng": -73.7562
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "This copper statue given by France stands on Liberty Island in New York Harbor.",
+        "answer": "Statue of Liberty, NY",
+        "lat": 40.6892,
+        "lng": -74.0445
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "Illinois' most populous county encompasses Chicago and its inner suburbs.",
+        "answer": "Cook County, IL",
+        "lat": 41.84,
+        "lng": -87.82
+      }
+    ]
+  },
+  "2026-05-30": {
+    "puzzleNumber": 80,
+    "title": "Puzzle #80",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "landmark",
+        "clue": "Spanning the Golden Gate strait, this iconic suspension bridge in San Francisco is painted International Orange.",
+        "answer": "Golden Gate Bridge, CA",
+        "lat": 37.8199,
+        "lng": -122.4783
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "Arizona's most populous county contains Phoenix, Scottsdale, and Tempe.",
+        "answer": "Maricopa County, AZ",
+        "lat": 33.49,
+        "lng": -112.07
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Virginia's capital along the James River served as the capital of the Confederacy.",
+        "answer": "Richmond, VA",
+        "lat": 37.5407,
+        "lng": -77.436
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Oregon's capital sits in the Willamette Valley between Portland and Eugene.",
+        "answer": "Salem, OR",
+        "lat": 44.9429,
+        "lng": -123.0351
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "The most remote national park in the US sits in the heart of the Brooks Range in northern Alaska.",
+        "answer": "Gates of the Arctic National Park, AK",
+        "lat": 67.7836,
+        "lng": -153.3006
+      }
+    ]
+  },
+  "2026-05-31": {
+    "puzzleNumber": 81,
+    "title": "Puzzle #81",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "state_capital",
+        "clue": "The capital of Washington state sits at the southern end of Puget Sound.",
+        "answer": "Olympia, WA",
+        "lat": 47.0379,
+        "lng": -122.9007
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "This South Dakota park's rugged terrain reveals fossils of prehistoric animals and colorful badlands formations.",
+        "answer": "Badlands National Park, SD",
+        "lat": 43.8554,
+        "lng": -102.3397
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Abraham Lincoln sits enthroned at the west end of the National Mall in Washington, DC.",
+        "answer": "Lincoln Memorial, DC",
+        "lat": 38.8893,
+        "lng": -77.0502
+      },
+      {
+        "id": 4,
+        "type": "city",
+        "clue": "This Utah city sits near the Great Salt Lake and is headquarters to the Church of Jesus Christ of Latter-day Saints.",
+        "answer": "Salt Lake City, UT",
+        "lat": 40.7608,
+        "lng": -111.891
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "This California county on the Pacific coast is home to San Diego, the nation's eighth largest city.",
+        "answer": "San Diego County, CA",
+        "lat": 32.71,
+        "lng": -116.96
+      }
+    ]
+  },
+  "2026-06-01": {
+    "puzzleNumber": 82,
+    "title": "Puzzle #82",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "county",
+        "clue": "Home to Disneyland and Anaheim, this Southern California county is the second most populous in the state.",
+        "answer": "Orange County, CA",
+        "lat": 33.72,
+        "lng": -117.75
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "West Virginia's capital and largest city sits at the confluence of the Elk and Kanawha rivers.",
+        "answer": "Charleston, WV",
+        "lat": 38.3498,
+        "lng": -81.6326
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Tucked in the Santa Cruz Mountains, this California city is the tech hub of Silicon Valley.",
+        "answer": "San Jose, CA",
+        "lat": 37.3382,
+        "lng": -121.8863
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Named after the 26th president, this North Dakota park protects the rugged badlands of the Little Missouri River valley.",
+        "answer": "Theodore Roosevelt National Park, ND",
+        "lat": 46.9797,
+        "lng": -103.538
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "This 102-story Art Deco skyscraper on Fifth Avenue was the world's tallest building from 1931 to 1970.",
+        "answer": "Empire State Building, NY",
+        "lat": 40.7484,
+        "lng": -73.9967
+      }
+    ]
+  },
+  "2026-06-02": {
+    "puzzleNumber": 83,
+    "title": "Puzzle #83",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "The birthplace of Elvis Presley and home to Graceland, this Tennessee city sits on the Mississippi River.",
+        "answer": "Memphis, TN",
+        "lat": 35.1495,
+        "lng": -90.049
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Atop Queen Anne Hill in Seattle, this 605-foot tower was built for the 1962 World's Fair.",
+        "answer": "Space Needle, WA",
+        "lat": 47.6205,
+        "lng": -122.3493
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "This Colorado park contains the largest concentration of ancient Ancestral Puebloan cliff dwellings in North America.",
+        "answer": "Mesa Verde National Park, CO",
+        "lat": 37.1853,
+        "lng": -108.4898
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "This Florida county is the most populous in the state, home to Miami and its beaches.",
+        "answer": "Miami-Dade County, FL",
+        "lat": 25.55,
+        "lng": -80.62
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Wisconsin's capital is home to the University of Wisconsin and sits on an isthmus between two lakes.",
+        "answer": "Madison, WI",
+        "lat": 43.0731,
+        "lng": -89.4012
+      }
+    ]
+  },
+  "2026-06-03": {
+    "puzzleNumber": 84,
+    "title": "Puzzle #84",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "national_park",
+        "clue": "A dormant volcano on Maui, this park features the world's largest dormant volcanic crater.",
+        "answer": "Haleakala National Park, HI",
+        "lat": 20.7204,
+        "lng": -156.1551
+      },
+      {
+        "id": 2,
+        "type": "city",
+        "clue": "This Georgia city hosted the 1996 Summer Olympics and is headquarters to Coca-Cola and CNN.",
+        "answer": "Atlanta, GA",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Pennsylvania's capital on the Susquehanna River has been the state capital since 1812.",
+        "answer": "Harrisburg, PA",
+        "lat": 40.2732,
+        "lng": -76.8867
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Built in the Nevada desert during the Great Depression, this concrete arch-gravity dam on the Colorado River was the world's tallest when completed.",
+        "answer": "Hoover Dam, NV/AZ",
+        "lat": 36.0161,
+        "lng": -114.7377
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "The most populous county in Texas encompasses Dallas and many of its suburbs.",
+        "answer": "Dallas County, TX",
+        "lat": 32.77,
+        "lng": -96.78
+      }
+    ]
+  },
+  "2026-06-04": {
+    "puzzleNumber": 85,
+    "title": "Puzzle #85",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "landmark",
+        "clue": "This cracked iron bell in Philadelphia rang to summon lawmakers to hear the first public reading of the Declaration of Independence.",
+        "answer": "Liberty Bell, PA",
+        "lat": 39.9496,
+        "lng": -75.1503
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "This Nevada county in the Mojave Desert is home to Las Vegas and over 2 million people.",
+        "answer": "Clark County, NV",
+        "lat": 36.2,
+        "lng": -115.01
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Nicknamed the City of Brotherly Love, it's home to the Liberty Bell and Independence Hall.",
+        "answer": "Philadelphia, PA",
+        "lat": 39.9526,
+        "lng": -75.1652
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "The capital of South Carolina sits in the center of the state along the Congaree River.",
+        "answer": "Columbia, SC",
+        "lat": 34.0007,
+        "lng": -81.0348
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "This Texas park in the Chihuahuan Desert features the Rio Grande, hot springs, and the Chisos Mountains.",
+        "answer": "Big Bend National Park, TX",
+        "lat": 29.2498,
+        "lng": -103.2502
+      }
+    ]
+  },
+  "2026-06-05": {
+    "puzzleNumber": 86,
+    "title": "Puzzle #86",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "state_capital",
+        "clue": "Mississippi's capital and largest city sits on the Pearl River in the western part of the state.",
+        "answer": "Jackson, MS",
+        "lat": 32.2988,
+        "lng": -90.1848
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Kentucky's most visited attraction features the world's longest known cave system with over 400 miles of passageways.",
+        "answer": "Mammoth Cave National Park, KY",
+        "lat": 37.1862,
+        "lng": -86.1003
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Built in 1718, this Spanish mission in San Antonio is famous for the 1836 battle where Davy Crockett fell.",
+        "answer": "The Alamo, TX",
+        "lat": 29.426,
+        "lng": -98.4861
+      },
+      {
+        "id": 4,
+        "type": "city",
+        "clue": "This Massachusetts city is home to the Red Sox, Harvard, and MIT.",
+        "answer": "Boston, MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "Washington state's most populous county includes Seattle, Bellevue, and Redmond \u2014 home to Microsoft's headquarters.",
+        "answer": "King County, WA",
+        "lat": 47.53,
+        "lng": -121.83
+      }
+    ]
+  },
+  "2026-06-06": {
+    "puzzleNumber": 87,
+    "title": "Puzzle #87",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "county",
+        "clue": "This Texas county surrounding Fort Worth is the second most populous in the Dallas-Fort Worth metroplex.",
+        "answer": "Tarrant County, TX",
+        "lat": 32.78,
+        "lng": -97.29
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Missouri's capital sits on the Missouri River midway between St. Louis and Kansas City.",
+        "answer": "Jefferson City, MO",
+        "lat": 38.5767,
+        "lng": -92.1735
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Sin City sits in the Mojave Desert and is famous for its casinos and the Strip.",
+        "answer": "Las Vegas, NV",
+        "lat": 36.1699,
+        "lng": -115.1398
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "This Arkansas park was the first land set aside by the US government for public use, known for its thermal springs.",
+        "answer": "Hot Springs National Park, AR",
+        "lat": 34.5217,
+        "lng": -93.0424
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "At 1,776 feet, this glass-and-steel tower in Lower Manhattan is the tallest building in the Western Hemisphere.",
+        "answer": "One World Trade Center, NY",
+        "lat": 40.7127,
+        "lng": -74.0134
+      }
+    ]
+  },
+  "2026-06-07": {
+    "puzzleNumber": 88,
+    "title": "Puzzle #88",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "The Music City, home to the Grand Ole Opry and country music's biggest stars.",
+        "answer": "Nashville, TN",
+        "lat": 36.1627,
+        "lng": -86.7816
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "This sign high above the Hollywood Hills has watched over Los Angeles since 1923 \u2014 it originally read 'HOLLYWOODLAND'.",
+        "answer": "Hollywood Sign, CA",
+        "lat": 34.1341,
+        "lng": -118.3215
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Located on Lake Superior, this Michigan island park is accessible only by boat or floatplane and is car-free.",
+        "answer": "Isle Royale National Park, MI",
+        "lat": 47.9953,
+        "lng": -88.909
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "Michigan's most populous county encompasses Detroit and the older suburbs to its east and south.",
+        "answer": "Wayne County, MI",
+        "lat": 42.33,
+        "lng": -83.05
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Maine's capital city on the Kennebec River is the largest city east of the Mississippi without a direct interstate connection.",
+        "answer": "Augusta, ME",
+        "lat": 44.3106,
+        "lng": -69.7795
+      }
+    ]
+  },
+  "2026-06-08": {
+    "puzzleNumber": 89,
+    "title": "Puzzle #89",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "national_park",
+        "clue": "Colorado's newest national park features towering sand dunes against the backdrop of the Sangre de Cristo Mountains.",
+        "answer": "Great Sand Dunes National Park, CO",
+        "lat": 37.7319,
+        "lng": -105.5943
+      },
+      {
+        "id": 2,
+        "type": "city",
+        "clue": "This Texas city is the largest in the US by area and home to NASA's Johnson Space Center.",
+        "answer": "Houston, TX",
+        "lat": 29.7604,
+        "lng": -95.3698
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Michigan's capital city, not Detroit, is home to Michigan State University.",
+        "answer": "Lansing, MI",
+        "lat": 42.7325,
+        "lng": -84.5555
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "The nation's founding documents were signed in this Philadelphia hall, now a UNESCO World Heritage Site.",
+        "answer": "Independence Hall, PA",
+        "lat": 39.9489,
+        "lng": -75.15
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "This Southern California county stretches from the San Bernardino Mountains to the Salton Sea.",
+        "answer": "Riverside County, CA",
+        "lat": 33.75,
+        "lng": -115.98
+      }
+    ]
+  },
+  "2026-06-09": {
+    "puzzleNumber": 90,
+    "title": "Puzzle #90",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "landmark",
+        "clue": "Plummeting 167 feet on the US-Canada border, these falls are the most powerful in North America.",
+        "answer": "Niagara Falls, NY",
+        "lat": 43.0962,
+        "lng": -79.0377
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "Home to Apple, Google, and Meta headquarters, this Bay Area county is the heart of Silicon Valley.",
+        "answer": "Santa Clara County, CA",
+        "lat": 37.23,
+        "lng": -121.97
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Nicknamed the City of Angels, it's the entertainment capital of the world.",
+        "answer": "Los Angeles, CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "The Twin Cities' less-famous half, this city is actually Minnesota's capital.",
+        "answer": "St. Paul, MN",
+        "lat": 44.9537,
+        "lng": -93.09
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "This Nevada park is one of the darkest night-sky locations in the US and contains Lehman Caves.",
+        "answer": "Great Basin National Park, NV",
+        "lat": 38.983,
+        "lng": -114.3
+      }
+    ]
+  },
+  "2026-06-10": {
+    "puzzleNumber": 91,
+    "title": "Puzzle #91",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "state_capital",
+        "clue": "Alabama's capital city was the first capital of the Confederacy in 1861.",
+        "answer": "Montgomery, AL",
+        "lat": 32.3792,
+        "lng": -86.3077
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "South Carolina's least-visited national park protects the largest intact expanse of old-growth bottomland hardwood forest in the Southeast.",
+        "answer": "Congaree National Park, SC",
+        "lat": 33.7948,
+        "lng": -80.782
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Elvis Presley's colonial-revival mansion in Memphis became a museum after his death in 1977.",
+        "answer": "Graceland, TN",
+        "lat": 35.0453,
+        "lng": -90.0228
+      },
+      {
+        "id": 4,
+        "type": "city",
+        "clue": "This Arizona city is the most populous state capital in the US and gets over 300 sunny days a year.",
+        "answer": "Phoenix, AZ",
+        "lat": 33.4484,
+        "lng": -112.074
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "This North Carolina county is home to Charlotte, the state's largest city and a major banking hub.",
+        "answer": "Mecklenburg County, NC",
+        "lat": 35.26,
+        "lng": -80.83
+      }
+    ]
+  },
+  "2026-06-11": {
+    "puzzleNumber": 92,
+    "title": "Puzzle #92",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "county",
+        "clue": "Tennessee's most populous county encompasses Memphis and sits on the Mississippi River.",
+        "answer": "Shelby County, TN",
+        "lat": 35.18,
+        "lng": -89.98
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "The capital of Kansas sits on the Kansas River and is the geographic center of the contiguous US.",
+        "answer": "Topeka, KS",
+        "lat": 39.0558,
+        "lng": -95.689
+      },
+      {
+        "id": 3,
+        "type": "city",
+        "clue": "Home to the Alamo and the River Walk, this Texas city is the nation's seventh largest.",
+        "answer": "San Antonio, TX",
+        "lat": 29.4241,
+        "lng": -98.4936
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "This Ohio park along the Cuyahoga River protects a green corridor between Cleveland and Akron.",
+        "answer": "Cuyahoga Valley National Park, OH",
+        "lat": 41.2808,
+        "lng": -81.5678
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "This Florida complex launched every US crewed moon mission; its Vehicle Assembly Building is one of the largest structures in the world.",
+        "answer": "Kennedy Space Center, FL",
+        "lat": 28.5729,
+        "lng": -80.649
       }
     ]
   }

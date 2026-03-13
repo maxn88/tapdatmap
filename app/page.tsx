@@ -1,3 +1,5 @@
+export const revalidate = 0; // never cache — puzzle must be fresh each request
+
 import { Suspense } from "react";
 import puzzles from "@/data/daily-puzzles.json";
 import type { Puzzle } from "@/lib/types";
