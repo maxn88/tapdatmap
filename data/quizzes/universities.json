@@ -6,43 +6,443 @@
   "rounds": [
     {
       "id": 1,
-      "type": "landmark",
-      "clue": "The oldest university in the US, founded in 1636, this Ivy League school sits across the river from Boston.",
+      "type": "university",
+      "clue": "The oldest university in the US, founded in 1636 in Cambridge, Massachusetts. Famous alumni include Barack Obama, Mark Zuckerberg, and Matt Damon.",
       "answer": "Harvard University, Cambridge, MA",
       "lat": 42.3770,
       "lng": -71.1167
     },
     {
       "id": 2,
-      "type": "landmark",
-      "clue": "Home to the Trojans, this private research university sits in the heart of Los Angeles.",
-      "answer": "University of Southern California, Los Angeles, CA",
-      "lat": 34.0224,
-      "lng": -118.2851
+      "type": "university",
+      "clue": "Founded in 1701 in New Haven, Connecticut — this Ivy League school's secret societies include Skull and Bones, which counts three US presidents as alumni.",
+      "answer": "Yale University, New Haven, CT",
+      "lat": 41.3163,
+      "lng": -72.9223
     },
     {
       "id": 3,
-      "type": "landmark",
-      "clue": "The flagship state university of Texas, home to the Longhorns, located in the state capital.",
-      "answer": "University of Texas at Austin, TX",
-      "lat": 30.2849,
-      "lng": -97.7341
+      "type": "university",
+      "clue": "Founded in 1746 in New Jersey, this Ivy League school is the fourth oldest university in the US. It counts 41 Nobel laureates among its alumni.",
+      "answer": "Princeton University, NJ",
+      "lat": 40.3431,
+      "lng": -74.6551
     },
     {
       "id": 4,
-      "type": "landmark",
-      "clue": "Located in Ann Arbor, this Big Ten school has the largest football stadium in the US — the Big House.",
+      "type": "university",
+      "clue": "This private university in Philadelphia, Pennsylvania was founded by Benjamin Franklin in 1740 — making it older than the United States itself.",
+      "answer": "University of Pennsylvania, Philadelphia, PA",
+      "lat": 39.9522,
+      "lng": -75.1932
+    },
+    {
+      "id": 5,
+      "type": "university",
+      "clue": "A private research university in New York City founded in 1754 as King's College. Its alumni include Alexander Hamilton, Barack Obama (law school), and Lou Gehrig.",
+      "answer": "Columbia University, New York, NY",
+      "lat": 40.8075,
+      "lng": -73.9626
+    },
+    {
+      "id": 6,
+      "type": "university",
+      "clue": "This Massachusetts Institute of Technology, founded in 1861 in Cambridge, has produced more Nobel laureates per square foot than almost any institution on Earth.",
+      "answer": "MIT, Cambridge, MA",
+      "lat": 42.3601,
+      "lng": -71.0942
+    },
+    {
+      "id": 7,
+      "type": "university",
+      "clue": "Founded in 1885 by railroad magnate Leland Stanford in memory of his son, this California university's mascot is the Cardinal — a color, not a bird.",
+      "answer": "Stanford University, Stanford, CA",
+      "lat": 37.4275,
+      "lng": -122.1697
+    },
+    {
+      "id": 8,
+      "type": "university",
+      "clue": "This Ivy League school in Hanover, New Hampshire was originally founded to educate Native Americans in 1769 and is named after the English Earl of Dartmouth.",
+      "answer": "Dartmouth College, Hanover, NH",
+      "lat": 43.7044,
+      "lng": -72.2887
+    },
+    {
+      "id": 9,
+      "type": "university",
+      "clue": "Founded in 1754, this school in Ithaca, New York was established by Ezra Cornell with the motto 'I would found an institution where any person can find instruction in any study.'",
+      "answer": "Cornell University, Ithaca, NY",
+      "lat": 42.4534,
+      "lng": -76.4735
+    },
+    {
+      "id": 10,
+      "type": "university",
+      "clue": "This Ivy League school in Providence, Rhode Island is known for its 'open curriculum' — students can graduate without any required courses.",
+      "answer": "Brown University, Providence, RI",
+      "lat": 41.8268,
+      "lng": -71.4025
+    },
+    {
+      "id": 11,
+      "type": "university",
+      "clue": "Founded in 1636 in Medford, Massachusetts, the school bearing this name sits just outside Boston and its Jumbos mascot is an elephant.",
+      "answer": "Tufts University, Medford, MA",
+      "lat": 42.4075,
+      "lng": -71.1190
+    },
+    {
+      "id": 12,
+      "type": "university",
+      "clue": "Located in Ann Arbor, this Big Ten school has the largest football stadium in the US — the Big House holds over 107,000 fans — and a medical school founded in 1850.",
       "answer": "University of Michigan, Ann Arbor, MI",
       "lat": 42.2780,
       "lng": -83.7382
     },
     {
-      "id": 5,
-      "type": "landmark",
-      "clue": "Nestled in the Rocky Mountains of Colorado, this school is nicknamed CU Boulder and is known for its research programs.",
+      "id": 13,
+      "type": "university",
+      "clue": "Home to the Trojans, this private research university in the heart of Los Angeles has produced more Olympic athletes than any other US university.",
+      "answer": "University of Southern California, Los Angeles, CA",
+      "lat": 34.0224,
+      "lng": -118.2851
+    },
+    {
+      "id": 14,
+      "type": "university",
+      "clue": "The flagship state university of Texas in Austin — home to the Longhorns, a tower that was the site of a tragic 1966 shooting, and the largest university library in the US.",
+      "answer": "University of Texas at Austin, TX",
+      "lat": 30.2849,
+      "lng": -97.7341
+    },
+    {
+      "id": 15,
+      "type": "university",
+      "clue": "Nestled in the Rockies in Boulder, Colorado, this school is known for its research programs, its ski team, and being a finalist for the title of 'most fun' college.",
       "answer": "University of Colorado Boulder, CO",
       "lat": 40.0076,
       "lng": -105.2659
+    },
+    {
+      "id": 16,
+      "type": "university",
+      "clue": "This private university in Chicago, Illinois is known for its economics department — over 100 Nobel laureates are affiliated with what's called the 'Chicago School.'",
+      "answer": "University of Chicago, IL",
+      "lat": 41.7886,
+      "lng": -87.5987
+    },
+    {
+      "id": 17,
+      "type": "university",
+      "clue": "Duke University in Durham, North Carolina is famous for its basketball team — Coach K retired after 42 years there with over 1,000 wins.",
+      "answer": "Duke University, Durham, NC",
+      "lat": 35.9940,
+      "lng": -78.8986
+    },
+    {
+      "id": 18,
+      "type": "university",
+      "clue": "Founded in 1838 in Atlanta, Georgia, this HBCU is the oldest private historically Black liberal arts college in the US.",
+      "answer": "Morehouse College, Atlanta, GA",
+      "lat": 33.7487,
+      "lng": -84.4145
+    },
+    {
+      "id": 19,
+      "type": "university",
+      "clue": "Vanderbilt University in Nashville, Tennessee was founded in 1873 by railroad tycoon Cornelius Vanderbilt — he hoped it would 'contribute to strengthening the ties which should exist between all sections of our common country.'",
+      "answer": "Vanderbilt University, Nashville, TN",
+      "lat": 36.1447,
+      "lng": -86.8027
+    },
+    {
+      "id": 20,
+      "type": "university",
+      "clue": "Johns Hopkins University in Baltimore, Maryland was the first research university in the US when founded in 1876 — modeled after German research institutions.",
+      "answer": "Johns Hopkins University, Baltimore, MD",
+      "lat": 39.3299,
+      "lng": -76.6205
+    },
+    {
+      "id": 21,
+      "type": "university",
+      "clue": "Georgetown University in Washington D.C. is the oldest Jesuit university in the US (1789) and is famous for its law and foreign service programs.",
+      "answer": "Georgetown University, Washington, DC",
+      "lat": 38.9076,
+      "lng": -77.0723
+    },
+    {
+      "id": 22,
+      "type": "university",
+      "clue": "Notre Dame University sits near South Bend, Indiana — its golden-domed administration building and Fighting Irish football team are recognized worldwide.",
+      "answer": "University of Notre Dame, IN",
+      "lat": 41.7052,
+      "lng": -86.2352
+    },
+    {
+      "id": 23,
+      "type": "university",
+      "clue": "Northwestern University sits along Lake Michigan in Evanston, Illinois — its journalism and theater programs are among the most competitive in the country.",
+      "answer": "Northwestern University, Evanston, IL",
+      "lat": 42.0565,
+      "lng": -87.6753
+    },
+    {
+      "id": 24,
+      "type": "university",
+      "clue": "Carnegie Mellon University in Pittsburgh, Pennsylvania is one of the top computer science schools in the world — its robotics and AI programs are legendary.",
+      "answer": "Carnegie Mellon University, Pittsburgh, PA",
+      "lat": 40.4432,
+      "lng": -79.9428
+    },
+    {
+      "id": 25,
+      "type": "university",
+      "clue": "This public university in Seattle has produced more CEOs and executives in the tech industry than almost any other school — its Huskies play in a stadium overlooking Lake Washington.",
+      "answer": "University of Washington, Seattle, WA",
+      "lat": 47.6553,
+      "lng": -122.3035
+    },
+    {
+      "id": 26,
+      "type": "university",
+      "clue": "UCLA sits in the Westwood neighborhood of Los Angeles. Its film school alumni include Francis Ford Coppola and Tim Burton — and it has more NCAA championships than any other school.",
+      "answer": "UCLA, Los Angeles, CA",
+      "lat": 34.0689,
+      "lng": -118.4452
+    },
+    {
+      "id": 27,
+      "type": "university",
+      "clue": "UC Berkeley in California was the first campus of the University of California system and is one of the world's top public universities — its Nobel laureates could field a small army.",
+      "answer": "UC Berkeley, Berkeley, CA",
+      "lat": 37.8724,
+      "lng": -122.2595
+    },
+    {
+      "id": 28,
+      "type": "university",
+      "clue": "Ohio State University in Columbus has the largest student enrollment of any single campus in the US — over 60,000 students — and the Buckeyes have won eight football national championships.",
+      "answer": "Ohio State University, Columbus, OH",
+      "lat": 40.0067,
+      "lng": -83.0305
+    },
+    {
+      "id": 29,
+      "type": "university",
+      "clue": "Penn State University's main campus in State College, Pennsylvania is so large that it has its own zip code — and its Nittany Lion football program has won two national titles under Joe Paterno.",
+      "answer": "Penn State University, State College, PA",
+      "lat": 40.7934,
+      "lng": -77.8600
+    },
+    {
+      "id": 30,
+      "type": "university",
+      "clue": "The University of North Carolina in Chapel Hill is one of the oldest public universities in the US (1789) and has produced basketball legends including Michael Jordan.",
+      "answer": "UNC Chapel Hill, NC",
+      "lat": 35.9049,
+      "lng": -79.0469
+    },
+    {
+      "id": 31,
+      "type": "university",
+      "clue": "This Atlanta, Georgia school founded in 1885 is consistently ranked the top technology university in the Southeast — its Yellow Jackets play in the heart of the city.",
+      "answer": "Georgia Tech, Atlanta, GA",
+      "lat": 33.7756,
+      "lng": -84.3963
+    },
+    {
+      "id": 32,
+      "type": "university",
+      "clue": "Virginia Tech in Blacksburg, Virginia is known for its engineering programs and Hokie Bird mascot — its 2007 campus shooting led to major campus security reforms nationwide.",
+      "answer": "Virginia Tech, Blacksburg, VA",
+      "lat": 37.2284,
+      "lng": -80.4234
+    },
+    {
+      "id": 33,
+      "type": "university",
+      "clue": "The University of Virginia in Charlottesville was founded by Thomas Jefferson in 1819 — he also designed its campus, called the Academical Village, which is a UNESCO World Heritage Site.",
+      "answer": "University of Virginia, Charlottesville, VA",
+      "lat": 38.0336,
+      "lng": -78.5080
+    },
+    {
+      "id": 34,
+      "type": "university",
+      "clue": "Tulane University in New Orleans, Louisiana was founded in 1834 and is deeply embedded in the city's culture — its students help run many Mardi Gras krewe organizations.",
+      "answer": "Tulane University, New Orleans, LA",
+      "lat": 29.9400,
+      "lng": -90.1192
+    },
+    {
+      "id": 35,
+      "type": "university",
+      "clue": "Rice University in Houston, Texas has one of the smallest student bodies of any top research university — only about 4,000 undergrads — but more patents per faculty than most Ivy League schools.",
+      "answer": "Rice University, Houston, TX",
+      "lat": 29.7174,
+      "lng": -95.4018
+    },
+    {
+      "id": 36,
+      "type": "university",
+      "clue": "Arizona State University in Tempe is the largest public university by enrollment in the US — over 140,000 students across its campuses.",
+      "answer": "Arizona State University, Tempe, AZ",
+      "lat": 33.4255,
+      "lng": -111.9400
+    },
+    {
+      "id": 37,
+      "type": "university",
+      "clue": "The University of Florida in Gainesville is home to the Gators and was the first institution to develop Gatorade — invented in 1965 by a research team to help hydrate the football team.",
+      "answer": "University of Florida, Gainesville, FL",
+      "lat": 29.6436,
+      "lng": -82.3549
+    },
+    {
+      "id": 38,
+      "type": "university",
+      "clue": "The University of Alabama in Tuscaloosa has won more college football national championships in the modern era than any other program — 18 in total.",
+      "answer": "University of Alabama, Tuscaloosa, AL",
+      "lat": 33.2119,
+      "lng": -87.5443
+    },
+    {
+      "id": 39,
+      "type": "university",
+      "clue": "LSU in Baton Rouge, Louisiana is known for its Tiger Stadium — 'Death Valley' — which holds 102,000 fans and is considered the loudest stadium in college football.",
+      "answer": "Louisiana State University, Baton Rouge, LA",
+      "lat": 30.4133,
+      "lng": -91.1800
+    },
+    {
+      "id": 40,
+      "type": "university",
+      "clue": "Brigham Young University in Provo, Utah is owned and operated by The Church of Jesus Christ of Latter-day Saints — it has a strict honor code and is one of the largest private universities in the US.",
+      "answer": "Brigham Young University, Provo, UT",
+      "lat": 40.2518,
+      "lng": -111.6493
+    },
+    {
+      "id": 41,
+      "type": "university",
+      "clue": "The University of Oregon in Eugene is known for its Nike connection — Phil Knight, Nike's founder, played for the Ducks and has donated over a billion dollars to the school.",
+      "answer": "University of Oregon, Eugene, OR",
+      "lat": 44.0459,
+      "lng": -123.0716
+    },
+    {
+      "id": 42,
+      "type": "university",
+      "clue": "Michigan State University in East Lansing was the first land-grant university in the US, established in 1855 as a model for the Morrill Act — which created 112 land-grant schools.",
+      "answer": "Michigan State University, East Lansing, MI",
+      "lat": 42.7018,
+      "lng": -84.4822
+    },
+    {
+      "id": 43,
+      "type": "university",
+      "clue": "The University of Wisconsin in Madison sits along Lake Mendota and is famous for its research culture — the 'Wisconsin Idea' holds that the university should benefit all state residents.",
+      "answer": "University of Wisconsin, Madison, WI",
+      "lat": 43.0766,
+      "lng": -89.4125
+    },
+    {
+      "id": 44,
+      "type": "university",
+      "clue": "Iowa State University in Ames pioneered agricultural research — scientist George Washington Carver studied here before doing his famous peanut research at Tuskegee.",
+      "answer": "Iowa State University, Ames, IA",
+      "lat": 42.0267,
+      "lng": -93.6465
+    },
+    {
+      "id": 45,
+      "type": "university",
+      "clue": "Purdue University in West Lafayette, Indiana has graduated more astronauts than any other university — including Neil Armstrong and Gus Grissom.",
+      "answer": "Purdue University, West Lafayette, IN",
+      "lat": 40.4237,
+      "lng": -86.9212
+    },
+    {
+      "id": 46,
+      "type": "university",
+      "clue": "Indiana University in Bloomington is home to the nation's first business school (1920) and one of the world's great music schools — the Jacobs School of Music.",
+      "answer": "Indiana University, Bloomington, IN",
+      "lat": 39.1682,
+      "lng": -86.5234
+    },
+    {
+      "id": 47,
+      "type": "university",
+      "clue": "Tuskegee University in Alabama was founded by Booker T. Washington in 1881 — its famous Tuskegee Airmen became the first African American military aviators in World War II.",
+      "answer": "Tuskegee University, Tuskegee, AL",
+      "lat": 32.4300,
+      "lng": -85.7080
+    },
+    {
+      "id": 48,
+      "type": "university",
+      "clue": "Howard University in Washington D.C. is the nation's most prominent HBCU — its alumni include Thurgood Marshall, Kamala Harris, Ta-Nehisi Coates, and Chadwick Boseman.",
+      "answer": "Howard University, Washington, DC",
+      "lat": 38.9221,
+      "lng": -77.0199
+    },
+    {
+      "id": 49,
+      "type": "university",
+      "clue": "The University of Minnesota in Minneapolis has more living alumni than any other US university — over 600,000 — and discovered five of the most popular apple varieties, including Honeycrisp.",
+      "answer": "University of Minnesota, Minneapolis, MN",
+      "lat": 44.9740,
+      "lng": -93.2277
+    },
+    {
+      "id": 50,
+      "type": "university",
+      "clue": "The University of Kansas in Lawrence sits atop Mount Oread and is home to one of the oldest basketball programs in the world — the sport's inventor, James Naismith, coached there.",
+      "answer": "University of Kansas, Lawrence, KS",
+      "lat": 38.9543,
+      "lng": -95.2558
+    },
+    {
+      "id": 51,
+      "type": "university",
+      "clue": "Caltech in Pasadena, California has the highest percentage of Nobel laureates among its alumni of any university in the world — with fewer than 2,300 undergrads.",
+      "answer": "California Institute of Technology (Caltech), Pasadena, CA",
+      "lat": 34.1377,
+      "lng": -118.1253
+    },
+    {
+      "id": 52,
+      "type": "university",
+      "clue": "Georgetown's lesser-known crosstown rival in Washington D.C. is named for a Civil War general and is renowned for its law and medicine programs.",
+      "answer": "George Washington University, Washington, DC",
+      "lat": 38.8997,
+      "lng": -77.0484
+    },
+    {
+      "id": 53,
+      "type": "university",
+      "clue": "The University of Colorado's medical campus in Aurora is separate from its Boulder campus — it's one of the top medical research centers in the Mountain West.",
+      "answer": "University of Colorado Denver, Aurora, CO",
+      "lat": 39.7456,
+      "lng": -104.8388
+    },
+    {
+      "id": 54,
+      "type": "university",
+      "clue": "Emory University in Atlanta, Georgia is closely affiliated with the CDC headquarters next door — making it one of the world's top public health research institutions.",
+      "answer": "Emory University, Atlanta, GA",
+      "lat": 33.7938,
+      "lng": -84.3250
+    },
+    {
+      "id": 55,
+      "type": "university",
+      "clue": "The University of New Mexico in Albuquerque sits at 5,300 feet elevation and is one of few universities with a designated UNESCO partner status for research in indigenous languages.",
+      "answer": "University of New Mexico, Albuquerque, NM",
+      "lat": 35.0845,
+      "lng": -106.6195
     }
   ]
 }

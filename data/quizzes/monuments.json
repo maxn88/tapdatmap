@@ -1,48 +1,448 @@
 {
   "id": "monuments",
-  "title": "Monuments & Landmarks",
-  "description": "Locate these iconic American monuments and landmarks on the map.",
+  "title": "US Monuments & Landmarks",
+  "description": "Click on the map where you think this famous US landmark is located!",
   "emoji": "🗽",
   "rounds": [
     {
       "id": 1,
-      "type": "landmark",
-      "clue": "Standing in New York Harbor, this copper statue was a gift from France and holds a torch aloft.",
+      "type": "monument",
+      "clue": "France gifted this 305-foot copper lady to the United States in 1886. She holds a torch aloft in New York Harbor and a tablet inscribed with July 4, 1776.",
       "answer": "Statue of Liberty, NY",
       "lat": 40.6892,
       "lng": -74.0445
     },
     {
       "id": 2,
-      "type": "landmark",
-      "clue": "This iconic suspension bridge connects San Francisco to Marin County, painted in International Orange.",
-      "answer": "Golden Gate Bridge, CA",
-      "lat": 37.8199,
-      "lng": -122.4783
-    },
-    {
-      "id": 3,
-      "type": "landmark",
-      "clue": "The world's tallest arch, this 630-foot stainless steel monument overlooks the Mississippi River.",
-      "answer": "Gateway Arch, St. Louis, MO",
-      "lat": 38.6247,
-      "lng": -90.1848
-    },
-    {
-      "id": 4,
-      "type": "landmark",
-      "clue": "Four presidents' faces are carved into this South Dakota granite mountain in the Black Hills.",
+      "type": "monument",
+      "clue": "Four presidents carved into a South Dakota granite mountain: Washington, Jefferson, Roosevelt, and Lincoln. Sculptor Gutzon Borglum spent 14 years on it.",
       "answer": "Mount Rushmore, SD",
       "lat": 43.8791,
       "lng": -103.4591
     },
     {
-      "id": 5,
-      "type": "landmark",
-      "clue": "This Washington DC monument is the world's tallest stone obelisk, dedicated to the nation's first president.",
+      "id": 3,
+      "type": "monument",
+      "clue": "This 746-foot Art Deco suspension bridge painted 'International Orange' opened in 1937 and was once considered impossible to build.",
+      "answer": "Golden Gate Bridge, CA",
+      "lat": 37.8199,
+      "lng": -122.4783
+    },
+    {
+      "id": 4,
+      "type": "monument",
+      "clue": "Completed in 1884, this 555-foot obelisk in the nation's capital was the world's tallest structure for five years, built to honor the first president.",
       "answer": "Washington Monument, DC",
       "lat": 38.8895,
       "lng": -77.0353
+    },
+    {
+      "id": 5,
+      "type": "monument",
+      "clue": "Lincoln sits in a massive marble chair gazing toward the Reflecting Pool. His Gettysburg Address and Second Inaugural Address are engraved on the interior walls.",
+      "answer": "Lincoln Memorial, DC",
+      "lat": 38.8893,
+      "lng": -77.0502
+    },
+    {
+      "id": 6,
+      "type": "monument",
+      "clue": "This stainless steel arch in St. Louis soars 630 feet — as wide as it is tall — and serves as the 'Gateway to the West.'",
+      "answer": "Gateway Arch, MO",
+      "lat": 38.6247,
+      "lng": -90.1848
+    },
+    {
+      "id": 7,
+      "type": "monument",
+      "clue": "Seattle's 605-foot tower was built for the 1962 World's Fair. Its rotating restaurant and flying saucer silhouette became a symbol of the Space Age.",
+      "answer": "Space Needle, WA",
+      "lat": 47.6205,
+      "lng": -122.3493
+    },
+    {
+      "id": 8,
+      "type": "monument",
+      "clue": "Completed in 1931 during the Great Depression, this 102-story Art Deco skyscraper in Midtown Manhattan was the world's tallest building for 40 years.",
+      "answer": "Empire State Building, NY",
+      "lat": 40.7484,
+      "lng": -73.9857
+    },
+    {
+      "id": 9,
+      "type": "monument",
+      "clue": "This geyser erupts roughly every 91 minutes and has done so for centuries — it's the most famous feature of America's first national park.",
+      "answer": "Old Faithful, Yellowstone NP, WY",
+      "lat": 44.4605,
+      "lng": -110.8281
+    },
+    {
+      "id": 10,
+      "type": "monument",
+      "clue": "These massive sandstone mittens on the Arizona-Utah border have appeared in countless Western films — John Ford shot many classic Westerns here.",
+      "answer": "Monument Valley, AZ/UT",
+      "lat": 36.9830,
+      "lng": -110.1077
+    },
+    {
+      "id": 11,
+      "type": "monument",
+      "clue": "This white marble memorial in Washington, D.C. overlooks the Tidal Basin and was built to honor the author of the Declaration of Independence.",
+      "answer": "Jefferson Memorial, DC",
+      "lat": 38.8814,
+      "lng": -77.0365
+    },
+    {
+      "id": 12,
+      "type": "monument",
+      "clue": "A V-shaped black granite wall bears 58,000 names of Americans who died in Southeast Asia. Designed by a 21-year-old architecture student named Maya Lin.",
+      "answer": "Vietnam Veterans Memorial, DC",
+      "lat": 38.8915,
+      "lng": -77.0479
+    },
+    {
+      "id": 13,
+      "type": "monument",
+      "clue": "This 630-foot-wide meteor struck 50,000 years ago and left a crater in Arizona that is nearly perfectly preserved — it's used by NASA for astronaut training.",
+      "answer": "Meteor Crater, AZ",
+      "lat": 35.0272,
+      "lng": -111.0225
+    },
+    {
+      "id": 14,
+      "type": "monument",
+      "clue": "Four miles of neon casinos, hotels, and entertainment venues in the Nevada desert that never turns the lights off.",
+      "answer": "Las Vegas Strip, NV",
+      "lat": 36.1147,
+      "lng": -115.1728
+    },
+    {
+      "id": 15,
+      "type": "monument",
+      "clue": "Built during the Great Depression, this 726-foot dam on the Colorado River created the largest reservoir in the US and supplies power to several states.",
+      "answer": "Hoover Dam, NV/AZ",
+      "lat": 36.0156,
+      "lng": -114.7377
+    },
+    {
+      "id": 16,
+      "type": "monument",
+      "clue": "The Hollywood sign on Mount Lee in Los Angeles originally read 'Hollywoodland' when it was erected in 1923 to advertise a real estate development.",
+      "answer": "Hollywood Sign, CA",
+      "lat": 34.1341,
+      "lng": -118.3215
+    },
+    {
+      "id": 17,
+      "type": "monument",
+      "clue": "This 1,451-foot skyscraper in Chicago was the world's tallest building from 1973 to 1998 — originally named after its developer, now called Willis Tower.",
+      "answer": "Willis Tower (Sears Tower), IL",
+      "lat": 41.8789,
+      "lng": -87.6359
+    },
+    {
+      "id": 18,
+      "type": "monument",
+      "clue": "Fort McHenry in Baltimore survived a 25-hour British naval bombardment in 1814, inspiring Francis Scott Key to write what became the national anthem.",
+      "answer": "Fort McHenry, MD",
+      "lat": 39.2631,
+      "lng": -76.5796
+    },
+    {
+      "id": 19,
+      "type": "monument",
+      "clue": "This cracked bell in Philadelphia bears the inscription 'Proclaim Liberty Throughout All the Land' — a quote from Leviticus — and rang at the first public reading of the Declaration.",
+      "answer": "Liberty Bell, PA",
+      "lat": 39.9496,
+      "lng": -75.1503
+    },
+    {
+      "id": 20,
+      "type": "monument",
+      "clue": "Both the Declaration of Independence and the US Constitution were debated and signed in this brick building in Philadelphia.",
+      "answer": "Independence Hall, PA",
+      "lat": 39.9489,
+      "lng": -75.1500
+    },
+    {
+      "id": 21,
+      "type": "monument",
+      "clue": "Three waterfalls straddle the US-Canada border here, creating the highest flow rate of any waterfall in North America — 750,000 gallons per second.",
+      "answer": "Niagara Falls, NY",
+      "lat": 43.0799,
+      "lng": -79.0747
+    },
+    {
+      "id": 22,
+      "type": "monument",
+      "clue": "The 13-day siege at this 1836 Texas mission ended with every defender killed — including Davy Crockett and Jim Bowie. 'Remember' this place.",
+      "answer": "The Alamo, TX",
+      "lat": 29.4260,
+      "lng": -98.4861
+    },
+    {
+      "id": 23,
+      "type": "monument",
+      "clue": "Every crewed American space mission since 1961 — from Mercury to SpaceX — has launched from this Florida facility.",
+      "answer": "Kennedy Space Center, FL",
+      "lat": 28.5729,
+      "lng": -80.6490
+    },
+    {
+      "id": 24,
+      "type": "monument",
+      "clue": "Alcatraz Island in San Francisco Bay housed notorious criminals including Al Capone and Machine Gun Kelly — no prisoner ever officially escaped alive.",
+      "answer": "Alcatraz Island, CA",
+      "lat": 37.8270,
+      "lng": -122.4230
+    },
+    {
+      "id": 25,
+      "type": "monument",
+      "clue": "The Brooklyn Bridge took 14 years to build and opened in 1883 as the world's first steel-wire suspension bridge. Its chief engineer died before it opened.",
+      "answer": "Brooklyn Bridge, NY",
+      "lat": 40.7061,
+      "lng": -73.9969
+    },
+    {
+      "id": 26,
+      "type": "monument",
+      "clue": "The Wright Brothers made the world's first successful powered flight here on December 17, 1903 — covering just 120 feet in 12 seconds.",
+      "answer": "Wright Brothers National Memorial, NC",
+      "lat": 36.0165,
+      "lng": -75.6691
+    },
+    {
+      "id": 27,
+      "type": "monument",
+      "clue": "This 1,267-foot igneous rock formation in Wyoming was the first US National Monument (1906) — and featured in a famous 1977 Steven Spielberg film.",
+      "answer": "Devil's Tower National Monument, WY",
+      "lat": 44.5901,
+      "lng": -104.7146
+    },
+    {
+      "id": 28,
+      "type": "monument",
+      "clue": "The USS Arizona Memorial in Pearl Harbor rests directly above the sunken battleship where 1,177 sailors were killed on December 7, 1941.",
+      "answer": "USS Arizona Memorial, HI",
+      "lat": 21.3649,
+      "lng": -157.9500
+    },
+    {
+      "id": 29,
+      "type": "monument",
+      "clue": "Over 50,000 soldiers became casualties at this Pennsylvania battlefield in July 1863 — the bloodiest battle of the Civil War, and site of Lincoln's famous address.",
+      "answer": "Gettysburg National Military Park, PA",
+      "lat": 39.8118,
+      "lng": -77.2257
+    },
+    {
+      "id": 30,
+      "type": "monument",
+      "clue": "The Crazy Horse Memorial in South Dakota has been under construction since 1948 — when complete it will be the world's largest mountain carving.",
+      "answer": "Crazy Horse Memorial, SD",
+      "lat": 43.8822,
+      "lng": -103.5170
+    },
+    {
+      "id": 31,
+      "type": "monument",
+      "clue": "Cadillac Ranch near Amarillo, Texas is an art installation where ten Cadillacs are buried nose-down in a wheat field — visitors spray-paint them daily since 1974.",
+      "answer": "Cadillac Ranch, TX",
+      "lat": 35.1872,
+      "lng": -101.9870
+    },
+    {
+      "id": 32,
+      "type": "monument",
+      "clue": "Stone Mountain in Georgia features the world's largest bas-relief sculpture on a granite dome — you can hike to the summit or ride the cable car.",
+      "answer": "Stone Mountain, GA",
+      "lat": 33.8048,
+      "lng": -84.1696
+    },
+    {
+      "id": 33,
+      "type": "monument",
+      "clue": "The Mackinac Bridge in Michigan connects the Upper and Lower Peninsulas across the Straits of Mackinac — one of the longest suspension bridges in the Western Hemisphere.",
+      "answer": "Mackinac Bridge, MI",
+      "lat": 45.8174,
+      "lng": -84.7278
+    },
+    {
+      "id": 34,
+      "type": "monument",
+      "clue": "Muir Woods near San Francisco protects a cathedral grove of old-growth coastal redwoods — some over 1,000 years old — just 12 miles from the city.",
+      "answer": "Muir Woods National Monument, CA",
+      "lat": 37.8970,
+      "lng": -122.5811
+    },
+    {
+      "id": 35,
+      "type": "monument",
+      "clue": "The Chesapeake Bay Bridge-Tunnel in Virginia is a 20-mile engineering marvel combining bridges, tunnels, and artificial islands spanning one of America's widest waterways.",
+      "answer": "Chesapeake Bay Bridge-Tunnel, VA",
+      "lat": 37.0329,
+      "lng": -76.0132
+    },
+    {
+      "id": 36,
+      "type": "monument",
+      "clue": "Chimney Rock in Nebraska was the most-described landmark on the Oregon Trail — wagon train emigrants could see this spire for days before and after passing it.",
+      "answer": "Chimney Rock National Historic Site, NE",
+      "lat": 41.7030,
+      "lng": -103.3480
+    },
+    {
+      "id": 37,
+      "type": "monument",
+      "clue": "This 6,288-foot peak in New Hampshire holds the record for the highest wind speed ever recorded at an earthbound weather station: 231 mph in April 1934.",
+      "answer": "Mount Washington, NH",
+      "lat": 44.2705,
+      "lng": -71.3031
+    },
+    {
+      "id": 38,
+      "type": "monument",
+      "clue": "The world's largest natural bridge in southeastern Utah spans 275 feet across a canyon — longer than a football field — and is sacred to the Navajo people.",
+      "answer": "Rainbow Bridge National Monument, UT",
+      "lat": 36.9991,
+      "lng": -110.9636
+    },
+    {
+      "id": 39,
+      "type": "monument",
+      "clue": "Where the Central Pacific and Union Pacific Railroads met in 1869, completing the first transcontinental railroad in US history.",
+      "answer": "Golden Spike National Historic Site, UT",
+      "lat": 41.6196,
+      "lng": -112.5471
+    },
+    {
+      "id": 40,
+      "type": "monument",
+      "clue": "Pueblo Bonito in northwestern New Mexico contains over 650 rooms and was the center of Ancestral Puebloan civilization around 850 to 1150 AD.",
+      "answer": "Chaco Culture National Historical Park, NM",
+      "lat": 36.0608,
+      "lng": -107.9580
+    },
+    {
+      "id": 41,
+      "type": "monument",
+      "clue": "This iconic Art Deco skyscraper on 42nd Street in New York City is crowned with an eagle gargoyle and a shimmering steel sunburst — briefly the world's tallest in 1930.",
+      "answer": "Chrysler Building, NY",
+      "lat": 40.7516,
+      "lng": -73.9755
+    },
+    {
+      "id": 42,
+      "type": "monument",
+      "clue": "Portland Head Light in Maine is the oldest lighthouse in continuous operation in the US, commissioned by George Washington and lit in 1791.",
+      "answer": "Portland Head Light, ME",
+      "lat": 43.6234,
+      "lng": -70.2073
+    },
+    {
+      "id": 43,
+      "type": "monument",
+      "clue": "The National Mall in Washington D.C. stretches nearly two miles from the Capitol to the Lincoln Memorial, flanked by 19 Smithsonian museums.",
+      "answer": "National Mall, DC",
+      "lat": 38.8895,
+      "lng": -77.0294
+    },
+    {
+      "id": 44,
+      "type": "monument",
+      "clue": "Grand Coulee Dam on the Columbia River in Washington was the largest concrete structure in the world when completed in 1942.",
+      "answer": "Grand Coulee Dam, WA",
+      "lat": 47.9655,
+      "lng": -118.9816
+    },
+    {
+      "id": 45,
+      "type": "monument",
+      "clue": "A Cold War-era underground missile launch facility in South Dakota, kept on hair-trigger alert for 30 years and now open for public tours.",
+      "answer": "Minuteman Missile National Historic Site, SD",
+      "lat": 43.8930,
+      "lng": -101.9676
+    },
+    {
+      "id": 46,
+      "type": "monument",
+      "clue": "The Delicate Arch stands 52 feet tall in the Utah desert — completely freestanding with no support — and is the unofficial symbol of its state.",
+      "answer": "Delicate Arch, Arches NP, UT",
+      "lat": 38.7436,
+      "lng": -109.4993
+    },
+    {
+      "id": 47,
+      "type": "monument",
+      "clue": "Cape Hatteras Lighthouse in North Carolina is the tallest brick lighthouse in the US at 198 feet, and was physically moved 2,900 feet inland in 1999 to escape erosion.",
+      "answer": "Cape Hatteras Lighthouse, NC",
+      "lat": 35.2508,
+      "lng": -75.5283
+    },
+    {
+      "id": 48,
+      "type": "monument",
+      "clue": "The World War II Memorial on the National Mall was the last major memorial added to the central axis in Washington, D.C. — dedicated in 2004.",
+      "answer": "World War II Memorial, DC",
+      "lat": 38.8894,
+      "lng": -77.0408
+    },
+    {
+      "id": 49,
+      "type": "monument",
+      "clue": "Waikiki Beach in Hawaii is the birthplace of modern surfing in the United States — Duke Kahanamoku popularized the sport here in the early 1900s.",
+      "answer": "Waikiki Beach, HI",
+      "lat": 21.2793,
+      "lng": -157.8294
+    },
+    {
+      "id": 50,
+      "type": "monument",
+      "clue": "The Pony Express National Historic Trail stretches nearly 2,000 miles from St. Joseph, Missouri to Sacramento, California — this Missouri town is its starting point.",
+      "answer": "Pony Express Start, St. Joseph, MO",
+      "lat": 39.7686,
+      "lng": -94.8467
+    },
+    {
+      "id": 51,
+      "type": "monument",
+      "clue": "Martin Luther King Jr. delivered his 'I Have a Dream' speech from the steps of this Washington, D.C. memorial overlooking the Reflecting Pool.",
+      "answer": "Lincoln Memorial Steps, DC",
+      "lat": 38.8893,
+      "lng": -77.0502
+    },
+    {
+      "id": 52,
+      "type": "monument",
+      "clue": "The Biltmore Estate in Asheville, North Carolina is the largest private home in the United States — 178,926 square feet with 250 rooms, built by George Vanderbilt.",
+      "answer": "Biltmore Estate, NC",
+      "lat": 35.5406,
+      "lng": -82.5515
+    },
+    {
+      "id": 53,
+      "type": "monument",
+      "clue": "Fallingwater in Pennsylvania is Frank Lloyd Wright's masterpiece — a house built directly over a waterfall, cantilevered over the stream.",
+      "answer": "Fallingwater, PA",
+      "lat": 39.9064,
+      "lng": -79.4677
+    },
+    {
+      "id": 54,
+      "type": "monument",
+      "clue": "This cable-stayed bridge in Charleston, South Carolina is the third-longest cable-stayed bridge in the Western Hemisphere, with a bike and pedestrian lane.",
+      "answer": "Arthur Ravenel Jr. Bridge, SC",
+      "lat": 32.7954,
+      "lng": -79.9356
+    },
+    {
+      "id": 55,
+      "type": "monument",
+      "clue": "The Little Bighorn Battlefield in Montana marks where Lt. Col. George Custer and 268 soldiers were defeated by Lakota and Northern Cheyenne warriors in June 1876.",
+      "answer": "Little Bighorn Battlefield, MT",
+      "lat": 45.5676,
+      "lng": -107.4261
     }
   ]
 }

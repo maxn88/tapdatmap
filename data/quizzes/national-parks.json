@@ -7,7 +7,7 @@
     {
       "id": 1,
       "type": "national_park",
-      "clue": "The oldest national park in the US, known for its geysers and hot springs sitting atop a supervolcano.",
+      "clue": "The world's first national park, established in 1872, it sits atop a supervolcano and is home to more geysers than anywhere else on Earth.",
       "answer": "Yellowstone National Park, WY",
       "lat": 44.4280,
       "lng": -110.5885
@@ -15,7 +15,7 @@
     {
       "id": 2,
       "type": "national_park",
-      "clue": "Famous for its giant sequoia trees, this California park's valley floor is surrounded by granite cliffs including El Capitan.",
+      "clue": "El Capitan's sheer granite face draws the world's best rock climbers, while its valley floor is carpeted with wildflowers each spring.",
       "answer": "Yosemite National Park, CA",
       "lat": 37.8651,
       "lng": -119.5383
@@ -23,15 +23,15 @@
     {
       "id": 3,
       "type": "national_park",
-      "clue": "Straddling the border of Arizona and Utah, this park is known for its towering sandstone buttes and mesas.",
-      "answer": "Monument Valley Navajo Tribal Park, AZ/UT",
-      "lat": 36.9830,
-      "lng": -110.1077
+      "clue": "Over five million years of erosion carved this mile-deep gash in the Colorado Plateau — one of the most recognizable landscapes on the planet.",
+      "answer": "Grand Canyon National Park, AZ",
+      "lat": 36.1069,
+      "lng": -112.1129
     },
     {
       "id": 4,
       "type": "national_park",
-      "clue": "The most visited national park in the US, located in the Appalachian Mountains between Tennessee and North Carolina.",
+      "clue": "The most visited park in the US, straddling the Tennessee–North Carolina border with misty ridgelines that give it its famous name.",
       "answer": "Great Smoky Mountains National Park, TN/NC",
       "lat": 35.6532,
       "lng": -83.5070
@@ -39,10 +39,410 @@
     {
       "id": 5,
       "type": "national_park",
-      "clue": "This Florida park protects the largest subtropical wilderness in the US, home to manatees and alligators.",
+      "clue": "America's largest subtropical wilderness, this watery park at the tip of Florida is home to manatees, panthers, and ghost orchids.",
       "answer": "Everglades National Park, FL",
       "lat": 25.2866,
       "lng": -80.8987
+    },
+    {
+      "id": 6,
+      "type": "national_park",
+      "clue": "Towering sandstone arches — over 2,000 of them — dot this Utah park's landscape, including the iconic Delicate Arch.",
+      "answer": "Arches National Park, UT",
+      "lat": 38.7331,
+      "lng": -109.5925
+    },
+    {
+      "id": 7,
+      "type": "national_park",
+      "clue": "Bryce Canyon's hoodoos — spire-shaped rock columns — glow orange at sunrise in this Utah park famous for stargazing.",
+      "answer": "Bryce Canyon National Park, UT",
+      "lat": 37.5930,
+      "lng": -112.1871
+    },
+    {
+      "id": 8,
+      "type": "national_park",
+      "clue": "Narrow slot canyons, massive mesas, and the Virgin River Narrows define this Utah park whose name comes from the Hebrew word for sanctuary.",
+      "answer": "Zion National Park, UT",
+      "lat": 37.2982,
+      "lng": -113.0263
+    },
+    {
+      "id": 9,
+      "type": "national_park",
+      "clue": "This Colorado park contains the largest collection of late Jurassic dinosaur fossils in the world, including full Brachiosaurus skeletons.",
+      "answer": "Dinosaur National Monument, CO/UT",
+      "lat": 40.4390,
+      "lng": -108.9802
+    },
+    {
+      "id": 10,
+      "type": "national_park",
+      "clue": "The deepest lake in the US formed inside the caldera of a collapsed volcano. Its water is so clear you can see 140 feet deep.",
+      "answer": "Crater Lake National Park, OR",
+      "lat": 42.8684,
+      "lng": -122.1685
+    },
+    {
+      "id": 11,
+      "type": "national_park",
+      "clue": "Located on the border of Montana and Canada, this park's retreating glaciers inspired its nickname: the Crown of the Continent.",
+      "answer": "Glacier National Park, MT",
+      "lat": 48.6962,
+      "lng": -113.7185
+    },
+    {
+      "id": 12,
+      "type": "national_park",
+      "clue": "The highest peak in North America stands in this Alaska park — at 20,310 feet, it creates its own weather systems.",
+      "answer": "Denali National Park, AK",
+      "lat": 63.3333,
+      "lng": -150.5010
+    },
+    {
+      "id": 13,
+      "type": "national_park",
+      "clue": "Olympic Peninsula's temperate rainforest receives up to 14 feet of rainfall per year, creating a lush moss-draped landscape in Washington State.",
+      "answer": "Olympic National Park, WA",
+      "lat": 47.8021,
+      "lng": -123.6044
+    },
+    {
+      "id": 14,
+      "type": "national_park",
+      "clue": "Active lava flows have been adding new land to this Hawaiian island park for centuries — you can watch molten rock enter the ocean here.",
+      "answer": "Hawaii Volcanoes National Park, HI",
+      "lat": 19.4194,
+      "lng": -155.2885
+    },
+    {
+      "id": 15,
+      "type": "national_park",
+      "clue": "Joshua trees — found nowhere else at this scale — stretch across the meeting point of the Mojave and Colorado Deserts in California.",
+      "answer": "Joshua Tree National Park, CA",
+      "lat": 33.8734,
+      "lng": -115.9010
+    },
+    {
+      "id": 16,
+      "type": "national_park",
+      "clue": "Below sea level in one of North America's hottest deserts, this California park holds the record for the highest air temperature ever recorded on Earth: 134°F.",
+      "answer": "Death Valley National Park, CA",
+      "lat": 36.5054,
+      "lng": -117.0794
+    },
+    {
+      "id": 17,
+      "type": "national_park",
+      "clue": "Giant sequoia trees — the world's largest living organisms by volume — fill this California park's groves, some over 3,000 years old.",
+      "answer": "Sequoia National Park, CA",
+      "lat": 36.4864,
+      "lng": -118.5658
+    },
+    {
+      "id": 18,
+      "type": "national_park",
+      "clue": "Rocky Mountain's Trail Ridge Road is the highest continuous paved road in the US, crossing the Continental Divide in Colorado.",
+      "answer": "Rocky Mountain National Park, CO",
+      "lat": 40.3428,
+      "lng": -105.6836
+    },
+    {
+      "id": 19,
+      "type": "national_park",
+      "clue": "White gypsum dunes stretching 275 square miles across New Mexico — the largest of their kind in the world.",
+      "answer": "White Sands National Park, NM",
+      "lat": 32.7872,
+      "lng": -106.3257
+    },
+    {
+      "id": 20,
+      "type": "national_park",
+      "clue": "Otherworldly clay spires and buttes in South Dakota, eroded by wind and rain, were once the hunting grounds of the Lakota Sioux.",
+      "answer": "Badlands National Park, SD",
+      "lat": 43.8554,
+      "lng": -102.3397
+    },
+    {
+      "id": 21,
+      "type": "national_park",
+      "clue": "Wind Cave in South Dakota contains the world's densest concentration of boxwork — a rare cave formation covering its walls like honeycomb.",
+      "answer": "Wind Cave National Park, SD",
+      "lat": 43.5765,
+      "lng": -103.4782
+    },
+    {
+      "id": 22,
+      "type": "national_park",
+      "clue": "Canyonlands in Utah is divided into three distinct districts by the Colorado and Green Rivers meeting at a Y-shaped confluence.",
+      "answer": "Canyonlands National Park, UT",
+      "lat": 38.2000,
+      "lng": -109.9300
+    },
+    {
+      "id": 23,
+      "type": "national_park",
+      "clue": "Mesa Verde's cliff dwellings were built by the Ancestral Puebloans over 700 years ago and abandoned suddenly around 1300 AD.",
+      "answer": "Mesa Verde National Park, CO",
+      "lat": 37.1853,
+      "lng": -108.4618
+    },
+    {
+      "id": 24,
+      "type": "national_park",
+      "clue": "Carlsbad Caverns in New Mexico features the largest natural underground chamber in North America, and at dusk, a million bats spiral out into the sky.",
+      "answer": "Carlsbad Caverns National Park, NM",
+      "lat": 32.1479,
+      "lng": -104.5567
+    },
+    {
+      "id": 25,
+      "type": "national_park",
+      "clue": "This Texas park in the Chihuahuan Desert has peaks rising 8,000 feet above the surrounding plain, sheltering bears, mountain lions, and elk.",
+      "answer": "Big Bend National Park, TX",
+      "lat": 29.1275,
+      "lng": -103.2420
+    },
+    {
+      "id": 26,
+      "type": "national_park",
+      "clue": "Shenandoah's Skyline Drive runs 105 miles along the Blue Ridge Mountains in Virginia, with stunning fall foliage views every October.",
+      "answer": "Shenandoah National Park, VA",
+      "lat": 38.7268,
+      "lng": -78.3506
+    },
+    {
+      "id": 27,
+      "type": "national_park",
+      "clue": "Acadia in Maine was the first national park east of the Mississippi River, with carriage roads donated by John D. Rockefeller Jr.",
+      "answer": "Acadia National Park, ME",
+      "lat": 44.3386,
+      "lng": -68.2733
+    },
+    {
+      "id": 28,
+      "type": "national_park",
+      "clue": "Biscayne in Florida is 95% water — protecting the third largest coral reef system in the world, just south of Miami.",
+      "answer": "Biscayne National Park, FL",
+      "lat": 25.4824,
+      "lng": -80.3319
+    },
+    {
+      "id": 29,
+      "type": "national_park",
+      "clue": "Congaree in South Carolina protects old-growth bottomland hardwood forest — the largest intact expanse of it left in North America.",
+      "answer": "Congaree National Park, SC",
+      "lat": 33.7948,
+      "lng": -80.7821
+    },
+    {
+      "id": 30,
+      "type": "national_park",
+      "clue": "Mammoth Cave in Kentucky is the world's longest known cave system — over 400 mapped miles — still being explored today.",
+      "answer": "Mammoth Cave National Park, KY",
+      "lat": 37.1861,
+      "lng": -86.1003
+    },
+    {
+      "id": 31,
+      "type": "national_park",
+      "clue": "Indiana Dunes along Lake Michigan's southern shore features some of the world's fastest-moving sand dunes and an incredible diversity of plant species.",
+      "answer": "Indiana Dunes National Park, IN",
+      "lat": 41.6533,
+      "lng": -87.0524
+    },
+    {
+      "id": 32,
+      "type": "national_park",
+      "clue": "Voyageurs in northern Minnesota is a water-based park accessible only by boat in summer — it's named for the French Canadian fur traders who paddled these lakes.",
+      "answer": "Voyageurs National Park, MN",
+      "lat": 48.4839,
+      "lng": -92.8376
+    },
+    {
+      "id": 33,
+      "type": "national_park",
+      "clue": "Isle Royale in Lake Superior is the least visited national park in the lower 48 — a roadless island accessible only by ferry or seaplane.",
+      "answer": "Isle Royale National Park, MI",
+      "lat": 48.0077,
+      "lng": -88.5558
+    },
+    {
+      "id": 34,
+      "type": "national_park",
+      "clue": "Cuyahoga Valley in Ohio protects a stretch of the Cuyahoga River — the river that famously caught fire in 1969, sparking the Clean Water Act.",
+      "answer": "Cuyahoga Valley National Park, OH",
+      "lat": 41.2808,
+      "lng": -81.5678
+    },
+    {
+      "id": 35,
+      "type": "national_park",
+      "clue": "New River Gorge in West Virginia was the last national park established in the contiguous US (2020), protecting the world's oldest river.",
+      "answer": "New River Gorge National Park, WV",
+      "lat": 38.0705,
+      "lng": -81.0774
+    },
+    {
+      "id": 36,
+      "type": "national_park",
+      "clue": "Capitol Reef in Utah preserves the Waterpocket Fold — a 100-mile long wrinkle in the Earth's crust — plus orchards planted by Mormon pioneers.",
+      "answer": "Capitol Reef National Park, UT",
+      "lat": 38.2972,
+      "lng": -111.2615
+    },
+    {
+      "id": 37,
+      "type": "national_park",
+      "clue": "Great Basin in Nevada contains one of the world's oldest living organisms — a bristlecone pine over 4,900 years old — and a permanent glacier.",
+      "answer": "Great Basin National Park, NV",
+      "lat": 38.9833,
+      "lng": -114.3000
+    },
+    {
+      "id": 38,
+      "type": "national_park",
+      "clue": "Channel Islands off the California coast are sometimes called the 'Galapagos of North America' for their unique wildlife found nowhere else.",
+      "answer": "Channel Islands National Park, CA",
+      "lat": 34.0069,
+      "lng": -119.7785
+    },
+    {
+      "id": 39,
+      "type": "national_park",
+      "clue": "Lassen Volcanic in California is the only place in the world where all four types of volcanoes are found within a single national park.",
+      "answer": "Lassen Volcanic National Park, CA",
+      "lat": 40.4977,
+      "lng": -121.4207
+    },
+    {
+      "id": 40,
+      "type": "national_park",
+      "clue": "North Cascades in Washington contains more glaciers than any other area in the contiguous US — over 300 of them.",
+      "answer": "North Cascades National Park, WA",
+      "lat": 48.7718,
+      "lng": -121.2985
+    },
+    {
+      "id": 41,
+      "type": "national_park",
+      "clue": "Kenai Fjords in Alaska is named for the glacially carved coastal inlets where tidewater glaciers calve icebergs directly into the sea.",
+      "answer": "Kenai Fjords National Park, AK",
+      "lat": 59.9199,
+      "lng": -149.6514
+    },
+    {
+      "id": 42,
+      "type": "national_park",
+      "clue": "Wrangell-St. Elias is the largest national park in the US — larger than the entire country of Switzerland — with nine of the sixteen highest peaks in the US.",
+      "answer": "Wrangell-St. Elias National Park, AK",
+      "lat": 61.7105,
+      "lng": -142.9856
+    },
+    {
+      "id": 43,
+      "type": "national_park",
+      "clue": "Gates of the Arctic in Alaska lies entirely above the Arctic Circle and has no roads, trails, or facilities — the wildest park in the US.",
+      "answer": "Gates of the Arctic National Park, AK",
+      "lat": 67.7874,
+      "lng": -153.2936
+    },
+    {
+      "id": 44,
+      "type": "national_park",
+      "clue": "Haleakala in Hawaii features a volcanic crater large enough to hold the entire island of Manhattan, and is the best place in the world to watch a sunrise above the clouds.",
+      "answer": "Haleakala National Park, HI",
+      "lat": 20.7097,
+      "lng": -156.1561
+    },
+    {
+      "id": 45,
+      "type": "national_park",
+      "clue": "Guadalupe Mountains in Texas contains the world's most extensive Permian fossil reef and the highest peak in Texas.",
+      "answer": "Guadalupe Mountains National Park, TX",
+      "lat": 31.9231,
+      "lng": -104.8713
+    },
+    {
+      "id": 46,
+      "type": "national_park",
+      "clue": "Hot Springs in Arkansas protects thermal springs that have been used for healing since Native American tribes declared this land neutral ground thousands of years ago.",
+      "answer": "Hot Springs National Park, AR",
+      "lat": 34.5217,
+      "lng": -93.0425
+    },
+    {
+      "id": 47,
+      "type": "national_park",
+      "clue": "Petrified Forest in Arizona contains the world's largest and most colorful concentration of petrified wood — 225-million-year-old logs turned to crystal.",
+      "answer": "Petrified Forest National Park, AZ",
+      "lat": 34.9823,
+      "lng": -109.7877
+    },
+    {
+      "id": 48,
+      "type": "national_park",
+      "clue": "Saguaro in Arizona protects the iconic cactus that can live 150 years, grow 40 feet tall, and weigh up to 4,800 pounds when full of water.",
+      "answer": "Saguaro National Park, AZ",
+      "lat": 32.2967,
+      "lng": -111.1666
+    },
+    {
+      "id": 49,
+      "type": "national_park",
+      "clue": "Virgin Islands National Park covers over half of St. John island in the Caribbean, with coral reefs, sea turtles, and ruins of 18th-century sugar plantations.",
+      "answer": "Virgin Islands National Park, USVI",
+      "lat": 18.3440,
+      "lng": -64.7282
+    },
+    {
+      "id": 50,
+      "type": "national_park",
+      "clue": "Pinnacles in California protects the remnants of an ancient volcano that has been slowly moving northward along the San Andreas Fault for 23 million years.",
+      "answer": "Pinnacles National Park, CA",
+      "lat": 36.4906,
+      "lng": -121.1825
+    },
+    {
+      "id": 51,
+      "type": "national_park",
+      "clue": "Dry Tortugas in Florida is accessible only by boat or seaplane and protects the remote 19th-century Fort Jefferson — the largest masonry fort in the Western Hemisphere.",
+      "answer": "Dry Tortugas National Park, FL",
+      "lat": 24.6285,
+      "lng": -82.8732
+    },
+    {
+      "id": 52,
+      "type": "national_park",
+      "clue": "Theodore Roosevelt in North Dakota is where a young TR came to grieve and found the rugged Badlands landscape that inspired his lifelong conservation ethic.",
+      "answer": "Theodore Roosevelt National Park, ND",
+      "lat": 46.9797,
+      "lng": -103.5387
+    },
+    {
+      "id": 53,
+      "type": "national_park",
+      "clue": "Black Canyon of the Gunnison in Colorado has walls so steep and narrow that some sections receive only 33 minutes of sunlight per day.",
+      "answer": "Black Canyon of the Gunnison National Park, CO",
+      "lat": 38.5754,
+      "lng": -107.7416
+    },
+    {
+      "id": 54,
+      "type": "national_park",
+      "clue": "Great Sand Dunes in Colorado contains the tallest sand dunes in North America, formed by winds funneling through the Sangre de Cristo Mountains.",
+      "answer": "Great Sand Dunes National Park, CO",
+      "lat": 37.7916,
+      "lng": -105.5943
+    },
+    {
+      "id": 55,
+      "type": "national_park",
+      "clue": "Redwood in Northern California protects the world's tallest trees — the coastal redwoods that can top 380 feet and live over 2,000 years.",
+      "answer": "Redwood National and State Parks, CA",
+      "lat": 41.2132,
+      "lng": -124.0046
     }
   ]
 }

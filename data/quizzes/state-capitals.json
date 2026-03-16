@@ -6,43 +6,403 @@
   "rounds": [
     {
       "id": 1,
-      "type": "state_capital",
-      "clue": "The capital of Alaska, this city can only be reached by boat or plane — no roads connect it to the rest of the state.",
+      "type": "capital",
+      "clue": "The capital of Alaska can only be reached by boat or plane — no roads connect it to the rest of the state or Canada. It receives over 90 inches of rain per year.",
       "answer": "Juneau, AK",
       "lat": 58.3005,
       "lng": -134.4197
     },
     {
       "id": 2,
-      "type": "state_capital",
-      "clue": "Sitting at exactly one mile above sea level, this Colorado capital is nicknamed the Mile High City.",
+      "type": "capital",
+      "clue": "The capital of Hawaii sits on the island of Oahu and is home to Waikiki Beach, Diamond Head, and one of the busiest fishing harbors in the Pacific.",
+      "answer": "Honolulu, HI",
+      "lat": 21.3069,
+      "lng": -157.8583
+    },
+    {
+      "id": 3,
+      "type": "capital",
+      "clue": "Sitting at exactly one mile above sea level (5,280 feet), this Colorado capital is nicknamed the Mile High City and served as the gateway to the Gold Rush.",
       "answer": "Denver, CO",
       "lat": 39.7392,
       "lng": -104.9903
     },
     {
-      "id": 3,
-      "type": "state_capital",
-      "clue": "Despite being the capital of the most populous US state, this city is not its largest — that honor goes to Los Angeles.",
+      "id": 4,
+      "type": "capital",
+      "clue": "Despite being the capital of the most populous US state, this city is not its largest — that honor goes to Los Angeles. It was a key hub during the Gold Rush.",
       "answer": "Sacramento, CA",
       "lat": 38.5816,
       "lng": -121.4944
     },
     {
-      "id": 4,
-      "type": "state_capital",
-      "clue": "This Rhode Island capital is the smallest state capital by population in New England.",
+      "id": 5,
+      "type": "capital",
+      "clue": "This Texas capital is called the 'Live Music Capital of the World,' hosts SXSW festival annually, and is home to the University of Texas Longhorns.",
+      "answer": "Austin, TX",
+      "lat": 30.2672,
+      "lng": -97.7431
+    },
+    {
+      "id": 6,
+      "type": "capital",
+      "clue": "The capital of New Mexico is the oldest state capital in the US, founded by Spanish colonists in 1610 — over a decade before the Pilgrims landed at Plymouth.",
+      "answer": "Santa Fe, NM",
+      "lat": 35.6869,
+      "lng": -105.9378
+    },
+    {
+      "id": 7,
+      "type": "capital",
+      "clue": "This capital of Arizona has grown from a frontier town in 1867 to the most populous state capital in the US — over 1.6 million people call it home.",
+      "answer": "Phoenix, AZ",
+      "lat": 33.4484,
+      "lng": -112.0740
+    },
+    {
+      "id": 8,
+      "type": "capital",
+      "clue": "Nevada's capital is not Las Vegas — it's this smaller city named after a Spanish explorer, located in the western part of the state near Lake Tahoe.",
+      "answer": "Carson City, NV",
+      "lat": 39.1638,
+      "lng": -119.7674
+    },
+    {
+      "id": 9,
+      "type": "capital",
+      "clue": "The capital of Utah was named by Brigham Young and serves as headquarters for The Church of Jesus Christ of Latter-day Saints.",
+      "answer": "Salt Lake City, UT",
+      "lat": 40.7608,
+      "lng": -111.8910
+    },
+    {
+      "id": 10,
+      "type": "capital",
+      "clue": "Oregon's capital sits in the Willamette Valley surrounded by farms that produce a large share of the nation's hazelnuts, grass seed, and Christmas trees.",
+      "answer": "Salem, OR",
+      "lat": 44.9429,
+      "lng": -123.0351
+    },
+    {
+      "id": 11,
+      "type": "capital",
+      "clue": "Washington State's capital is known for its impressive state capitol dome and its proximity to Puget Sound — though it's often confused with the national capital.",
+      "answer": "Olympia, WA",
+      "lat": 47.0379,
+      "lng": -122.9007
+    },
+    {
+      "id": 12,
+      "type": "capital",
+      "clue": "Idaho's capital is named after a French word meaning 'wooded' and sits along the Boise River in the high desert foothills.",
+      "answer": "Boise, ID",
+      "lat": 43.6150,
+      "lng": -116.2023
+    },
+    {
+      "id": 13,
+      "type": "capital",
+      "clue": "Montana's capital sits at the base of Mount Helena and was a booming gold rush town in the 1860s before becoming the state seat of government.",
+      "answer": "Helena, MT",
+      "lat": 46.5958,
+      "lng": -112.0270
+    },
+    {
+      "id": 14,
+      "type": "capital",
+      "clue": "Wyoming's capital is nicknamed the 'Magic City of the Plains' and hosts Cheyenne Frontier Days — the world's largest outdoor rodeo.",
+      "answer": "Cheyenne, WY",
+      "lat": 41.1400,
+      "lng": -104.8202
+    },
+    {
+      "id": 15,
+      "type": "capital",
+      "clue": "North Dakota's capital has the tallest capitol building in the US — an 18-story Art Deco skyscraper nicknamed the 'Skyscraper on the Plains.'",
+      "answer": "Bismarck, ND",
+      "lat": 46.8083,
+      "lng": -100.7837
+    },
+    {
+      "id": 16,
+      "type": "capital",
+      "clue": "South Dakota's capital was named after a Missouri River steamboat and sits in the center of the state — far from the famous Badlands and Black Hills.",
+      "answer": "Pierre, SD",
+      "lat": 44.3683,
+      "lng": -100.3510
+    },
+    {
+      "id": 17,
+      "type": "capital",
+      "clue": "Nebraska's capital has the second-tallest state capitol in the US and is home to the iconic 'Sower' statue atop its dome.",
+      "answer": "Lincoln, NE",
+      "lat": 40.8136,
+      "lng": -96.7026
+    },
+    {
+      "id": 18,
+      "type": "capital",
+      "clue": "Kansas's capital was the end of the famous Chisholm Trail cattle drive in the 1860s and served as a Wild West boomtown before becoming the state seat.",
+      "answer": "Topeka, KS",
+      "lat": 39.0473,
+      "lng": -95.6752
+    },
+    {
+      "id": 19,
+      "type": "capital",
+      "clue": "Oklahoma's capital is the only state capital with an active oil well on its grounds — the capitol building itself sits atop an oil field.",
+      "answer": "Oklahoma City, OK",
+      "lat": 35.4676,
+      "lng": -97.5164
+    },
+    {
+      "id": 20,
+      "type": "capital",
+      "clue": "Minnesota's capital sits across the Mississippi River from Minneapolis and is called the 'Twin Cities' — its impressive capitol dome is larger than the US Capitol's.",
+      "answer": "Saint Paul, MN",
+      "lat": 44.9537,
+      "lng": -93.0900
+    },
+    {
+      "id": 21,
+      "type": "capital",
+      "clue": "Iowa's capital sits on the Des Moines River and hosts the largest state fair in the US — a 10-day event attracting over a million visitors.",
+      "answer": "Des Moines, IA",
+      "lat": 41.5868,
+      "lng": -93.6250
+    },
+    {
+      "id": 22,
+      "type": "capital",
+      "clue": "Missouri's capital is a small city on the Missouri River named for Thomas Jefferson — the man who authorized the Louisiana Purchase.",
+      "answer": "Jefferson City, MO",
+      "lat": 38.5767,
+      "lng": -92.1735
+    },
+    {
+      "id": 23,
+      "type": "capital",
+      "clue": "Wisconsin's capital sits on a narrow isthmus between two lakes and is home to the University of Wisconsin — its campus sits right in the heart of the city.",
+      "answer": "Madison, WI",
+      "lat": 43.0731,
+      "lng": -89.4012
+    },
+    {
+      "id": 24,
+      "type": "capital",
+      "clue": "Illinois's capital is a small city in the center of the state — not Chicago. Abraham Lincoln practiced law here for 17 years before becoming president.",
+      "answer": "Springfield, IL",
+      "lat": 39.7817,
+      "lng": -89.6501
+    },
+    {
+      "id": 25,
+      "type": "capital",
+      "clue": "Indiana's capital is home to the Indianapolis Motor Speedway — the world's largest sports venue by capacity, hosting the Indy 500 every May.",
+      "answer": "Indianapolis, IN",
+      "lat": 39.7684,
+      "lng": -86.1581
+    },
+    {
+      "id": 26,
+      "type": "capital",
+      "clue": "Ohio's capital was planned from scratch in 1812 to serve as the state seat — it was never a major river town but grew around government and Ohio State University.",
+      "answer": "Columbus, OH",
+      "lat": 39.9612,
+      "lng": -82.9988
+    },
+    {
+      "id": 27,
+      "type": "capital",
+      "clue": "Michigan's capital is not Detroit — it's this smaller city further north, chosen as capital in 1847 partly to be more central to the state.",
+      "answer": "Lansing, MI",
+      "lat": 42.7325,
+      "lng": -84.5555
+    },
+    {
+      "id": 28,
+      "type": "capital",
+      "clue": "Kentucky's capital sits along the Kentucky River and is famous for its horse farms — Keeneland Race Course is just minutes away.",
+      "answer": "Frankfort, KY",
+      "lat": 38.2009,
+      "lng": -84.8733
+    },
+    {
+      "id": 29,
+      "type": "capital",
+      "clue": "Tennessee's capital is the country music capital of the world, home to the Grand Ole Opry, and was a major Union stronghold during the Civil War.",
+      "answer": "Nashville, TN",
+      "lat": 36.1627,
+      "lng": -86.7816
+    },
+    {
+      "id": 30,
+      "type": "capital",
+      "clue": "Alabama's capital was the first capital of the Confederacy and the site of the historic 1965 Voting Rights marches from Selma to this city.",
+      "answer": "Montgomery, AL",
+      "lat": 32.3668,
+      "lng": -86.2999
+    },
+    {
+      "id": 31,
+      "type": "capital",
+      "clue": "Mississippi's capital is named after Andrew Jackson and sits in the center of the state — it hosts the International Ballet Competition every four years.",
+      "answer": "Jackson, MS",
+      "lat": 32.2988,
+      "lng": -90.1848
+    },
+    {
+      "id": 32,
+      "type": "capital",
+      "clue": "Louisiana's capital has the tallest state capitol building in the US at 34 stories — built by Governor Huey Long, who was later assassinated in its hallway.",
+      "answer": "Baton Rouge, LA",
+      "lat": 30.4515,
+      "lng": -91.1871
+    },
+    {
+      "id": 33,
+      "type": "capital",
+      "clue": "Arkansas's capital is on the Arkansas River and was named by French explorers for a small rock formation they spotted from their boats — 'La Petite Roche.'",
+      "answer": "Little Rock, AR",
+      "lat": 34.7465,
+      "lng": -92.2896
+    },
+    {
+      "id": 34,
+      "type": "capital",
+      "clue": "Georgia's capital is home to the busiest airport in the world, CNN headquarters, and the world's largest aquarium.",
+      "answer": "Atlanta, GA",
+      "lat": 33.7490,
+      "lng": -84.3880
+    },
+    {
+      "id": 35,
+      "type": "capital",
+      "clue": "Florida's capital was originally a compromise location — it split the difference between Pensacola and St. Augustine, the two largest cities at the time of statehood.",
+      "answer": "Tallahassee, FL",
+      "lat": 30.4518,
+      "lng": -84.2807
+    },
+    {
+      "id": 36,
+      "type": "capital",
+      "clue": "South Carolina's capital sits at the geographic center of the state and houses Fort Jackson — the largest US Army basic combat training facility.",
+      "answer": "Columbia, SC",
+      "lat": 34.0007,
+      "lng": -81.0348
+    },
+    {
+      "id": 37,
+      "type": "capital",
+      "clue": "North Carolina's capital has more state government employees per capita than almost any other city in the US — it was founded specifically to be the state seat.",
+      "answer": "Raleigh, NC",
+      "lat": 35.7796,
+      "lng": -78.6382
+    },
+    {
+      "id": 38,
+      "type": "capital",
+      "clue": "West Virginia's capital sits at the confluence of the Elk and Kanawha Rivers — its golden-domed capitol was designed by the same architect as the Rhode Island statehouse.",
+      "answer": "Charleston, WV",
+      "lat": 38.3498,
+      "lng": -81.6326
+    },
+    {
+      "id": 39,
+      "type": "capital",
+      "clue": "Virginia's capital was the capital of the Confederacy during the Civil War and is home to the oldest continuously operating state legislature in the Western Hemisphere.",
+      "answer": "Richmond, VA",
+      "lat": 37.5407,
+      "lng": -77.4360
+    },
+    {
+      "id": 40,
+      "type": "capital",
+      "clue": "Maryland's capital on the Severn River is home to the United States Naval Academy — which has graduated more astronauts than any other undergraduate institution.",
+      "answer": "Annapolis, MD",
+      "lat": 38.9784,
+      "lng": -76.4922
+    },
+    {
+      "id": 41,
+      "type": "capital",
+      "clue": "Delaware's capital is tiny — fewer than 40,000 people — yet the state whose capital it is hosts the legal addresses of more corporations than any other state.",
+      "answer": "Dover, DE",
+      "lat": 39.1582,
+      "lng": -75.5244
+    },
+    {
+      "id": 42,
+      "type": "capital",
+      "clue": "Pennsylvania's capital on the Susquehanna River sits 100 miles west of Philadelphia — it was the site of a near nuclear disaster at Three Mile Island in 1979.",
+      "answer": "Harrisburg, PA",
+      "lat": 40.2732,
+      "lng": -76.8867
+    },
+    {
+      "id": 43,
+      "type": "capital",
+      "clue": "New Jersey's capital on the Delaware River was George Washington's crossing point on Christmas night 1776 — the surprise attack the next morning turned the Revolution.",
+      "answer": "Trenton, NJ",
+      "lat": 40.2171,
+      "lng": -74.7429
+    },
+    {
+      "id": 44,
+      "type": "capital",
+      "clue": "New York's capital has been the state seat since 1797 — its Empire State Plaza features a performing arts center nicknamed 'The Egg' for its oval shape.",
+      "answer": "Albany, NY",
+      "lat": 42.6526,
+      "lng": -73.7562
+    },
+    {
+      "id": 45,
+      "type": "capital",
+      "clue": "Connecticut's capital is home to the oldest continuously published newspaper in the US — the Hartford Courant, founded in 1764.",
+      "answer": "Hartford, CT",
+      "lat": 41.7658,
+      "lng": -72.6851
+    },
+    {
+      "id": 46,
+      "type": "capital",
+      "clue": "Rhode Island's capital is the smallest state capital by land area in the US and was founded by Roger Williams in 1636 after he was banished from Massachusetts.",
       "answer": "Providence, RI",
       "lat": 41.8240,
       "lng": -71.4128
     },
     {
-      "id": 5,
-      "type": "state_capital",
-      "clue": "This Texas capital is famous for its live music scene and is home to the University of Texas Longhorns.",
-      "answer": "Austin, TX",
-      "lat": 30.2672,
-      "lng": -97.7431
+      "id": 47,
+      "type": "capital",
+      "clue": "Massachusetts's capital is the largest city in New England and home to the Freedom Trail — a 2.5-mile walking path linking 16 historic Revolutionary War sites.",
+      "answer": "Boston, MA",
+      "lat": 42.3601,
+      "lng": -71.0589
+    },
+    {
+      "id": 48,
+      "type": "capital",
+      "clue": "Vermont's capital is the smallest state capital by population in the US — fewer than 8,000 people — nestled in the Green Mountains on the Winooski River.",
+      "answer": "Montpelier, VT",
+      "lat": 44.2601,
+      "lng": -72.5754
+    },
+    {
+      "id": 49,
+      "type": "capital",
+      "clue": "New Hampshire's capital on the Merrimack River was a major textile manufacturing city in the 19th century, powered by the river's falls.",
+      "answer": "Concord, NH",
+      "lat": 43.2081,
+      "lng": -71.5376
+    },
+    {
+      "id": 50,
+      "type": "capital",
+      "clue": "Maine's capital on the Kennebec River is the home of Blaine House — one of the oldest governor's mansions in continuous use in the United States.",
+      "answer": "Augusta, ME",
+      "lat": 44.3106,
+      "lng": -69.7795
     }
   ]
 }

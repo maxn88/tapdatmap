@@ -96,8 +96,10 @@ export default function GameEngine({ puzzle, mode }: Props) {
     return (
       <div className="flex flex-col h-screen bg-gray-950">
         <Header title={puzzle.title} score={totalScore} roundIndex={roundIndex} total={puzzle.rounds.length} />
-        <div className="flex-1 flex items-center justify-center p-4">
-          <ShareCard results={results} totalScore={totalScore} mode={mode} onRestart={handleRestart} />
+        <div className="flex-1 overflow-y-auto">
+          <div className="flex items-center justify-center min-h-full p-4">
+            <ShareCard results={results} totalScore={totalScore} mode={mode} onRestart={handleRestart} />
+          </div>
         </div>
       </div>
     );
