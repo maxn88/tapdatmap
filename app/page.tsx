@@ -1,20 +1,13 @@
 export const revalidate = 0; // never cache — puzzle must be fresh each request
 
 import { Suspense } from "react";
-import puzzles from "@/data/daily-puzzles.json";
-import type { Puzzle } from "@/lib/types";
 import GameEngine from "@/components/GameEngine";
 import QuizMenu from "@/components/QuizMenu";
 import AdBanner from "@/components/AdBanner";
-
-function getTodaysPuzzle(): Puzzle {
-  const today = new Date().toISOString().slice(0, 10);
-  const data = puzzles as Record<string, Puzzle>;
-  return data[today] ?? data[Object.keys(data)[0]];
-}
+import { getDailyPuzzle } from "@/lib/puzzles";
 
 export default function HomePage() {
-  const puzzle = getTodaysPuzzle();
+  const puzzle = getDailyPuzzle();
 
   return (
     <main className="h-screen flex flex-col bg-gray-950 text-white">

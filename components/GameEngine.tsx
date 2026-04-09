@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useRef } from "react";
 import dynamic from "next/dynamic";
 import type { Puzzle, Quiz, GuessResult, GamePhase } from "@/lib/types";
 import { distanceMiles, distanceToNearestBboxEdge, reverseGeocodeState } from "@/lib/geo";
@@ -23,53 +23,61 @@ export default function GameEngine({ puzzle, mode }: Props) {
   const [phase, setPhase] = useState<GamePhase>("guessing");
   const [guessPin, setGuessPin] = useState<{ lat: number; lng: number } | null>(null);
   const [results, setResults] = useState<GuessResult[]>([]);
+  const guessLockedRef = useRef(false);
 
   const currentRound = puzzle.rounds[roundIndex];
   const totalScore = results.reduce((sum, r) => sum + r.score, 0);
 
   const handleGuess = useCallback(
     async (lat: number, lng: number) => {
-      if (phase !== "guessing") return;
+      if (phase !== "guessing" || guessLockedRef.current) return;
+      guessLockedRef.current = true;
       setGuessPin({ lat, lng });
 
-      const roundNumber = roundIndex + 1;
-      let dist: number;
-      let hitState = false;
-      let score: number;
+      try {
+        const roundNumber = roundIndex + 1;
+        let dist: number;
+        let hitState = false;
+        let score: number;
 
-      if (currentRound.type === "state") {
-        // Check if the guess lands inside the correct state via reverse geocoding
-        const guessedState = await reverseGeocodeState(lat, lng, MAPBOX_TOKEN);
-        hitState = guessedState?.toLowerCase() === currentRound.answer.toLowerCase();
+        if (currentRound.type === "state") {
+          // Check if the guess lands inside the correct state via reverse geocoding
+          const guessedState = await reverseGeocodeState(lat, lng, MAPBOX_TOKEN);
+          hitState = guessedState?.toLowerCase() === currentRound.answer.toLowerCase();
 
-        if (hitState) {
-          score = MAX_POINTS_PER_ROUND * roundNumber;
-          dist = 0;
+          if (hitState) {
+            score = MAX_POINTS_PER_ROUND * roundNumber;
+            dist = 0;
+          } else {
+            // Distance from nearest point on the state's bounding box edge
+            dist = currentRound.bbox
+              ? distanceToNearestBboxEdge(lat, lng, currentRound.bbox)
+              : distanceMiles(lat, lng, currentRound.lat, currentRound.lng);
+            score = calculateRoundScore(dist, roundNumber);
+          }
         } else {
-          // Distance from nearest point on the state's bounding box edge
-          dist = currentRound.bbox
-            ? distanceToNearestBboxEdge(lat, lng, currentRound.bbox)
-            : distanceMiles(lat, lng, currentRound.lat, currentRound.lng);
+          dist = distanceMiles(lat, lng, currentRound.lat, currentRound.lng);
           score = calculateRoundScore(dist, roundNumber);
         }
-      } else {
-        dist = distanceMiles(lat, lng, currentRound.lat, currentRound.lng);
-        score = calculateRoundScore(dist, roundNumber);
-      }
 
-      setResults((prev) => [
-        ...prev,
-        {
-          round: currentRound,
-          guessLat: lat,
-          guessLng: lng,
-          distanceMiles: dist,
-          score,
-          roundNumber,
-          hitState,
-        },
-      ]);
-      setPhase("result");
+        setResults((prev) => [
+          ...prev,
+          {
+            round: currentRound,
+            guessLat: lat,
+            guessLng: lng,
+            distanceMiles: dist,
+            score,
+            roundNumber,
+            hitState,
+          },
+        ]);
+        setPhase("result");
+      } catch (error) {
+        guessLockedRef.current = false;
+        setGuessPin(null);
+        console.error("Failed to score guess", error);
+      }
     },
     [phase, currentRound, roundIndex]
   );
@@ -79,6 +87,7 @@ export default function GameEngine({ puzzle, mode }: Props) {
     if (nextIndex >= puzzle.rounds.length) {
       setPhase("complete");
     } else {
+      guessLockedRef.current = false;
       setRoundIndex(nextIndex);
       setGuessPin(null);
       setPhase("guessing");
@@ -86,6 +95,7 @@ export default function GameEngine({ puzzle, mode }: Props) {
   }, [roundIndex, puzzle.rounds.length]);
 
   const handleRestart = useCallback(() => {
+    guessLockedRef.current = false;
     setRoundIndex(0);
     setPhase("guessing");
     setGuessPin(null);
