@@ -3,15 +3,14 @@
 import { useState, useCallback, useRef } from "react";
 import dynamic from "next/dynamic";
 import type { Puzzle, Quiz, GuessResult, GamePhase } from "@/lib/types";
-import { distanceMiles, distanceToNearestBboxEdge, reverseGeocodeState } from "@/lib/geo";
-import { calculateRoundScore, MAX_POINTS_PER_ROUND } from "@/lib/scoring";
+import { distanceMiles } from "@/lib/geo";
+import { loadBoundary, scoreBoundary, type Boundary } from "@/lib/boundaries";
+import { calculateRoundScore } from "@/lib/scoring";
 import RoundResult from "./RoundResult";
 import ShareCard from "./ShareCard";
 import CluePanel from "./CluePanel";
 
 const Map3D = dynamic(() => import("./Map3D"), { ssr: false });
-
-const MAPBOX_TOKEN = process.env.NEXT_PUBLIC_MAPBOX_TOKEN!;
 
 interface Props {
   puzzle: Puzzle | Quiz;
@@ -23,6 +22,9 @@ export default function GameEngine({ puzzle, mode }: Props) {
   const [phase, setPhase] = useState<GamePhase>("guessing");
   const [guessPin, setGuessPin] = useState<{ lat: number; lng: number } | null>(null);
   const [results, setResults] = useState<GuessResult[]>([]);
+  const [boundary, setBoundary] = useState<Boundary | null>(null);
+  const [boundaryTarget, setBoundaryTarget] = useState<[number, number]>();
+  const [guessError, setGuessError] = useState(false);
   const guessLockedRef = useRef(false);
 
   const currentRound = puzzle.rounds[roundIndex];
@@ -33,32 +35,17 @@ export default function GameEngine({ puzzle, mode }: Props) {
       if (phase !== "guessing" || guessLockedRef.current) return;
       guessLockedRef.current = true;
       setGuessPin({ lat, lng });
+      setGuessError(false);
 
       try {
         const roundNumber = roundIndex + 1;
-        let dist: number;
-        let hitState = false;
-        let score: number;
-
-        if (currentRound.type === "state") {
-          // Check if the guess lands inside the correct state via reverse geocoding
-          const guessedState = await reverseGeocodeState(lat, lng, MAPBOX_TOKEN);
-          hitState = guessedState?.toLowerCase() === currentRound.answer.toLowerCase();
-
-          if (hitState) {
-            score = MAX_POINTS_PER_ROUND * roundNumber;
-            dist = 0;
-          } else {
-            // Distance from nearest point on the state's bounding box edge
-            dist = currentRound.bbox
-              ? distanceToNearestBboxEdge(lat, lng, currentRound.bbox)
-              : distanceMiles(lat, lng, currentRound.lat, currentRound.lng);
-            score = calculateRoundScore(dist, roundNumber);
-          }
-        } else {
-          dist = distanceMiles(lat, lng, currentRound.lat, currentRound.lng);
-          score = calculateRoundScore(dist, roundNumber);
-        }
+        const boundary = await loadBoundary(currentRound);
+        const distance = boundary ? 0 : distanceMiles(lat, lng, currentRound.lat, currentRound.lng);
+        const result = boundary
+          ? scoreBoundary(lat, lng, boundary, roundNumber)
+          : { distanceMiles: distance, score: calculateRoundScore(distance, roundNumber) };
+        setBoundary(boundary);
+        setBoundaryTarget("nearestBoundaryPoint" in result ? result.nearestBoundaryPoint : undefined);
 
         setResults((prev) => [
           ...prev,
@@ -66,16 +53,15 @@ export default function GameEngine({ puzzle, mode }: Props) {
             round: currentRound,
             guessLat: lat,
             guessLng: lng,
-            distanceMiles: dist,
-            score,
+            ...result,
             roundNumber,
-            hitState,
           },
         ]);
         setPhase("result");
       } catch (error) {
         guessLockedRef.current = false;
         setGuessPin(null);
+        setGuessError(true);
         console.error("Failed to score guess", error);
       }
     },
@@ -132,11 +118,18 @@ export default function GameEngine({ puzzle, mode }: Props) {
             phase={phase as "guessing" | "result" | "idle" | "complete"}
             onGuess={handleGuess}
             guessPin={guessPin}
+            boundary={phase === "result" ? boundary : null}
+            boundaryTarget={boundaryTarget}
           />
         </div>
 
         {/* Panel — fixed compact height on mobile, sidebar on desktop */}
         <div className="h-[45vh] md:h-auto md:flex-none md:w-72 flex flex-col bg-gray-900 border-t md:border-t-0 md:border-l border-gray-800 overflow-y-auto shrink-0">
+          {guessError && (
+            <p className="px-3 pt-3 text-sm text-amber-300" role="status">
+              Couldn’t check that guess. Tap the map to try again.
+            </p>
+          )}
           {phase === "guessing" && (
             <CluePanel
               round={currentRound}

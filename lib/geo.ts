@@ -22,41 +22,6 @@ export function formatDistance(miles: number): string {
   return `${Math.round(miles).toLocaleString()} mi`;
 }
 
-/**
- * Reverse geocode a lat/lng to a US state name using Mapbox.
- * Returns the state name (e.g. "Alaska") or null on failure.
- */
-export async function reverseGeocodeState(
-  lat: number,
-  lng: number,
-  token: string
-): Promise<string | null> {
-  try {
-    const res = await fetch(
-      `https://api.mapbox.com/geocoding/v5/mapbox.places/${lng},${lat}.json?types=region&country=us&access_token=${token}`
-    );
-    const data = await res.json();
-    return (data.features?.[0]?.text as string) ?? null;
-  } catch {
-    return null;
-  }
-}
-
-/**
- * For a point outside a state bounding box, returns the distance in miles
- * to the nearest point on the bbox edge. Used for state-type scoring.
- */
-export function distanceToNearestBboxEdge(
-  lat: number,
-  lng: number,
-  bbox: [number, number, number, number]
-): number {
-  const [minLng, minLat, maxLng, maxLat] = bbox;
-  const clampedLng = Math.max(minLng, Math.min(maxLng, lng));
-  const clampedLat = Math.max(minLat, Math.min(maxLat, lat));
-  return distanceMiles(lat, lng, clampedLat, clampedLng);
-}
-
 /** Get midpoint between two coords (for arc rendering) */
 export function midpoint(
   lat1: number,

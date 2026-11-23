@@ -1,4 +1,4 @@
-export type RoundType = "city" | "landmark" | "national_park" | "county" | "state_capital" | "state";
+export type RoundType = "city" | "landmark" | "national_park" | "county" | "state_capital" | "state" | "capital" | "monument" | "university";
 
 export interface Round {
   id: number;
@@ -7,7 +7,7 @@ export interface Round {
   answer: string;
   lat: number;
   lng: number;
-  /** [minLng, minLat, maxLng, maxLat] bounding box — used for state rounds */
+  /** [minLng, minLat, maxLng, maxLat] legacy state bounding box */
   bbox?: [number, number, number, number];
 }
 
@@ -32,7 +32,7 @@ export interface GuessResult {
   distanceMiles: number;
   score: number;
   roundNumber: number;
-  hitState?: boolean; // true when guess landed inside the correct state boundary
+  hitBoundary?: boolean;
 }
 
 export type GameMode = "daily" | "quiz";

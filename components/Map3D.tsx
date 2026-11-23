@@ -9,6 +9,8 @@ import Map, {
   type MapMouseEvent,
 } from "react-map-gl/mapbox-legacy";
 import "mapbox-gl/dist/mapbox-gl.css";
+import { bbox } from "@turf/turf";
+import type { Boundary } from "@/lib/boundaries";
 import type { Round } from "@/lib/types";
 
 const MAPBOX_TOKEN = process.env.NEXT_PUBLIC_MAPBOX_TOKEN!;
@@ -28,9 +30,11 @@ interface Props {
   phase: "guessing" | "result" | "idle" | "complete";
   onGuess: (lat: number, lng: number) => void;
   guessPin: GuessPin | null;
+  boundary: Boundary | null;
+  boundaryTarget?: [number, number];
 }
 
-export default function Map3D({ round, phase, onGuess, guessPin }: Props) {
+export default function Map3D({ round, phase, onGuess, guessPin, boundary, boundaryTarget }: Props) {
   const mapRef = useRef<MapRef>(null);
 
   const handleClick = useCallback(
@@ -44,9 +48,19 @@ export default function Map3D({ round, phase, onGuess, guessPin }: Props) {
   // Fly to correct answer when result is shown
   useEffect(() => {
     if (phase === "result" && round && mapRef.current) {
+      if (boundary) {
+        const [west, south, east, north] = bbox(boundary);
+        // A boundary spanning the antimeridian has a wide conventional bounding box.
+        if (east - west < 180) {
+          mapRef.current.fitBounds([[west, south], [east, north]], {
+            padding: 35, maxZoom: 9, pitch: 0, duration: 1200,
+          });
+          return;
+        }
+      }
       mapRef.current.flyTo({
         center: [round.lng, round.lat],
-        zoom: 5,
+        zoom: boundary ? 3 : 5,
         pitch: 45,
         duration: 1200,
       });
@@ -60,12 +74,13 @@ export default function Map3D({ round, phase, onGuess, guessPin }: Props) {
         duration: 800,
       });
     }
-  }, [phase, round]);
+  }, [phase, round, boundary]);
 
   // Arc GeoJSON between guess and answer
+  const target = boundary ? boundaryTarget : round && ([round.lng, round.lat] as const);
   const arcGeoJson =
-    phase === "result" && guessPin && round
-      ? buildArc(guessPin.lng, guessPin.lat, round.lng, round.lat)
+    phase === "result" && guessPin && target
+      ? buildArc(guessPin.lng, guessPin.lat, target[0], target[1])
       : null;
 
   return (
@@ -110,6 +125,13 @@ export default function Map3D({ round, phase, onGuess, guessPin }: Props) {
           }
         />
 
+        {phase === "result" && boundary && (
+          <Source id="answer-boundary" type="geojson" data={boundary}>
+            <Layer id="answer-fill" type="fill" paint={{ "fill-color": "#22c55e", "fill-opacity": 0.2 }} />
+            <Layer id="answer-outline" type="line" paint={{ "line-color": "#4ade80", "line-width": 3 }} />
+          </Source>
+        )}
+
         {/* Arc line between guess and correct answer */}
         {arcGeoJson && (
           <Source id="arc" type="geojson" data={arcGeoJson}>
@@ -137,7 +159,7 @@ export default function Map3D({ round, phase, onGuess, guessPin }: Props) {
         )}
 
         {/* Correct answer marker (shown in result phase) */}
-        {phase === "result" && round && (
+        {phase === "result" && round && !boundary && (
           <Marker longitude={round.lng} latitude={round.lat}>
             <div className="flex flex-col items-center -translate-y-full">
               <div className="px-2 py-0.5 rounded text-xs font-bold bg-green-500 text-white shadow mb-1 whitespace-nowrap">
@@ -169,11 +191,13 @@ function buildArc(
   steps = 50
 ): GeoJSON.Feature<GeoJSON.LineString> {
   const coords: [number, number][] = [];
+  const longitudeChange = ((lng2 - lng1 + 180) % 360 + 360) % 360 - 180;
+  const curvature = Math.min(3, Math.hypot(longitudeChange, lat2 - lat1) / 6);
   for (let i = 0; i <= steps; i++) {
     const t = i / steps;
-    const lng = lng1 + (lng2 - lng1) * t;
+    const lng = lng1 + longitudeChange * t;
     const lat = lat1 + (lat2 - lat1) * t;
-    const arc = Math.sin(Math.PI * t) * 3;
+    const arc = Math.sin(Math.PI * t) * curvature;
     coords.push([lng, lat + arc]);
   }
   return {
