@@ -4230,5 +4230,4417 @@
         "lng": -80.649
       }
     ]
+  },
+  "2026-11-23": {
+    "puzzleNumber": 93,
+    "title": "Puzzle #93",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city has honky-tonks on Lower Broadway and the Ryman Auditorium a block away?",
+        "answer": "Nashville, TN",
+        "lat": 36.1627,
+        "lng": -86.7816
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find Mississippi's capital on the Pearl River, home to the Mississippi Civil Rights Museum.",
+        "answer": "Jackson, MS",
+        "lat": 32.2988,
+        "lng": -90.1848
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the desert park with Badwater Basin, the lowest point in North America.",
+        "answer": "Death Valley National Park, CA",
+        "lat": 36.5054,
+        "lng": -117.0794
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the white memorial built above a sunken battleship in Pearl Harbor.",
+        "answer": "USS Arizona Memorial, HI",
+        "lat": 21.3645,
+        "lng": -157.9768
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "Which Texas county contains the state capitol in downtown Austin and the city of Lakeway?",
+        "answer": "Travis County, TX",
+        "lat": 30.3,
+        "lng": -97.75
+      }
+    ]
+  },
+  "2026-11-24": {
+    "puzzleNumber": 94,
+    "title": "Puzzle #94",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city between the Rio Grande and the Sandia Mountains hosts the International Balloon Fiesta?",
+        "answer": "Albuquerque, NM",
+        "lat": 35.0844,
+        "lng": -106.6504
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Find the South Florida park that protects wetlands along a broad, slow-moving river of grass.",
+        "answer": "Everglades National Park, FL",
+        "lat": 25.2866,
+        "lng": -80.8987
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the Yellow Jackets' engineering campus in Midtown Atlanta.",
+        "answer": "Georgia Tech, Atlanta, GA",
+        "lat": 33.7756,
+        "lng": -84.3963
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find Arizona's capital, with Sky Harbor Airport in the Valley of the Sun.",
+        "answer": "Phoenix, AZ",
+        "lat": 33.4484,
+        "lng": -112.074
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "A hillside advertisement once ended in LAND. Find the famous letters that remain on Mount Lee.",
+        "answer": "Hollywood Sign, CA",
+        "lat": 34.1341,
+        "lng": -118.3215
+      }
+    ]
+  },
+  "2026-11-25": {
+    "puzzleNumber": 95,
+    "title": "Puzzle #95",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city has the Stone Arch Bridge over the Mississippi and the Chain of Lakes to its southwest?",
+        "answer": "Minneapolis, MN",
+        "lat": 44.9778,
+        "lng": -93.265
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the Florida launch site with pads 39A and 39B on Merritt Island.",
+        "answer": "Kennedy Space Center, FL",
+        "lat": 28.5729,
+        "lng": -80.649
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Find the Texas capital along Lady Bird Lake, home to the Longhorns.",
+        "answer": "Austin, TX",
+        "lat": 30.2672,
+        "lng": -97.7431
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Find the national park on the Big Island that includes Kīlauea and part of Mauna Loa.",
+        "answer": "Hawaii Volcanoes National Park, HI",
+        "lat": 19.4194,
+        "lng": -155.2885
+      },
+      {
+        "id": 5,
+        "type": "state",
+        "clue": "Which state contains the Delta towns of Clarksdale and Greenville and the Gulf Coast city of Biloxi?",
+        "answer": "Mississippi",
+        "lat": 32.7541,
+        "lng": -89.9711,
+        "bbox": [
+          -91.7,
+          30.2,
+          -88.1,
+          35
+        ]
+      }
+    ]
+  },
+  "2026-11-26": {
+    "puzzleNumber": 96,
+    "title": "Puzzle #96",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which Missouri city has jazz in the 18th and Vine district and the Chiefs at Arrowhead?",
+        "answer": "Kansas City, MO",
+        "lat": 39.0997,
+        "lng": -94.5786
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "Which Washington county includes Seattle, Bellevue, and Mercer Island?",
+        "answer": "King County, WA",
+        "lat": 47.53,
+        "lng": -121.83
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Find Oregon's capital in the Willamette Valley, south of Portland.",
+        "answer": "Salem, OR",
+        "lat": 44.9429,
+        "lng": -123.0351
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Find the park protecting five islands off the coast of Southern California.",
+        "answer": "Channel Islands National Park, CA",
+        "lat": 34.0069,
+        "lng": -119.7785
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the star-shaped fort whose flag inspired the lyrics of the U.S. national anthem.",
+        "answer": "Fort McHenry, MD",
+        "lat": 39.2631,
+        "lng": -76.5796
+      }
+    ]
+  },
+  "2026-11-27": {
+    "puzzleNumber": 97,
+    "title": "Puzzle #97",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "The BeltLine loops through neighborhoods of this city, where Coca-Cola was invented.",
+        "answer": "Atlanta, GA",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Find the South Dakota park with striped pinnacles and fossil beds surrounded by prairie.",
+        "answer": "Badlands National Park, SD",
+        "lat": 43.8554,
+        "lng": -102.3397
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the Crimson Tide's main campus near the Black Warrior River.",
+        "answer": "University of Alabama, Tuscaloosa, AL",
+        "lat": 33.2119,
+        "lng": -87.5443
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find the Missouri capital on the river crossing between Columbia and the Lake of the Ozarks.",
+        "answer": "Jefferson City, MO",
+        "lat": 38.5767,
+        "lng": -92.1735
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the International Orange suspension bridge that carries traffic from San Francisco to Marin County.",
+        "answer": "Golden Gate Bridge, CA",
+        "lat": 37.8199,
+        "lng": -122.4783
+      }
+    ]
+  },
+  "2026-11-28": {
+    "puzzleNumber": 98,
+    "title": "Puzzle #98",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city connects its boroughs with the Staten Island Ferry and the Brooklyn Bridge?",
+        "answer": "New York, NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find the Illinois capital that Abraham Lincoln called home before moving to the White House.",
+        "answer": "Springfield, IL",
+        "lat": 39.7817,
+        "lng": -89.6501
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the former Spanish mission in downtown San Antonio associated with an 1836 siege.",
+        "answer": "The Alamo, TX",
+        "lat": 29.426,
+        "lng": -98.4861
+      },
+      {
+        "id": 4,
+        "type": "state",
+        "clue": "Find the state with the Great Salt Lake in the north and Zion Canyon near its southwestern corner.",
+        "answer": "Utah",
+        "lat": 39.321,
+        "lng": -111.0937,
+        "bbox": [
+          -114.1,
+          37,
+          -109,
+          42
+        ]
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the Alaska park surrounding the highest summit in North America.",
+        "answer": "Denali National Park, AK",
+        "lat": 63.3333,
+        "lng": -150.501
+      }
+    ]
+  },
+  "2026-11-29": {
+    "puzzleNumber": 99,
+    "title": "Puzzle #99",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "The Rock & Roll Hall of Fame sits on the Lake Erie waterfront of which city?",
+        "answer": "Cleveland, OH",
+        "lat": 41.4993,
+        "lng": -81.6944
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "Which Virginia county across the Potomac from Washington, D.C., contains the Pentagon and the Rosslyn skyline?",
+        "answer": "Arlington County, VA",
+        "lat": 38.88,
+        "lng": -77.1
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the sandstone formations called the Mittens near the Arizona–Utah border.",
+        "answer": "Monument Valley, AZ/UT",
+        "lat": 36.983,
+        "lng": -110.1077
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find Louisiana's capital upriver from New Orleans, home to LSU's Tiger Stadium.",
+        "answer": "Baton Rouge, LA",
+        "lat": 30.4515,
+        "lng": -91.1871
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the park in New Mexico's Tularosa Basin with dunes made of white gypsum.",
+        "answer": "White Sands National Park, NM",
+        "lat": 32.7872,
+        "lng": -106.3257
+      }
+    ]
+  },
+  "2026-11-30": {
+    "puzzleNumber": 100,
+    "title": "Puzzle #100",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city has Boathouse Row along the Schuylkill and a statue of Rocky near its art museum steps?",
+        "answer": "Philadelphia, PA",
+        "lat": 39.9526,
+        "lng": -75.1652
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the Gators' campus, where researchers developed a sports drink for the football team.",
+        "answer": "University of Florida, Gainesville, FL",
+        "lat": 29.6436,
+        "lng": -82.3549
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the protected grove of coastal redwoods in Marin County, north of the Golden Gate.",
+        "answer": "Muir Woods National Monument, CA",
+        "lat": 37.897,
+        "lng": -122.5811
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find Ohio's capital where the Scioto and Olentangy rivers meet.",
+        "answer": "Columbus, OH",
+        "lat": 39.9612,
+        "lng": -82.9988
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the park north of Moab where Delicate Arch stands on a sandstone ledge.",
+        "answer": "Arches National Park, UT",
+        "lat": 38.7331,
+        "lng": -109.5925
+      }
+    ]
+  },
+  "2026-12-01": {
+    "puzzleNumber": 101,
+    "title": "Puzzle #101",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "At which city do the Allegheny and Monongahela meet to form the Ohio River?",
+        "answer": "Pittsburgh, PA",
+        "lat": 40.4406,
+        "lng": -79.9959
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the Manhattan skyscraper with silver sunbursts in its crown and eagle ornaments near the top.",
+        "answer": "Chrysler Building, NY",
+        "lat": 40.7516,
+        "lng": -73.9755
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the park that includes the Grand Prismatic Spring, Old Faithful, and the Lamar Valley.",
+        "answer": "Yellowstone National Park, WY",
+        "lat": 44.428,
+        "lng": -110.5885
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find the Iowa capital at the junction of the Raccoon and Des Moines rivers.",
+        "answer": "Des Moines, IA",
+        "lat": 41.5868,
+        "lng": -93.625
+      },
+      {
+        "id": 5,
+        "type": "state",
+        "clue": "Which state consists of two large peninsulas joined by a bridge at the Straits of Mackinac?",
+        "answer": "Michigan",
+        "lat": 44.3148,
+        "lng": -85.6024,
+        "bbox": [
+          -90.4,
+          41.7,
+          -82.4,
+          48.3
+        ]
+      }
+    ]
+  },
+  "2026-12-02": {
+    "puzzleNumber": 102,
+    "title": "Puzzle #102",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city is home to Griffith Observatory and the Watts Towers?",
+        "answer": "Los Angeles, CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find Idaho's capital where the Boise River runs along the base of the foothills.",
+        "answer": "Boise, ID",
+        "lat": 43.615,
+        "lng": -116.2023
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the stone-towered suspension bridge carrying walkers over the East River between Manhattan and Brooklyn.",
+        "answer": "Brooklyn Bridge, NY",
+        "lat": 40.7061,
+        "lng": -73.9969
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Find the Virginia park where Skyline Drive follows the crest of the Blue Ridge.",
+        "answer": "Shenandoah National Park, VA",
+        "lat": 38.7268,
+        "lng": -78.3506
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "Which Florida county contains downtown Orlando and Universal Orlando?",
+        "answer": "Orange County, FL",
+        "lat": 28.5383,
+        "lng": -81.3792
+      }
+    ]
+  },
+  "2026-12-03": {
+    "puzzleNumber": 103,
+    "title": "Puzzle #103",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Beale Street and the recording rooms of Sun Studio put which city on the music map?",
+        "answer": "Memphis, TN",
+        "lat": 35.1495,
+        "lng": -90.049
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the Tar Heels' campus where the Old Well stands near the main quad.",
+        "answer": "UNC Chapel Hill, NC",
+        "lat": 35.9049,
+        "lng": -79.0469
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the Black Hills park known for a cave with honeycomb-like calcite called boxwork.",
+        "answer": "Wind Cave National Park, SD",
+        "lat": 43.5765,
+        "lng": -103.4782
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find Wisconsin's capital, where the statehouse stands between lakes Mendota and Monona.",
+        "answer": "Madison, WI",
+        "lat": 43.0731,
+        "lng": -89.4012
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the line of brightly painted cars buried nose-first in a field outside Amarillo.",
+        "answer": "Cadillac Ranch, TX",
+        "lat": 35.1872,
+        "lng": -101.987
+      }
+    ]
+  },
+  "2026-12-04": {
+    "puzzleNumber": 104,
+    "title": "Puzzle #104",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city at the south end of San Francisco Bay is home to the Winchester Mystery House?",
+        "answer": "San Jose, CA",
+        "lat": 37.3382,
+        "lng": -121.8863
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the building where delegates adopted the Declaration of Independence and later signed the U.S. Constitution.",
+        "answer": "Independence Hall, PA",
+        "lat": 39.9489,
+        "lng": -75.15
+      },
+      {
+        "id": 3,
+        "type": "state",
+        "clue": "Find the state where the Platte River runs from the western Panhandle toward Omaha.",
+        "answer": "Nebraska",
+        "lat": 41.4925,
+        "lng": -99.9018,
+        "bbox": [
+          -104.1,
+          40,
+          -95.3,
+          43
+        ]
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find the Indiana capital with Monument Circle at the heart of downtown.",
+        "answer": "Indianapolis, IN",
+        "lat": 39.7684,
+        "lng": -86.1581
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the park between Cleveland and Akron where a towpath follows a historic canal.",
+        "answer": "Cuyahoga Valley National Park, OH",
+        "lat": 41.2808,
+        "lng": -81.5678
+      }
+    ]
+  },
+  "2026-12-05": {
+    "puzzleNumber": 105,
+    "title": "Puzzle #105",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Where are the NASCAR Hall of Fame and a downtown locals call Uptown?",
+        "answer": "Charlotte, NC",
+        "lat": 35.2271,
+        "lng": -80.8431
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the North Side Chicago ballpark with ivy-covered outfield walls.",
+        "answer": "Wrigley Field, IL",
+        "lat": 41.9484,
+        "lng": -87.6553
+      },
+      {
+        "id": 3,
+        "type": "county",
+        "clue": "Which California county has Santa Monica and Pasadena within its borders?",
+        "answer": "Los Angeles County, CA",
+        "lat": 34.3,
+        "lng": -118.22
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find New Mexico's high-elevation capital, known for its adobe architecture.",
+        "answer": "Santa Fe, NM",
+        "lat": 35.687,
+        "lng": -105.9378
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the remote Lake Superior island park known for a long-running study of wolves and moose.",
+        "answer": "Isle Royale National Park, MI",
+        "lat": 47.9953,
+        "lng": -88.909
+      }
+    ]
+  },
+  "2026-12-06": {
+    "puzzleNumber": 106,
+    "title": "Puzzle #106",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which Chesapeake Bay port has the Inner Harbor, Fells Point, and the Orioles at Camden Yards?",
+        "answer": "Baltimore, MD",
+        "lat": 39.2904,
+        "lng": -76.6122
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the former federal prison on a rocky island in San Francisco Bay.",
+        "answer": "Alcatraz Island, CA",
+        "lat": 37.8267,
+        "lng": -122.423
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Find the Rhode Island capital north of Narragansett Bay, where Brown University sits on College Hill.",
+        "answer": "Providence, RI",
+        "lat": 41.824,
+        "lng": -71.4128
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the Hokies' main campus and Lane Stadium in Virginia's New River Valley.",
+        "answer": "Virginia Tech, Blacksburg, VA",
+        "lat": 37.2284,
+        "lng": -80.4234
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the Kentucky park where an extensive underground cave network runs near the Green River.",
+        "answer": "Mammoth Cave National Park, KY",
+        "lat": 37.1862,
+        "lng": -86.1003
+      }
+    ]
+  },
+  "2026-12-07": {
+    "puzzleNumber": 107,
+    "title": "Puzzle #107",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Fish fly over the counter at Pike Place Market in which Pacific Northwest city?",
+        "answer": "Seattle, WA",
+        "lat": 47.6062,
+        "lng": -122.3321
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the Yellowstone geyser whose predicted eruption times are posted for visitors.",
+        "answer": "Old Faithful, Yellowstone NP, WY",
+        "lat": 44.4605,
+        "lng": -110.8281
+      },
+      {
+        "id": 3,
+        "type": "state",
+        "clue": "Find the state whose Panhandle separates eastern Washington from western Montana.",
+        "answer": "Idaho",
+        "lat": 44.0682,
+        "lng": -114.742,
+        "bbox": [
+          -117.2,
+          42,
+          -111,
+          49
+        ]
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find Delaware's capital south of Wilmington, close to Delaware Bay.",
+        "answer": "Dover, DE",
+        "lat": 39.1582,
+        "lng": -75.5244
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the South Carolina park where a boardwalk crosses old-growth floodplain forest near Columbia.",
+        "answer": "Congaree National Park, SC",
+        "lat": 33.7948,
+        "lng": -80.782
+      }
+    ]
+  },
+  "2026-12-08": {
+    "puzzleNumber": 108,
+    "title": "Puzzle #108",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city links the Old North Church and Faneuil Hall along its Freedom Trail?",
+        "answer": "Boston, MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Find the park south of Miami that protects a bay, offshore keys, and part of a coral reef.",
+        "answer": "Biscayne National Park, FL",
+        "lat": 25.4824,
+        "lng": -80.3319
+      },
+      {
+        "id": 3,
+        "type": "county",
+        "clue": "Which Maryland county northwest of Washington, D.C., includes Bethesda, Rockville, and Silver Spring?",
+        "answer": "Montgomery County, MD",
+        "lat": 39.15,
+        "lng": -77.2
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the Outer Banks lighthouse whose black and white stripes spiral up a brick tower.",
+        "answer": "Cape Hatteras Lighthouse, NC",
+        "lat": 35.2508,
+        "lng": -75.5283
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Find Arkansas's capital on the river opposite North Little Rock.",
+        "answer": "Little Rock, AR",
+        "lat": 34.7465,
+        "lng": -92.2896
+      }
+    ]
+  },
+  "2026-12-09": {
+    "puzzleNumber": 109,
+    "title": "Puzzle #109",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city has James River rapids near downtown and the Virginia Museum of Fine Arts?",
+        "answer": "Richmond, VA",
+        "lat": 37.5407,
+        "lng": -77.436
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the Black Hills mountainside where Washington, Jefferson, Roosevelt, and Lincoln were carved in granite.",
+        "answer": "Mount Rushmore, SD",
+        "lat": 43.8791,
+        "lng": -103.4591
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the Washington park with the Hoh Rain Forest and a stretch of wild Pacific shoreline.",
+        "answer": "Olympic National Park, WA",
+        "lat": 47.8021,
+        "lng": -123.6044
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the campus around Harvard Yard on the Cambridge side of the Charles River.",
+        "answer": "Harvard University, Cambridge, MA",
+        "lat": 42.377,
+        "lng": -71.1167
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Find Connecticut's capital on the river that shares the state's name.",
+        "answer": "Hartford, CT",
+        "lat": 41.7658,
+        "lng": -72.6851
+      }
+    ]
+  },
+  "2026-12-10": {
+    "puzzleNumber": 110,
+    "title": "Puzzle #110",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city looks north across the Ohio River and hosts the Kentucky Derby at Churchill Downs?",
+        "answer": "Louisville, KY",
+        "lat": 38.2527,
+        "lng": -85.7585
+      },
+      {
+        "id": 2,
+        "type": "state",
+        "clue": "Which state has the San Juan Mountains in the southwest and the Front Range near its center?",
+        "answer": "Colorado",
+        "lat": 39.5501,
+        "lng": -105.7821,
+        "bbox": [
+          -109.1,
+          37,
+          -102,
+          41
+        ]
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Find Utah's capital between the Wasatch Mountains and the Great Salt Lake.",
+        "answer": "Salt Lake City, UT",
+        "lat": 40.7608,
+        "lng": -111.891
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Find the Northern California park where a trail leads to the steaming hydrothermal area called Bumpass Hell.",
+        "answer": "Lassen Volcanic National Park, CA",
+        "lat": 40.4977,
+        "lng": -121.4207
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the Outer Banks memorial near the site of the Wright brothers' first powered flights in 1903.",
+        "answer": "Wright Brothers National Memorial, NC",
+        "lat": 36.0165,
+        "lng": -75.6691
+      }
+    ]
+  },
+  "2026-12-11": {
+    "puzzleNumber": 111,
+    "title": "Puzzle #111",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city on Cook Inlet sits between Turnagain Arm and the Chugach Mountains?",
+        "answer": "Anchorage, AK",
+        "lat": 61.2181,
+        "lng": -149.9003
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find Nevada's capital just east of Lake Tahoe.",
+        "answer": "Carson City, NV",
+        "lat": 39.1638,
+        "lng": -119.7674
+      },
+      {
+        "id": 3,
+        "type": "county",
+        "clue": "Which Colorado county is consolidated with the city that includes Union Station and the state capitol?",
+        "answer": "Denver County, CO",
+        "lat": 39.7392,
+        "lng": -104.9903
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Find the Texas park where the Chisos Mountains rise inside a long sweep of the Rio Grande.",
+        "answer": "Big Bend National Park, TX",
+        "lat": 29.2498,
+        "lng": -103.2502
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the southeastern Montana battlefield where Lakota and Northern Cheyenne forces defeated Custer's command in 1876.",
+        "answer": "Little Bighorn Battlefield, MT",
+        "lat": 45.5676,
+        "lng": -107.4261
+      }
+    ]
+  },
+  "2026-12-12": {
+    "puzzleNumber": 112,
+    "title": "Puzzle #112",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Head downtown to the Fremont Street canopy after seeing the desert resorts of this metro area.",
+        "answer": "Las Vegas, NV",
+        "lat": 36.1699,
+        "lng": -115.1398
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the Bruins' campus in Westwood, home to the brick towers of Royce Hall.",
+        "answer": "UCLA, Los Angeles, CA",
+        "lat": 34.0689,
+        "lng": -118.4452
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the island park west of Key West where Fort Jefferson sits on Garden Key.",
+        "answer": "Dry Tortugas National Park, FL",
+        "lat": 24.6285,
+        "lng": -82.8732
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find Vermont's capital on the Winooski River, southeast of Burlington.",
+        "answer": "Montpelier, VT",
+        "lat": 44.2601,
+        "lng": -72.5754
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the flying-saucer-shaped observation tower built for the 1962 World's Fair.",
+        "answer": "Space Needle, WA",
+        "lat": 47.6205,
+        "lng": -122.3493
+      }
+    ]
+  },
+  "2026-12-13": {
+    "puzzleNumber": 113,
+    "title": "Puzzle #113",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Waikīkī and Diamond Head are both within this city on Oʻahu.",
+        "answer": "Honolulu, HI",
+        "lat": 21.3069,
+        "lng": -157.8583
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Find the Sierra Nevada park where El Capitan rises above a valley drained by the Merced River.",
+        "answer": "Yosemite National Park, CA",
+        "lat": 37.8651,
+        "lng": -119.5383
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the black granite wall by Maya Lin that bears the names of U.S. service members lost in the Vietnam War.",
+        "answer": "Vietnam Veterans Memorial, DC",
+        "lat": 38.8915,
+        "lng": -77.0479
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find Pennsylvania's capital on the east bank of the Susquehanna.",
+        "answer": "Harrisburg, PA",
+        "lat": 40.2732,
+        "lng": -76.8867
+      },
+      {
+        "id": 5,
+        "type": "state",
+        "clue": "Find the state between Lake Champlain and the Connecticut River with the Green Mountains running down its center.",
+        "answer": "Vermont",
+        "lat": 44.5588,
+        "lng": -72.5778,
+        "bbox": [
+          -73.4,
+          42.7,
+          -71.5,
+          45
+        ]
+      }
+    ]
+  },
+  "2026-12-14": {
+    "puzzleNumber": 114,
+    "title": "Puzzle #114",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "The recording studio known as Hitsville U.S.A. helped give this city its Motown sound.",
+        "answer": "Detroit, MI",
+        "lat": 42.3314,
+        "lng": -83.0458
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "Which Nevada county includes the Las Vegas Strip and Boulder City?",
+        "answer": "Clark County, NV",
+        "lat": 36.2,
+        "lng": -115.01
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Find the California capital near the meeting of the Sacramento and American rivers.",
+        "answer": "Sacramento, CA",
+        "lat": 38.5816,
+        "lng": -121.4944
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the lighthouse at Cape Elizabeth at the entrance to Maine's Portland Harbor.",
+        "answer": "Portland Head Light, ME",
+        "lat": 43.6234,
+        "lng": -70.2073
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the Utah park where hikers wade up the Virgin River through the Narrows.",
+        "answer": "Zion National Park, UT",
+        "lat": 37.2982,
+        "lng": -113.0263
+      }
+    ]
+  },
+  "2026-12-15": {
+    "puzzleNumber": 115,
+    "title": "Puzzle #115",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which Lake Michigan city has the Harley-Davidson Museum and the Brewers?",
+        "answer": "Milwaukee, WI",
+        "lat": 43.0389,
+        "lng": -87.9065
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Find the park where visitors on opposite rims look down at the Colorado River.",
+        "answer": "Grand Canyon National Park, AZ",
+        "lat": 36.1069,
+        "lng": -112.1129
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the hydroelectric dam on the Columbia that creates Franklin D. Roosevelt Lake.",
+        "answer": "Grand Coulee Dam, WA",
+        "lat": 47.9655,
+        "lng": -118.9816
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find Florida's capital in the Panhandle, home to the Florida State Seminoles.",
+        "answer": "Tallahassee, FL",
+        "lat": 30.4518,
+        "lng": -84.2807
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the university's Main Quad on the San Francisco Peninsula near Palo Alto.",
+        "answer": "Stanford University, Stanford, CA",
+        "lat": 37.4275,
+        "lng": -122.1697
+      }
+    ]
+  },
+  "2026-12-16": {
+    "puzzleNumber": 116,
+    "title": "Puzzle #116",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Where was NASA's Mission Control when it heard that the Eagle had landed?",
+        "answer": "Houston, TX",
+        "lat": 29.7604,
+        "lng": -95.3698
+      },
+      {
+        "id": 2,
+        "type": "state",
+        "clue": "Find the state whose Panhandle fronts the Gulf and whose Keys extend southwest from the mainland.",
+        "answer": "Florida",
+        "lat": 27.6648,
+        "lng": -81.5158,
+        "bbox": [
+          -87.6,
+          24.5,
+          -80,
+          31
+        ]
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the Montana park where Going-to-the-Sun Road crosses the Continental Divide at Logan Pass.",
+        "answer": "Glacier National Park, MT",
+        "lat": 48.7596,
+        "lng": -113.787
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "A torch, a crown, and a tablet top this copper figure at the entrance to New York Harbor.",
+        "answer": "Statue of Liberty, NY",
+        "lat": 40.6892,
+        "lng": -74.0445
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Find North Carolina's capital in the Research Triangle alongside Durham and Chapel Hill.",
+        "answer": "Raleigh, NC",
+        "lat": 35.7796,
+        "lng": -78.6382
+      }
+    ]
+  },
+  "2026-12-17": {
+    "puzzleNumber": 117,
+    "title": "Puzzle #117",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Calle Ocho runs through Little Havana in which city at the mouth of the Miami River?",
+        "answer": "Miami, FL",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find the North Dakota capital across the Missouri River from Mandan.",
+        "answer": "Bismarck, ND",
+        "lat": 46.8083,
+        "lng": -100.7837
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the cracked bell near Independence Hall that bears the words “Proclaim Liberty.”",
+        "answer": "Liberty Bell, PA",
+        "lat": 39.9496,
+        "lng": -75.1503
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Find the Central California park with rocky spires, talus caves, and California condors.",
+        "answer": "Pinnacles National Park, CA",
+        "lat": 36.4906,
+        "lng": -121.1825
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "Which North Carolina county contains downtown Charlotte and the town of Davidson?",
+        "answer": "Mecklenburg County, NC",
+        "lat": 35.26,
+        "lng": -80.83
+      }
+    ]
+  },
+  "2026-12-18": {
+    "puzzleNumber": 118,
+    "title": "Puzzle #118",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city would you visit to hear a brass band in the French Quarter and order beignets at Café du Monde?",
+        "answer": "New Orleans, LA",
+        "lat": 29.9511,
+        "lng": -90.0715
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the historically Black university campus north of downtown Washington, D.C., where Thurgood Marshall attended law school.",
+        "answer": "Howard University, Washington, DC",
+        "lat": 38.9221,
+        "lng": -77.0199
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the suspension bridge joining the two peninsulas of Michigan at the meeting of two Great Lakes.",
+        "answer": "Mackinac Bridge, MI",
+        "lat": 45.8174,
+        "lng": -84.7278
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find the Alaska capital tucked between the mountains and Gastineau Channel.",
+        "answer": "Juneau, AK",
+        "lat": 58.3005,
+        "lng": -134.4197
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the park above Estes Park where Trail Ridge Road crosses alpine tundra.",
+        "answer": "Rocky Mountain National Park, CO",
+        "lat": 40.3428,
+        "lng": -105.6836
+      }
+    ]
+  },
+  "2026-12-19": {
+    "puzzleNumber": 119,
+    "title": "Puzzle #119",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city on the west bank of the Missouri River hosts the Men's College World Series?",
+        "answer": "Omaha, NE",
+        "lat": 41.2565,
+        "lng": -95.9345
+      },
+      {
+        "id": 2,
+        "type": "state",
+        "clue": "Which state stretches from the Outer Banks to the Blue Ridge around Asheville?",
+        "answer": "North Carolina",
+        "lat": 35.7596,
+        "lng": -79.0193,
+        "bbox": [
+          -84.3,
+          33.8,
+          -75.5,
+          36.6
+        ]
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Find Maine's capital on the Kennebec River, inland from the state's rocky coast.",
+        "answer": "Augusta, ME",
+        "lat": 44.3106,
+        "lng": -69.7795
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the Art Deco skyscraper where Fifth Avenue crosses 34th Street in Manhattan.",
+        "answer": "Empire State Building, NY",
+        "lat": 40.7484,
+        "lng": -73.9967
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the Utah park where the Green and Colorado rivers divide the Island in the Sky, Needles, and Maze districts.",
+        "answer": "Canyonlands National Park, UT",
+        "lat": 38.2,
+        "lng": -109.93
+      }
+    ]
+  },
+  "2026-12-20": {
+    "puzzleNumber": 120,
+    "title": "Puzzle #120",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which Mississippi River city has Forest Park, the setting of the 1904 World's Fair?",
+        "answer": "St. Louis, MO",
+        "lat": 38.627,
+        "lng": -90.1994
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "Which Tennessee county includes Memphis and the suburb of Germantown?",
+        "answer": "Shelby County, TN",
+        "lat": 35.18,
+        "lng": -89.98
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the Nebraska rock spire that served as a landmark for covered wagons on the Oregon Trail.",
+        "answer": "Chimney Rock National Historic Site, NE",
+        "lat": 41.703,
+        "lng": -103.348
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Find the southwestern Colorado park where Cliff Palace was built into a sandstone alcove.",
+        "answer": "Mesa Verde National Park, CO",
+        "lat": 37.1853,
+        "lng": -108.4898
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Find Montana's capital on the east side of the Continental Divide.",
+        "answer": "Helena, MT",
+        "lat": 46.5958,
+        "lng": -112.027
+      }
+    ]
+  },
+  "2026-12-21": {
+    "puzzleNumber": 121,
+    "title": "Puzzle #121",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "The elevated train known as the L circles the downtown Loop of which Lake Michigan city?",
+        "answer": "Chicago, IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the New Jersey campus where Nassau Hall faces Nassau Street.",
+        "answer": "Princeton University, NJ",
+        "lat": 40.3431,
+        "lng": -74.6551
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the waterfalls on the river carrying water from Lake Erie toward Lake Ontario.",
+        "answer": "Niagara Falls, NY",
+        "lat": 43.0962,
+        "lng": -79.0377
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Find the Maine park with Cadillac Mountain on Mount Desert Island.",
+        "answer": "Acadia National Park, ME",
+        "lat": 44.3386,
+        "lng": -68.2733
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Find the Michigan capital just west of the Michigan State University campus.",
+        "answer": "Lansing, MI",
+        "lat": 42.7325,
+        "lng": -84.5555
+      }
+    ]
+  },
+  "2026-12-22": {
+    "puzzleNumber": 122,
+    "title": "Puzzle #122",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "In which Gulf Coast city can you visit the old cigar-making district of Ybor City?",
+        "answer": "Tampa, FL",
+        "lat": 27.9506,
+        "lng": -82.4572
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the site at Promontory Summit where two railroads joined to complete a transcontinental line in 1869.",
+        "answer": "Golden Spike National Historic Site, UT",
+        "lat": 41.6196,
+        "lng": -112.5471
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the Colorado park where tall dunes rise on the floor of the San Luis Valley.",
+        "answer": "Great Sand Dunes National Park, CO",
+        "lat": 37.7319,
+        "lng": -105.5943
+      },
+      {
+        "id": 4,
+        "type": "state",
+        "clue": "Which state includes the Aleutian Islands and the mainland shore of the Bering Strait?",
+        "answer": "Alaska",
+        "lat": 64.2008,
+        "lng": -153.4937,
+        "bbox": [
+          -180,
+          51.2,
+          -130,
+          71.4
+        ]
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Find New York's capital on the Hudson River, north of the Catskills.",
+        "answer": "Albany, NY",
+        "lat": 42.6526,
+        "lng": -73.7562
+      }
+    ]
+  },
+  "2026-12-23": {
+    "puzzleNumber": 123,
+    "title": "Puzzle #123",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city pairs a River Walk below street level with a chain of Spanish missions?",
+        "answer": "San Antonio, TX",
+        "lat": 29.4241,
+        "lng": -98.4936
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the Memphis home where Elvis Presley lived and is buried.",
+        "answer": "Graceland, TN",
+        "lat": 35.0453,
+        "lng": -90.0228
+      },
+      {
+        "id": 3,
+        "type": "county",
+        "clue": "Which California county includes the port city across the bay from Coronado and extends east to Anza-Borrego?",
+        "answer": "San Diego County, CA",
+        "lat": 32.71,
+        "lng": -116.96
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Find the West Virginia park where a steel arch bridge spans a gorge near Fayetteville.",
+        "answer": "New River Gorge National Park, WV",
+        "lat": 38.0705,
+        "lng": -81.0774
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Find Colorado's capital on the plains east of the Front Range.",
+        "answer": "Denver, CO",
+        "lat": 39.7392,
+        "lng": -104.9903
+      }
+    ]
+  },
+  "2026-12-24": {
+    "puzzleNumber": 124,
+    "title": "Puzzle #124",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city would you cross by cable car on the way from Union Square to Fisherman's Wharf?",
+        "answer": "San Francisco, CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the Ducks' campus where runners compete at Hayward Field.",
+        "answer": "University of Oregon, Eugene, OR",
+        "lat": 44.0459,
+        "lng": -123.0716
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Find Washington's capital at the southern end of Puget Sound.",
+        "answer": "Olympia, WA",
+        "lat": 47.0379,
+        "lng": -122.9007
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the Civil War battlefield associated with Pickett's Charge and Lincoln's short dedicatory address.",
+        "answer": "Gettysburg National Military Park, PA",
+        "lat": 39.8118,
+        "lng": -77.2257
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the Guadalupe Mountains park in New Mexico where bats emerge from a cave's natural entrance.",
+        "answer": "Carlsbad Caverns National Park, NM",
+        "lat": 32.1479,
+        "lng": -104.5567
+      }
+    ]
+  },
+  "2026-12-25": {
+    "puzzleNumber": 125,
+    "title": "Puzzle #125",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city has Powell's City of Books, a Japanese Garden, and bridges over the Willamette?",
+        "answer": "Portland, OR",
+        "lat": 45.5051,
+        "lng": -122.675
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Find the park with tall, branching cacti in separate districts on either side of Tucson.",
+        "answer": "Saguaro National Park, AZ",
+        "lat": 32.2967,
+        "lng": -111.1666
+      },
+      {
+        "id": 3,
+        "type": "state",
+        "clue": "Find the state between Canada and South Dakota, with the Red River along much of its eastern border.",
+        "answer": "North Dakota",
+        "lat": 47.5515,
+        "lng": -101.002,
+        "bbox": [
+          -104.1,
+          45.9,
+          -96.5,
+          49
+        ]
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find Kentucky's capital in a bend of the Kentucky River between Louisville and Lexington.",
+        "answer": "Frankfort, KY",
+        "lat": 38.2009,
+        "lng": -84.8733
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the Frank Lloyd Wright house built over a waterfall in Pennsylvania's Laurel Highlands.",
+        "answer": "Fallingwater, PA",
+        "lat": 39.9064,
+        "lng": -79.4677
+      }
+    ]
+  },
+  "2026-12-26": {
+    "puzzleNumber": 126,
+    "title": "Puzzle #126",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Where is the Bricktown Canal near the home arena of the NBA's Thunder?",
+        "answer": "Oklahoma City, OK",
+        "lat": 35.4676,
+        "lng": -97.5164
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "Which Florida county includes Fort Lauderdale and lies between Palm Beach and Miami-Dade counties?",
+        "answer": "Broward County, FL",
+        "lat": 26.12,
+        "lng": -80.25
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Find the Minnesota capital on the eastern side of the Twin Cities.",
+        "answer": "Saint Paul, MN",
+        "lat": 44.9537,
+        "lng": -93.09
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the domed memorial on the Tidal Basin that honors the author of the Declaration of Independence.",
+        "answer": "Jefferson Memorial, DC",
+        "lat": 38.8814,
+        "lng": -77.0365
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the Oregon park where Wizard Island rises from a deep lake inside a volcanic caldera.",
+        "answer": "Crater Lake National Park, OR",
+        "lat": 42.9446,
+        "lng": -122.109
+      }
+    ]
+  },
+  "2026-12-27": {
+    "puzzleNumber": 127,
+    "title": "Puzzle #127",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city between the Rio Grande and the Sandia Mountains hosts the International Balloon Fiesta?",
+        "answer": "Albuquerque, NM",
+        "lat": 35.0844,
+        "lng": -106.6504
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find New Hampshire's capital on the Merrimack River, north of Manchester.",
+        "answer": "Concord, NH",
+        "lat": 43.2081,
+        "lng": -71.5376
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the Alaska park near Seward where glaciers from the Harding Icefield reach coastal fjords.",
+        "answer": "Kenai Fjords National Park, AK",
+        "lat": 59.9199,
+        "lng": -149.6514
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the Ivy League campus around the College Green on Providence's College Hill.",
+        "answer": "Brown University, Providence, RI",
+        "lat": 41.8268,
+        "lng": -71.4025
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the temple-like building at the west end of the Reflecting Pool, where a seated president looks east.",
+        "answer": "Lincoln Memorial, DC",
+        "lat": 38.8893,
+        "lng": -77.0502
+      }
+    ]
+  },
+  "2026-12-28": {
+    "puzzleNumber": 128,
+    "title": "Puzzle #128",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city is home to Griffith Observatory and the Watts Towers?",
+        "answer": "Los Angeles, CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      {
+        "id": 2,
+        "type": "state",
+        "clue": "Which state stretches from the Rio Grande at El Paso to the Gulf Coast at Galveston?",
+        "answer": "Texas",
+        "lat": 31.9686,
+        "lng": -99.9018,
+        "bbox": [
+          -106.6,
+          25.8,
+          -93.5,
+          36.5
+        ]
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the stainless-steel curve on the Mississippi riverfront that symbolizes a gateway to the West.",
+        "answer": "Gateway Arch, MO",
+        "lat": 38.6247,
+        "lng": -90.1848
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Find the park with Cades Cove that straddles the Tennessee–North Carolina border.",
+        "answer": "Great Smoky Mountains National Park, TN/NC",
+        "lat": 35.6118,
+        "lng": -83.4895
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Find the Nebraska capital where a statue of a sower tops the statehouse tower.",
+        "answer": "Lincoln, NE",
+        "lat": 40.8136,
+        "lng": -96.7026
+      }
+    ]
+  },
+  "2026-12-29": {
+    "puzzleNumber": 129,
+    "title": "Puzzle #129",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city watches bats emerge from under the Congress Avenue Bridge at dusk?",
+        "answer": "Austin, TX",
+        "lat": 30.2672,
+        "lng": -97.7431
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "Which Southern California county includes Palm Springs, Indio, and the Coachella Valley festival grounds?",
+        "answer": "Riverside County, CA",
+        "lat": 33.75,
+        "lng": -115.98
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Find Wyoming's capital near the Colorado border, where Frontier Days draws rodeo fans.",
+        "answer": "Cheyenne, WY",
+        "lat": 41.14,
+        "lng": -104.8202
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Find the Utah park known for clusters of slender rock spires called hoodoos.",
+        "answer": "Bryce Canyon National Park, UT",
+        "lat": 37.593,
+        "lng": -112.1871
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the ballpark whose left-field wall is known as the Green Monster.",
+        "answer": "Fenway Park, MA",
+        "lat": 42.3467,
+        "lng": -71.0972
+      }
+    ]
+  },
+  "2026-12-30": {
+    "puzzleNumber": 130,
+    "title": "Puzzle #130",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city has the Stone Arch Bridge over the Mississippi and the Chain of Lakes to its southwest?",
+        "answer": "Minneapolis, MN",
+        "lat": 44.9778,
+        "lng": -93.265
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the concrete dam in Black Canyon that holds back the Colorado River to form Lake Mead.",
+        "answer": "Hoover Dam, NV/AZ",
+        "lat": 36.0161,
+        "lng": -114.7377
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Find Alabama's capital at the destination of the 1965 voting rights march from Selma.",
+        "answer": "Montgomery, AL",
+        "lat": 32.3792,
+        "lng": -86.3077
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Find the Sierra Nevada park whose Giant Forest is home to the General Sherman Tree.",
+        "answer": "Sequoia National Park, CA",
+        "lat": 36.4864,
+        "lng": -118.5658
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the campus where Thomas Jefferson's Rotunda faces the Lawn.",
+        "answer": "University of Virginia, Charlottesville, VA",
+        "lat": 38.0336,
+        "lng": -78.508
+      }
+    ]
+  },
+  "2026-12-31": {
+    "puzzleNumber": 131,
+    "title": "Puzzle #131",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "At which city do the Allegheny and Monongahela meet to form the Ohio River?",
+        "answer": "Pittsburgh, PA",
+        "lat": 40.4406,
+        "lng": -79.9959
+      },
+      {
+        "id": 2,
+        "type": "state",
+        "clue": "Which state includes Kauaʻi, Maui, and Oʻahu?",
+        "answer": "Hawaii",
+        "lat": 19.8968,
+        "lng": -155.5828,
+        "bbox": [
+          -160.2,
+          18.9,
+          -154.8,
+          22.2
+        ]
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the pale stone obelisk rising above the National Mall in honor of the first U.S. president.",
+        "answer": "Washington Monument, DC",
+        "lat": 38.8895,
+        "lng": -77.0353
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Find the park in northern Washington with steep, glacier-covered peaks east of the Skagit Valley.",
+        "answer": "North Cascades National Park, WA",
+        "lat": 48.7718,
+        "lng": -121.2985
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Find South Dakota's capital on the Missouri River, well east of the Black Hills.",
+        "answer": "Pierre, SD",
+        "lat": 44.3683,
+        "lng": -100.351
+      }
+    ]
+  },
+  "2027-01-01": {
+    "puzzleNumber": 132,
+    "title": "Puzzle #132",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Where are the NASCAR Hall of Fame and a downtown locals call Uptown?",
+        "answer": "Charlotte, NC",
+        "lat": 35.2271,
+        "lng": -80.8431
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Find the Southern California park where branching yuccas grow near fields of rounded boulders.",
+        "answer": "Joshua Tree National Park, CA",
+        "lat": 33.8734,
+        "lng": -115.901
+      },
+      {
+        "id": 3,
+        "type": "county",
+        "clue": "Which Ohio county includes Cleveland, Lakewood, and Shaker Heights?",
+        "answer": "Cuyahoga County, OH",
+        "lat": 41.45,
+        "lng": -81.68
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find the Kansas capital on the Kansas River, west of Lawrence.",
+        "answer": "Topeka, KS",
+        "lat": 39.0558,
+        "lng": -95.689
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the columned rock formation in northeastern Wyoming featured in Close Encounters of the Third Kind.",
+        "answer": "Devil's Tower National Monument, WY",
+        "lat": 44.5901,
+        "lng": -104.7146
+      }
+    ]
+  },
+  "2027-01-02": {
+    "puzzleNumber": 133,
+    "title": "Puzzle #133",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Fish fly over the counter at Pike Place Market in which Pacific Northwest city?",
+        "answer": "Seattle, WA",
+        "lat": 47.6062,
+        "lng": -122.3321
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the Ivy League campus across the Connecticut River from Norwich, Vermont.",
+        "answer": "Dartmouth College, Hanover, NH",
+        "lat": 43.7044,
+        "lng": -72.2887
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Find Maryland's capital where the Severn River meets Chesapeake Bay.",
+        "answer": "Annapolis, MD",
+        "lat": 38.9784,
+        "lng": -76.4922
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Find the water-based park along Minnesota's Canadian border that includes Rainy and Kabetogama lakes.",
+        "answer": "Voyageurs National Park, MN",
+        "lat": 48.4839,
+        "lng": -92.8376
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the crossing that links Virginia Beach to Virginia's Eastern Shore using both bridges and underwater tunnels.",
+        "answer": "Chesapeake Bay Bridge-Tunnel, VA",
+        "lat": 37.0329,
+        "lng": -76.0132
+      }
+    ]
+  },
+  "2027-01-03": {
+    "puzzleNumber": 134,
+    "title": "Puzzle #134",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city has honky-tonks on Lower Broadway and the Ryman Auditorium a block away?",
+        "answer": "Nashville, TN",
+        "lat": 36.1627,
+        "lng": -86.7816
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find the New Jersey capital across the Delaware River from Pennsylvania.",
+        "answer": "Trenton, NJ",
+        "lat": 40.2171,
+        "lng": -74.7429
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the Arizona park where colorful fossilized logs lie near the Painted Desert.",
+        "answer": "Petrified Forest National Park, AZ",
+        "lat": 34.9823,
+        "lng": -109.7877
+      },
+      {
+        "id": 4,
+        "type": "state",
+        "clue": "Find the state that touches Lake Superior and contains the headwaters of the Mississippi River.",
+        "answer": "Minnesota",
+        "lat": 46.7296,
+        "lng": -94.6859,
+        "bbox": [
+          -97.2,
+          43.5,
+          -89.5,
+          49.4
+        ]
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the Vanderbilt mansion and gardens in the Blue Ridge city of Asheville.",
+        "answer": "Biltmore Estate, NC",
+        "lat": 35.5406,
+        "lng": -82.5515
+      }
+    ]
+  },
+  "2027-01-04": {
+    "puzzleNumber": 135,
+    "title": "Puzzle #135",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city at the south end of San Francisco Bay is home to the Winchester Mystery House?",
+        "answer": "San Jose, CA",
+        "lat": 37.3382,
+        "lng": -121.8863
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find Wisconsin's capital, where the statehouse stands between lakes Mendota and Monona.",
+        "answer": "Madison, WI",
+        "lat": 43.0731,
+        "lng": -89.4012
+      },
+      {
+        "id": 3,
+        "type": "county",
+        "clue": "Which Arizona county includes Phoenix, Tempe, and Scottsdale?",
+        "answer": "Maricopa County, AZ",
+        "lat": 33.49,
+        "lng": -112.07
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Find the park with dunes along the southern shore of Lake Michigan, east of Gary.",
+        "answer": "Indiana Dunes National Park, IN",
+        "lat": 41.6533,
+        "lng": -87.0524
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the white memorial built above a sunken battleship in Pearl Harbor.",
+        "answer": "USS Arizona Memorial, HI",
+        "lat": 21.3645,
+        "lng": -157.9768
+      }
+    ]
+  },
+  "2027-01-05": {
+    "puzzleNumber": 136,
+    "title": "Puzzle #136",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which Missouri city has jazz in the 18th and Vine district and the Chiefs at Arrowhead?",
+        "answer": "Kansas City, MO",
+        "lat": 39.0997,
+        "lng": -94.5786
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find Oregon's capital in the Willamette Valley, south of Portland.",
+        "answer": "Salem, OR",
+        "lat": 44.9429,
+        "lng": -123.0351
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the Boilermakers' campus on the west side of the Wabash River.",
+        "answer": "Purdue University, West Lafayette, IN",
+        "lat": 40.4237,
+        "lng": -86.9212
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the stone-towered suspension bridge carrying walkers over the East River between Manhattan and Brooklyn.",
+        "answer": "Brooklyn Bridge, NY",
+        "lat": 40.7061,
+        "lng": -73.9969
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the park that includes the Grand Prismatic Spring, Old Faithful, and the Lamar Valley.",
+        "answer": "Yellowstone National Park, WY",
+        "lat": 44.428,
+        "lng": -110.5885
+      }
+    ]
+  },
+  "2027-01-06": {
+    "puzzleNumber": 137,
+    "title": "Puzzle #137",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which Chesapeake Bay port has the Inner Harbor, Fells Point, and the Orioles at Camden Yards?",
+        "answer": "Baltimore, MD",
+        "lat": 39.2904,
+        "lng": -76.6122
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find Connecticut's capital on the river that shares the state's name.",
+        "answer": "Hartford, CT",
+        "lat": 41.7658,
+        "lng": -72.6851
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the park protecting five islands off the coast of Southern California.",
+        "answer": "Channel Islands National Park, CA",
+        "lat": 34.0069,
+        "lng": -119.7785
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the southeastern Montana battlefield where Lakota and Northern Cheyenne forces defeated Custer's command in 1876.",
+        "answer": "Little Bighorn Battlefield, MT",
+        "lat": 45.5676,
+        "lng": -107.4261
+      },
+      {
+        "id": 5,
+        "type": "state",
+        "clue": "Find the Appalachian state with an Eastern Panhandle reaching toward Harpers Ferry.",
+        "answer": "West Virginia",
+        "lat": 38.4912,
+        "lng": -80.9545,
+        "bbox": [
+          -82.6,
+          37.2,
+          -77.7,
+          40.6
+        ]
+      }
+    ]
+  },
+  "2027-01-07": {
+    "puzzleNumber": 138,
+    "title": "Puzzle #138",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city has Boathouse Row along the Schuylkill and a statue of Rocky near its art museum steps?",
+        "answer": "Philadelphia, PA",
+        "lat": 39.9526,
+        "lng": -75.1652
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the Yellowstone geyser whose predicted eruption times are posted for visitors.",
+        "answer": "Old Faithful, Yellowstone NP, WY",
+        "lat": 44.4605,
+        "lng": -110.8281
+      },
+      {
+        "id": 3,
+        "type": "county",
+        "clue": "Which Alabama county includes downtown Birmingham and the city of Bessemer?",
+        "answer": "Jefferson County, AL",
+        "lat": 33.52,
+        "lng": -86.84
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find Hawaii's capital, where the ʻIolani Palace stands downtown.",
+        "answer": "Honolulu, HI",
+        "lat": 21.3069,
+        "lng": -157.8583
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the desert park with Badwater Basin, the lowest point in North America.",
+        "answer": "Death Valley National Park, CA",
+        "lat": 36.5054,
+        "lng": -117.0794
+      }
+    ]
+  },
+  "2027-01-08": {
+    "puzzleNumber": 139,
+    "title": "Puzzle #139",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city connects its boroughs with the Staten Island Ferry and the Brooklyn Bridge?",
+        "answer": "New York, NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Find the Northern California park where a trail leads to the steaming hydrothermal area called Bumpass Hell.",
+        "answer": "Lassen Volcanic National Park, CA",
+        "lat": 40.4977,
+        "lng": -121.4207
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the campus of the Blue Devils and the Gothic Duke Chapel in Durham.",
+        "answer": "Duke University, Durham, NC",
+        "lat": 35.994,
+        "lng": -78.8986
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find New Mexico's high-elevation capital, known for its adobe architecture.",
+        "answer": "Santa Fe, NM",
+        "lat": 35.687,
+        "lng": -105.9378
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the star-shaped fort whose flag inspired the lyrics of the U.S. national anthem.",
+        "answer": "Fort McHenry, MD",
+        "lat": 39.2631,
+        "lng": -76.5796
+      }
+    ]
+  },
+  "2027-01-09": {
+    "puzzleNumber": 140,
+    "title": "Puzzle #140",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "The recording studio known as Hitsville U.S.A. helped give this city its Motown sound.",
+        "answer": "Detroit, MI",
+        "lat": 42.3314,
+        "lng": -83.0458
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the Outer Banks lighthouse whose black and white stripes spiral up a brick tower.",
+        "answer": "Cape Hatteras Lighthouse, NC",
+        "lat": 35.2508,
+        "lng": -75.5283
+      },
+      {
+        "id": 3,
+        "type": "state",
+        "clue": "Which state sits across the Ohio River from Cincinnati and extends west to the Mississippi River?",
+        "answer": "Kentucky",
+        "lat": 37.669,
+        "lng": -84.6701,
+        "bbox": [
+          -89.6,
+          36.5,
+          -81.9,
+          39.1
+        ]
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find Utah's capital between the Wasatch Mountains and the Great Salt Lake.",
+        "answer": "Salt Lake City, UT",
+        "lat": 40.7608,
+        "lng": -111.891
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the park south of Miami that protects a bay, offshore keys, and part of a coral reef.",
+        "answer": "Biscayne National Park, FL",
+        "lat": 25.4824,
+        "lng": -80.3319
+      }
+    ]
+  },
+  "2027-01-10": {
+    "puzzleNumber": 141,
+    "title": "Puzzle #141",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which Lake Michigan city has the Harley-Davidson Museum and the Brewers?",
+        "answer": "Milwaukee, WI",
+        "lat": 43.0389,
+        "lng": -87.9065
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "Which Texas county contains downtown Fort Worth and AT&T Stadium in Arlington?",
+        "answer": "Tarrant County, TX",
+        "lat": 32.78,
+        "lng": -97.29
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the Sierra Nevada park where El Capitan rises above a valley drained by the Merced River.",
+        "answer": "Yosemite National Park, CA",
+        "lat": 37.8651,
+        "lng": -119.5383
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "A torch, a crown, and a tablet top this copper figure at the entrance to New York Harbor.",
+        "answer": "Statue of Liberty, NY",
+        "lat": 40.6892,
+        "lng": -74.0445
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Find Vermont's capital on the Winooski River, southeast of Burlington.",
+        "answer": "Montpelier, VT",
+        "lat": 44.2601,
+        "lng": -72.5754
+      }
+    ]
+  },
+  "2027-01-11": {
+    "puzzleNumber": 142,
+    "title": "Puzzle #142",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Head downtown to the Fremont Street canopy after seeing the desert resorts of this metro area.",
+        "answer": "Las Vegas, NV",
+        "lat": 36.1699,
+        "lng": -115.1398
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Find the park north of Moab where Delicate Arch stands on a sandstone ledge.",
+        "answer": "Arches National Park, UT",
+        "lat": 38.7331,
+        "lng": -109.5925
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the university campus along Lake Mendota, just west of the Wisconsin state capitol.",
+        "answer": "University of Wisconsin, Madison, WI",
+        "lat": 43.0766,
+        "lng": -89.4125
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the cracked bell near Independence Hall that bears the words “Proclaim Liberty.”",
+        "answer": "Liberty Bell, PA",
+        "lat": 39.9496,
+        "lng": -75.1503
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Find Arizona's capital, with Sky Harbor Airport in the Valley of the Sun.",
+        "answer": "Phoenix, AZ",
+        "lat": 33.4484,
+        "lng": -112.074
+      }
+    ]
+  },
+  "2027-01-12": {
+    "puzzleNumber": 143,
+    "title": "Puzzle #143",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Beale Street and the recording rooms of Sun Studio put which city on the music map?",
+        "answer": "Memphis, TN",
+        "lat": 35.1495,
+        "lng": -90.049
+      },
+      {
+        "id": 2,
+        "type": "state",
+        "clue": "Find the state with Newport at the mouth of Narragansett Bay.",
+        "answer": "Rhode Island",
+        "lat": 41.5801,
+        "lng": -71.4774,
+        "bbox": [
+          -71.9,
+          41.1,
+          -71.1,
+          42
+        ]
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Find the Alaska capital tucked between the mountains and Gastineau Channel.",
+        "answer": "Juneau, AK",
+        "lat": 58.3005,
+        "lng": -134.4197
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the suspension bridge joining the two peninsulas of Michigan at the meeting of two Great Lakes.",
+        "answer": "Mackinac Bridge, MI",
+        "lat": 45.8174,
+        "lng": -84.7278
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the park where visitors on opposite rims look down at the Colorado River.",
+        "answer": "Grand Canyon National Park, AZ",
+        "lat": 36.1069,
+        "lng": -112.1129
+      }
+    ]
+  },
+  "2027-01-13": {
+    "puzzleNumber": 144,
+    "title": "Puzzle #144",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city links the Old North Church and Faneuil Hall along its Freedom Trail?",
+        "answer": "Boston, MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find Louisiana's capital upriver from New Orleans, home to LSU's Tiger Stadium.",
+        "answer": "Baton Rouge, LA",
+        "lat": 30.4515,
+        "lng": -91.1871
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the Kentucky park where an extensive underground cave network runs near the Green River.",
+        "answer": "Mammoth Cave National Park, KY",
+        "lat": 37.1862,
+        "lng": -86.1003
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the Black Hills mountainside where Washington, Jefferson, Roosevelt, and Lincoln were carved in granite.",
+        "answer": "Mount Rushmore, SD",
+        "lat": 43.8791,
+        "lng": -103.4591
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "Which county shares its boundaries with the New York City borough that contains Central Park?",
+        "answer": "New York County (Manhattan), NY",
+        "lat": 40.7831,
+        "lng": -73.9712
+      }
+    ]
+  },
+  "2027-01-14": {
+    "puzzleNumber": 145,
+    "title": "Puzzle #145",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Calle Ocho runs through Little Havana in which city at the mouth of the Miami River?",
+        "answer": "Miami, FL",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the Jayhawks' campus on Mount Oread, home to Allen Fieldhouse.",
+        "answer": "University of Kansas, Lawrence, KS",
+        "lat": 38.9543,
+        "lng": -95.2558
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the Washington park with the Hoh Rain Forest and a stretch of wild Pacific shoreline.",
+        "answer": "Olympic National Park, WA",
+        "lat": 47.8021,
+        "lng": -123.6044
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the former federal prison on a rocky island in San Francisco Bay.",
+        "answer": "Alcatraz Island, CA",
+        "lat": 37.8267,
+        "lng": -122.423
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Find North Carolina's capital in the Research Triangle alongside Durham and Chapel Hill.",
+        "answer": "Raleigh, NC",
+        "lat": 35.7796,
+        "lng": -78.6382
+      }
+    ]
+  },
+  "2027-01-15": {
+    "puzzleNumber": 146,
+    "title": "Puzzle #146",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city on Cook Inlet sits between Turnagain Arm and the Chugach Mountains?",
+        "answer": "Anchorage, AK",
+        "lat": 61.2181,
+        "lng": -149.9003
+      },
+      {
+        "id": 2,
+        "type": "state",
+        "clue": "Find the state with Cincinnati on the Ohio River and Cleveland on Lake Erie.",
+        "answer": "Ohio",
+        "lat": 40.4173,
+        "lng": -82.9071,
+        "bbox": [
+          -84.8,
+          38.4,
+          -80.5,
+          42.3
+        ]
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the hydroelectric dam on the Columbia that creates Franklin D. Roosevelt Lake.",
+        "answer": "Grand Coulee Dam, WA",
+        "lat": 47.9655,
+        "lng": -118.9816
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Find the Virginia park where Skyline Drive follows the crest of the Blue Ridge.",
+        "answer": "Shenandoah National Park, VA",
+        "lat": 38.7268,
+        "lng": -78.3506
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Find the Missouri capital on the river crossing between Columbia and the Lake of the Ozarks.",
+        "answer": "Jefferson City, MO",
+        "lat": 38.5767,
+        "lng": -92.1735
+      }
+    ]
+  },
+  "2027-01-16": {
+    "puzzleNumber": 147,
+    "title": "Puzzle #147",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "The BeltLine loops through neighborhoods of this city, where Coca-Cola was invented.",
+        "answer": "Atlanta, GA",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find the North Dakota capital across the Missouri River from Mandan.",
+        "answer": "Bismarck, ND",
+        "lat": 46.8083,
+        "lng": -100.7837
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the South Florida park that protects wetlands along a broad, slow-moving river of grass.",
+        "answer": "Everglades National Park, FL",
+        "lat": 25.2866,
+        "lng": -80.8987
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "Which Texas county contains downtown Houston and the Johnson Space Center?",
+        "answer": "Harris County, TX",
+        "lat": 29.8473,
+        "lng": -95.41
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the sandstone formations called the Mittens near the Arizona–Utah border.",
+        "answer": "Monument Valley, AZ/UT",
+        "lat": 36.983,
+        "lng": -110.1077
+      }
+    ]
+  },
+  "2027-01-17": {
+    "puzzleNumber": 148,
+    "title": "Puzzle #148",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city on the west bank of the Missouri River hosts the Men's College World Series?",
+        "answer": "Omaha, NE",
+        "lat": 41.2565,
+        "lng": -95.9345
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the lighthouse at Cape Elizabeth at the entrance to Maine's Portland Harbor.",
+        "answer": "Portland Head Light, ME",
+        "lat": 43.6234,
+        "lng": -70.2073
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Find Florida's capital in the Panhandle, home to the Florida State Seminoles.",
+        "answer": "Tallahassee, FL",
+        "lat": 30.4518,
+        "lng": -84.2807
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the East Bay campus marked by a tall clock tower known as the Campanile.",
+        "answer": "UC Berkeley, Berkeley, CA",
+        "lat": 37.8724,
+        "lng": -122.2595
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the West Virginia park where a steel arch bridge spans a gorge near Fayetteville.",
+        "answer": "New River Gorge National Park, WV",
+        "lat": 38.0705,
+        "lng": -81.0774
+      }
+    ]
+  },
+  "2027-01-18": {
+    "puzzleNumber": 149,
+    "title": "Puzzle #149",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "The Rock & Roll Hall of Fame sits on the Lake Erie waterfront of which city?",
+        "answer": "Cleveland, OH",
+        "lat": 41.4993,
+        "lng": -81.6944
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the waterfalls on the river carrying water from Lake Erie toward Lake Ontario.",
+        "answer": "Niagara Falls, NY",
+        "lat": 43.0962,
+        "lng": -79.0377
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the Guadalupe Mountains park in New Mexico where bats emerge from a cave's natural entrance.",
+        "answer": "Carlsbad Caverns National Park, NM",
+        "lat": 32.1479,
+        "lng": -104.5567
+      },
+      {
+        "id": 4,
+        "type": "state",
+        "clue": "Find the state that includes Jamestown, the Blue Ridge around Shenandoah, and the southern tip of the Delmarva Peninsula.",
+        "answer": "Virginia",
+        "lat": 37.4316,
+        "lng": -78.6569,
+        "bbox": [
+          -83.7,
+          36.5,
+          -75.2,
+          39.5
+        ]
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Find Delaware's capital south of Wilmington, close to Delaware Bay.",
+        "answer": "Dover, DE",
+        "lat": 39.1582,
+        "lng": -75.5244
+      }
+    ]
+  },
+  "2027-01-19": {
+    "puzzleNumber": 150,
+    "title": "Puzzle #150",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city has Powell's City of Books, a Japanese Garden, and bridges over the Willamette?",
+        "answer": "Portland, OR",
+        "lat": 45.5051,
+        "lng": -122.675
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find Nevada's capital just east of Lake Tahoe.",
+        "answer": "Carson City, NV",
+        "lat": 39.1638,
+        "lng": -119.7674
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the site at Promontory Summit where two railroads joined to complete a transcontinental line in 1869.",
+        "answer": "Golden Spike National Historic Site, UT",
+        "lat": 41.6196,
+        "lng": -112.5471
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "Which California county includes San Jose, Palo Alto, and the headquarters of Apple in Cupertino?",
+        "answer": "Santa Clara County, CA",
+        "lat": 37.23,
+        "lng": -121.97
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the island park west of Key West where Fort Jefferson sits on Garden Key.",
+        "answer": "Dry Tortugas National Park, FL",
+        "lat": 24.6285,
+        "lng": -82.8732
+      }
+    ]
+  },
+  "2027-01-20": {
+    "puzzleNumber": 151,
+    "title": "Puzzle #151",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "In which Gulf Coast city can you visit the old cigar-making district of Ybor City?",
+        "answer": "Tampa, FL",
+        "lat": 27.9506,
+        "lng": -82.4572
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Find the Colorado park where tall dunes rise on the floor of the San Luis Valley.",
+        "answer": "Great Sand Dunes National Park, CO",
+        "lat": 37.7319,
+        "lng": -105.5943
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the university campus on a hill above the southern end of Cayuga Lake.",
+        "answer": "Cornell University, Ithaca, NY",
+        "lat": 42.4534,
+        "lng": -76.4735
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the flying-saucer-shaped observation tower built for the 1962 World's Fair.",
+        "answer": "Space Needle, WA",
+        "lat": 47.6205,
+        "lng": -122.3493
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Find Maine's capital on the Kennebec River, inland from the state's rocky coast.",
+        "answer": "Augusta, ME",
+        "lat": 44.3106,
+        "lng": -69.7795
+      }
+    ]
+  },
+  "2027-01-21": {
+    "puzzleNumber": 152,
+    "title": "Puzzle #152",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which Mississippi River city has Forest Park, the setting of the 1904 World's Fair?",
+        "answer": "St. Louis, MO",
+        "lat": 38.627,
+        "lng": -90.1994
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Find the park above Estes Park where Trail Ridge Road crosses alpine tundra.",
+        "answer": "Rocky Mountain National Park, CO",
+        "lat": 40.3428,
+        "lng": -105.6836
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Find Washington's capital at the southern end of Puget Sound.",
+        "answer": "Olympia, WA",
+        "lat": 47.0379,
+        "lng": -122.9007
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the Art Deco skyscraper where Fifth Avenue crosses 34th Street in Manhattan.",
+        "answer": "Empire State Building, NY",
+        "lat": 40.7484,
+        "lng": -73.9967
+      },
+      {
+        "id": 5,
+        "type": "state",
+        "clue": "Which state surrounds Penobscot Bay and stretches inland to Mount Katahdin?",
+        "answer": "Maine",
+        "lat": 45.2538,
+        "lng": -69.4455,
+        "bbox": [
+          -71.1,
+          43.1,
+          -67,
+          47.5
+        ]
+      }
+    ]
+  },
+  "2027-01-22": {
+    "puzzleNumber": 153,
+    "title": "Puzzle #153",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city would you visit to hear a brass band in the French Quarter and order beignets at Café du Monde?",
+        "answer": "New Orleans, LA",
+        "lat": 29.9511,
+        "lng": -90.0715
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the stainless-steel curve on the Mississippi riverfront that symbolizes a gateway to the West.",
+        "answer": "Gateway Arch, MO",
+        "lat": 38.6247,
+        "lng": -90.1848
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Find the Nebraska capital where a statue of a sower tops the statehouse tower.",
+        "answer": "Lincoln, NE",
+        "lat": 40.8136,
+        "lng": -96.7026
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "Which Michigan county contains downtown Detroit and the airport in Romulus?",
+        "answer": "Wayne County, MI",
+        "lat": 42.33,
+        "lng": -83.05
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the Montana park where Going-to-the-Sun Road crosses the Continental Divide at Logan Pass.",
+        "answer": "Glacier National Park, MT",
+        "lat": 48.7596,
+        "lng": -113.787
+      }
+    ]
+  },
+  "2027-01-23": {
+    "puzzleNumber": 154,
+    "title": "Puzzle #154",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city pairs a River Walk below street level with a chain of Spanish missions?",
+        "answer": "San Antonio, TX",
+        "lat": 29.4241,
+        "lng": -98.4936
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Find the Alaska park near Seward where glaciers from the Harding Icefield reach coastal fjords.",
+        "answer": "Kenai Fjords National Park, AK",
+        "lat": 59.9199,
+        "lng": -149.6514
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the North Side Chicago ballpark with ivy-covered outfield walls.",
+        "answer": "Wrigley Field, IL",
+        "lat": 41.9484,
+        "lng": -87.6553
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find Idaho's capital where the Boise River runs along the base of the foothills.",
+        "answer": "Boise, ID",
+        "lat": 43.615,
+        "lng": -116.2023
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the campus near South Bend with a golden dome and the Fighting Irish.",
+        "answer": "University of Notre Dame, IN",
+        "lat": 41.7052,
+        "lng": -86.2352
+      }
+    ]
+  },
+  "2027-01-24": {
+    "puzzleNumber": 155,
+    "title": "Puzzle #155",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city has James River rapids near downtown and the Virginia Museum of Fine Arts?",
+        "answer": "Richmond, VA",
+        "lat": 37.5407,
+        "lng": -77.436
+      },
+      {
+        "id": 2,
+        "type": "state",
+        "clue": "Which state contains both the Central Valley and the Sierra Nevada, with Mexico at its southern border?",
+        "answer": "California",
+        "lat": 36.7783,
+        "lng": -119.4179,
+        "bbox": [
+          -124.5,
+          32.5,
+          -114.1,
+          42
+        ]
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the Frank Lloyd Wright house built over a waterfall in Pennsylvania's Laurel Highlands.",
+        "answer": "Fallingwater, PA",
+        "lat": 39.9064,
+        "lng": -79.4677
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Find the Alaska park surrounding the highest summit in North America.",
+        "answer": "Denali National Park, AK",
+        "lat": 63.3333,
+        "lng": -150.501
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Find the Indiana capital with Monument Circle at the heart of downtown.",
+        "answer": "Indianapolis, IN",
+        "lat": 39.7684,
+        "lng": -86.1581
+      }
+    ]
+  },
+  "2027-01-25": {
+    "puzzleNumber": 156,
+    "title": "Puzzle #156",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Where is the Bricktown Canal near the home arena of the NBA's Thunder?",
+        "answer": "Oklahoma City, OK",
+        "lat": 35.4676,
+        "lng": -97.5164
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "Which Florida county contains South Beach, Little Havana, and Homestead?",
+        "answer": "Miami-Dade County, FL",
+        "lat": 25.55,
+        "lng": -80.62
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the Texas park where the Chisos Mountains rise inside a long sweep of the Rio Grande.",
+        "answer": "Big Bend National Park, TX",
+        "lat": 29.2498,
+        "lng": -103.2502
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find Pennsylvania's capital on the east bank of the Susquehanna.",
+        "answer": "Harrisburg, PA",
+        "lat": 40.2732,
+        "lng": -76.8867
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the Outer Banks memorial near the site of the Wright brothers' first powered flights in 1903.",
+        "answer": "Wright Brothers National Memorial, NC",
+        "lat": 36.0165,
+        "lng": -75.6691
+      }
+    ]
+  },
+  "2027-01-26": {
+    "puzzleNumber": 157,
+    "title": "Puzzle #157",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city looks north across the Ohio River and hosts the Kentucky Derby at Churchill Downs?",
+        "answer": "Louisville, KY",
+        "lat": 38.2527,
+        "lng": -85.7585
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find Mississippi's capital on the Pearl River, home to the Mississippi Civil Rights Museum.",
+        "answer": "Jackson, MS",
+        "lat": 32.2988,
+        "lng": -90.1848
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the Nebraska rock spire that served as a landmark for covered wagons on the Oregon Trail.",
+        "answer": "Chimney Rock National Historic Site, NE",
+        "lat": 41.703,
+        "lng": -103.348
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Find the South Carolina park where a boardwalk crosses old-growth floodplain forest near Columbia.",
+        "answer": "Congaree National Park, SC",
+        "lat": 33.7948,
+        "lng": -80.782
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the campus of the Quakers and the Wharton School west of Philadelphia's Schuylkill River.",
+        "answer": "University of Pennsylvania, Philadelphia, PA",
+        "lat": 39.9522,
+        "lng": -75.1932
+      }
+    ]
+  },
+  "2027-01-27": {
+    "puzzleNumber": 158,
+    "title": "Puzzle #158",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "The elevated train known as the L circles the downtown Loop of which Lake Michigan city?",
+        "answer": "Chicago, IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find South Dakota's capital on the Missouri River, well east of the Black Hills.",
+        "answer": "Pierre, SD",
+        "lat": 44.3683,
+        "lng": -100.351
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the Utah park known for clusters of slender rock spires called hoodoos.",
+        "answer": "Bryce Canyon National Park, UT",
+        "lat": 37.593,
+        "lng": -112.1871
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the building where delegates adopted the Declaration of Independence and later signed the U.S. Constitution.",
+        "answer": "Independence Hall, PA",
+        "lat": 39.9489,
+        "lng": -75.15
+      },
+      {
+        "id": 5,
+        "type": "state",
+        "clue": "Which state contains Glacier National Park and stretches across the plains to the Dakotas?",
+        "answer": "Montana",
+        "lat": 46.8797,
+        "lng": -110.3626,
+        "bbox": [
+          -116.1,
+          44.4,
+          -104,
+          49
+        ]
+      }
+    ]
+  },
+  "2027-01-28": {
+    "puzzleNumber": 159,
+    "title": "Puzzle #159",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city would you cross by cable car on the way from Union Square to Fisherman's Wharf?",
+        "answer": "San Francisco, CA",
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Find the Black Hills park known for a cave with honeycomb-like calcite called boxwork.",
+        "answer": "Wind Cave National Park, SD",
+        "lat": 43.5765,
+        "lng": -103.4782
+      },
+      {
+        "id": 3,
+        "type": "county",
+        "clue": "Which Texas county contains the Sixth Floor Museum at Dealey Plaza and much of the city around it?",
+        "answer": "Dallas County, TX",
+        "lat": 32.77,
+        "lng": -96.78
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find the Illinois capital that Abraham Lincoln called home before moving to the White House.",
+        "answer": "Springfield, IL",
+        "lat": 39.7817,
+        "lng": -89.6501
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the domed memorial on the Tidal Basin that honors the author of the Declaration of Independence.",
+        "answer": "Jefferson Memorial, DC",
+        "lat": 38.8814,
+        "lng": -77.0365
+      }
+    ]
+  },
+  "2027-01-29": {
+    "puzzleNumber": 160,
+    "title": "Puzzle #160",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Where was NASA's Mission Control when it heard that the Eagle had landed?",
+        "answer": "Houston, TX",
+        "lat": 29.7604,
+        "lng": -95.3698
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find Kentucky's capital in a bend of the Kentucky River between Louisville and Lexington.",
+        "answer": "Frankfort, KY",
+        "lat": 38.2009,
+        "lng": -84.8733
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the Vanderbilt mansion and gardens in the Blue Ridge city of Asheville.",
+        "answer": "Biltmore Estate, NC",
+        "lat": 35.5406,
+        "lng": -82.5515
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the Pittsburgh university known for robotics beside Schenley Park.",
+        "answer": "Carnegie Mellon University, Pittsburgh, PA",
+        "lat": 40.4432,
+        "lng": -79.9428
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the Utah park where the Green and Colorado rivers divide the Island in the Sky, Needles, and Maze districts.",
+        "answer": "Canyonlands National Park, UT",
+        "lat": 38.2,
+        "lng": -109.93
+      }
+    ]
+  },
+  "2027-01-30": {
+    "puzzleNumber": 161,
+    "title": "Puzzle #161",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city is home to Griffith Observatory and the Watts Towers?",
+        "answer": "Los Angeles, CA",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Find the southwestern Colorado park where Cliff Palace was built into a sandstone alcove.",
+        "answer": "Mesa Verde National Park, CO",
+        "lat": 37.1853,
+        "lng": -108.4898
+      },
+      {
+        "id": 3,
+        "type": "state",
+        "clue": "Find the state with the Pine Barrens, Cape May, and a Hudson River waterfront opposite Manhattan.",
+        "answer": "New Jersey",
+        "lat": 40.0583,
+        "lng": -74.4057,
+        "bbox": [
+          -75.6,
+          38.9,
+          -73.9,
+          41.4
+        ]
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find the Kansas capital on the Kansas River, west of Lawrence.",
+        "answer": "Topeka, KS",
+        "lat": 39.0558,
+        "lng": -95.689
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the pale stone obelisk rising above the National Mall in honor of the first U.S. president.",
+        "answer": "Washington Monument, DC",
+        "lat": 38.8895,
+        "lng": -77.0353
+      }
+    ]
+  },
+  "2027-01-31": {
+    "puzzleNumber": 162,
+    "title": "Puzzle #162",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "At which city do the Allegheny and Monongahela meet to form the Ohio River?",
+        "answer": "Pittsburgh, PA",
+        "lat": 40.4406,
+        "lng": -79.9959
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the crossing that links Virginia Beach to Virginia's Eastern Shore using both bridges and underwater tunnels.",
+        "answer": "Chesapeake Bay Bridge-Tunnel, VA",
+        "lat": 37.0329,
+        "lng": -76.0132
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the remote Lake Superior island park known for a long-running study of wolves and moose.",
+        "answer": "Isle Royale National Park, MI",
+        "lat": 47.9953,
+        "lng": -88.909
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find New Hampshire's capital on the Merrimack River, north of Manchester.",
+        "answer": "Concord, NH",
+        "lat": 43.2081,
+        "lng": -71.5376
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "Which Georgia county contains downtown Atlanta and stretches north to Alpharetta?",
+        "answer": "Fulton County, GA",
+        "lat": 33.79,
+        "lng": -84.46
+      }
+    ]
+  },
+  "2027-02-01": {
+    "puzzleNumber": 163,
+    "title": "Puzzle #163",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city watches bats emerge from under the Congress Avenue Bridge at dusk?",
+        "answer": "Austin, TX",
+        "lat": 30.2672,
+        "lng": -97.7431
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Find the national park on the Big Island that includes Kīlauea and part of Mauna Loa.",
+        "answer": "Hawaii Volcanoes National Park, HI",
+        "lat": 19.4194,
+        "lng": -155.2885
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the Ann Arbor campus where the Wolverines play at the Big House.",
+        "answer": "University of Michigan, Ann Arbor, MI",
+        "lat": 42.278,
+        "lng": -83.7382
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find the Rhode Island capital north of Narragansett Bay, where Brown University sits on College Hill.",
+        "answer": "Providence, RI",
+        "lat": 41.824,
+        "lng": -71.4128
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the Manhattan skyscraper with silver sunbursts in its crown and eagle ornaments near the top.",
+        "answer": "Chrysler Building, NY",
+        "lat": 40.7516,
+        "lng": -73.9755
+      }
+    ]
+  },
+  "2027-02-02": {
+    "puzzleNumber": 164,
+    "title": "Puzzle #164",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city has the Stone Arch Bridge over the Mississippi and the Chain of Lakes to its southwest?",
+        "answer": "Minneapolis, MN",
+        "lat": 44.9778,
+        "lng": -93.265
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Find the Southern California park where branching yuccas grow near fields of rounded boulders.",
+        "answer": "Joshua Tree National Park, CA",
+        "lat": 33.8734,
+        "lng": -115.901
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the Civil War battlefield associated with Pickett's Charge and Lincoln's short dedicatory address.",
+        "answer": "Gettysburg National Military Park, PA",
+        "lat": 39.8118,
+        "lng": -77.2257
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find Montana's capital on the east side of the Continental Divide.",
+        "answer": "Helena, MT",
+        "lat": 46.5958,
+        "lng": -112.027
+      },
+      {
+        "id": 5,
+        "type": "state",
+        "clue": "Which state includes the gypsum dunes of White Sands and the adobe capital of Santa Fe?",
+        "answer": "New Mexico",
+        "lat": 34.5199,
+        "lng": -105.8701,
+        "bbox": [
+          -109.1,
+          31.3,
+          -103,
+          37
+        ]
+      }
+    ]
+  },
+  "2027-02-03": {
+    "puzzleNumber": 165,
+    "title": "Puzzle #165",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Fish fly over the counter at Pike Place Market in which Pacific Northwest city?",
+        "answer": "Seattle, WA",
+        "lat": 47.6062,
+        "lng": -122.3321
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Find the park in New Mexico's Tularosa Basin with dunes made of white gypsum.",
+        "answer": "White Sands National Park, NM",
+        "lat": 32.7872,
+        "lng": -106.3257
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Find the Iowa capital at the junction of the Raccoon and Des Moines rivers.",
+        "answer": "Des Moines, IA",
+        "lat": 41.5868,
+        "lng": -93.625
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the protected grove of coastal redwoods in Marin County, north of the Golden Gate.",
+        "answer": "Muir Woods National Monument, CA",
+        "lat": 37.897,
+        "lng": -122.5811
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "Which Illinois county includes downtown Chicago and the suburb of Evanston?",
+        "answer": "Cook County, IL",
+        "lat": 41.84,
+        "lng": -87.82
+      }
+    ]
+  },
+  "2027-02-04": {
+    "puzzleNumber": 166,
+    "title": "Puzzle #166",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which Chesapeake Bay port has the Inner Harbor, Fells Point, and the Orioles at Camden Yards?",
+        "answer": "Baltimore, MD",
+        "lat": 39.2904,
+        "lng": -76.6122
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find the Michigan capital just west of the Michigan State University campus.",
+        "answer": "Lansing, MI",
+        "lat": 42.7325,
+        "lng": -84.5555
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the Nittany Lions' main campus and Beaver Stadium in central Pennsylvania.",
+        "answer": "Penn State University, State College, PA",
+        "lat": 40.7934,
+        "lng": -77.86
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Find the park in northern Washington with steep, glacier-covered peaks east of the Skagit Valley.",
+        "answer": "North Cascades National Park, WA",
+        "lat": 48.7718,
+        "lng": -121.2985
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the ballpark whose left-field wall is known as the Green Monster.",
+        "answer": "Fenway Park, MA",
+        "lat": 42.3467,
+        "lng": -71.0972
+      }
+    ]
+  },
+  "2027-02-05": {
+    "puzzleNumber": 167,
+    "title": "Puzzle #167",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Where are the NASCAR Hall of Fame and a downtown locals call Uptown?",
+        "answer": "Charlotte, NC",
+        "lat": 35.2271,
+        "lng": -80.8431
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find the Minnesota capital on the eastern side of the Twin Cities.",
+        "answer": "Saint Paul, MN",
+        "lat": 44.9537,
+        "lng": -93.09
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "A hillside advertisement once ended in LAND. Find the famous letters that remain on Mount Lee.",
+        "answer": "Hollywood Sign, CA",
+        "lat": 34.1341,
+        "lng": -118.3215
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Find the park between Cleveland and Akron where a towpath follows a historic canal.",
+        "answer": "Cuyahoga Valley National Park, OH",
+        "lat": 41.2808,
+        "lng": -81.5678
+      },
+      {
+        "id": 5,
+        "type": "state",
+        "clue": "Find the state with Annapolis on the Chesapeake Bay and a western panhandle reaching into the Appalachians.",
+        "answer": "Maryland",
+        "lat": 39.0458,
+        "lng": -76.6413,
+        "bbox": [
+          -79.5,
+          37.9,
+          -75,
+          39.7
+        ]
+      }
+    ]
+  },
+  "2027-02-06": {
+    "puzzleNumber": 168,
+    "title": "Puzzle #168",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Waikīkī and Diamond Head are both within this city on Oʻahu.",
+        "answer": "Honolulu, HI",
+        "lat": 21.3069,
+        "lng": -157.8583
+      },
+      {
+        "id": 2,
+        "type": "county",
+        "clue": "Which California county is home to Anaheim's Disneyland and the coast at Laguna Beach?",
+        "answer": "Orange County, CA",
+        "lat": 33.72,
+        "lng": -117.75
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the water-based park along Minnesota's Canadian border that includes Rainy and Kabetogama lakes.",
+        "answer": "Voyageurs National Park, MN",
+        "lat": 48.4839,
+        "lng": -92.8376
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the concrete dam in Black Canyon that holds back the Colorado River to form Lake Mead.",
+        "answer": "Hoover Dam, NV/AZ",
+        "lat": 36.0161,
+        "lng": -114.7377
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Find Maryland's capital where the Severn River meets Chesapeake Bay.",
+        "answer": "Annapolis, MD",
+        "lat": 38.9784,
+        "lng": -76.4922
+      }
+    ]
+  },
+  "2027-02-07": {
+    "puzzleNumber": 169,
+    "title": "Puzzle #169",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city has honky-tonks on Lower Broadway and the Ryman Auditorium a block away?",
+        "answer": "Nashville, TN",
+        "lat": 36.1627,
+        "lng": -86.7816
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the black granite wall by Maya Lin that bears the names of U.S. service members lost in the Vietnam War.",
+        "answer": "Vietnam Veterans Memorial, DC",
+        "lat": 38.8915,
+        "lng": -77.0479
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Find New York's capital on the Hudson River, north of the Catskills.",
+        "answer": "Albany, NY",
+        "lat": 42.6526,
+        "lng": -73.7562
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Find the Sierra Nevada park whose Giant Forest is home to the General Sherman Tree.",
+        "answer": "Sequoia National Park, CA",
+        "lat": 36.4864,
+        "lng": -118.5658
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the Seattle campus whose Huskies play in a stadium beside the Union Bay shoreline.",
+        "answer": "University of Washington, Seattle, WA",
+        "lat": 47.6553,
+        "lng": -122.3035
+      }
+    ]
+  },
+  "2027-02-08": {
+    "puzzleNumber": 170,
+    "title": "Puzzle #170",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "The recording studio known as Hitsville U.S.A. helped give this city its Motown sound.",
+        "answer": "Detroit, MI",
+        "lat": 42.3314,
+        "lng": -83.0458
+      },
+      {
+        "id": 2,
+        "type": "state",
+        "clue": "Which state has a Lake Erie shoreline in the northwest and borders the Delaware River in the east?",
+        "answer": "Pennsylvania",
+        "lat": 41.2033,
+        "lng": -77.1945,
+        "bbox": [
+          -80.5,
+          39.7,
+          -74.7,
+          42.3
+        ]
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the Central California park with rocky spires, talus caves, and California condors.",
+        "answer": "Pinnacles National Park, CA",
+        "lat": 36.4906,
+        "lng": -121.1825
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find the New Jersey capital across the Delaware River from Pennsylvania.",
+        "answer": "Trenton, NJ",
+        "lat": 40.2171,
+        "lng": -74.7429
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the line of brightly painted cars buried nose-first in a field outside Amarillo.",
+        "answer": "Cadillac Ranch, TX",
+        "lat": 35.1872,
+        "lng": -101.987
+      }
+    ]
+  },
+  "2027-02-09": {
+    "puzzleNumber": 171,
+    "title": "Puzzle #171",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Head downtown to the Fremont Street canopy after seeing the desert resorts of this metro area.",
+        "answer": "Las Vegas, NV",
+        "lat": 36.1699,
+        "lng": -115.1398
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find Arkansas's capital on the river opposite North Little Rock.",
+        "answer": "Little Rock, AR",
+        "lat": 34.7465,
+        "lng": -92.2896
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the Maine park with Cadillac Mountain on Mount Desert Island.",
+        "answer": "Acadia National Park, ME",
+        "lat": 44.3386,
+        "lng": -68.2733
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "Which East Bay county contains Oakland and Berkeley as well as the city of Fremont?",
+        "answer": "Alameda County, CA",
+        "lat": 37.65,
+        "lng": -121.92
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the temple-like building at the west end of the Reflecting Pool, where a seated president looks east.",
+        "answer": "Lincoln Memorial, DC",
+        "lat": 38.8893,
+        "lng": -77.0502
+      }
+    ]
+  },
+  "2027-02-10": {
+    "puzzleNumber": 172,
+    "title": "Puzzle #172",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "The BeltLine loops through neighborhoods of this city, where Coca-Cola was invented.",
+        "answer": "Atlanta, GA",
+        "lat": 33.749,
+        "lng": -84.388
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the Baton Rouge campus where the Tigers play in a stadium nicknamed Death Valley.",
+        "answer": "Louisiana State University, Baton Rouge, LA",
+        "lat": 30.4133,
+        "lng": -91.18
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the Memphis home where Elvis Presley lived and is buried.",
+        "answer": "Graceland, TN",
+        "lat": 35.0453,
+        "lng": -90.0228
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find Alabama's capital at the destination of the 1965 voting rights march from Selma.",
+        "answer": "Montgomery, AL",
+        "lat": 32.3792,
+        "lng": -86.3077
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the Arizona park where colorful fossilized logs lie near the Painted Desert.",
+        "answer": "Petrified Forest National Park, AZ",
+        "lat": 34.9823,
+        "lng": -109.7877
+      }
+    ]
+  },
+  "2027-02-11": {
+    "puzzleNumber": 173,
+    "title": "Puzzle #173",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which Lake Michigan city has the Harley-Davidson Museum and the Brewers?",
+        "answer": "Milwaukee, WI",
+        "lat": 43.0389,
+        "lng": -87.9065
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Find the Utah park where hikers wade up the Virgin River through the Narrows.",
+        "answer": "Zion National Park, UT",
+        "lat": 37.2982,
+        "lng": -113.0263
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Find the California capital near the meeting of the Sacramento and American rivers.",
+        "answer": "Sacramento, CA",
+        "lat": 38.5816,
+        "lng": -121.4944
+      },
+      {
+        "id": 4,
+        "type": "state",
+        "clue": "Find the state with the Ozarks in its northwest and the Mississippi River along its eastern edge.",
+        "answer": "Arkansas",
+        "lat": 34.9697,
+        "lng": -92.3731,
+        "bbox": [
+          -94.6,
+          33,
+          -89.6,
+          36.5
+        ]
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the Florida launch site with pads 39A and 39B on Merritt Island.",
+        "answer": "Kennedy Space Center, FL",
+        "lat": 28.5729,
+        "lng": -80.649
+      }
+    ]
+  },
+  "2027-02-12": {
+    "puzzleNumber": 174,
+    "title": "Puzzle #174",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city has Boathouse Row along the Schuylkill and a statue of Rocky near its art museum steps?",
+        "answer": "Philadelphia, PA",
+        "lat": 39.9526,
+        "lng": -75.1652
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Find the park with tall, branching cacti in separate districts on either side of Tucson.",
+        "answer": "Saguaro National Park, AZ",
+        "lat": 32.2967,
+        "lng": -111.1666
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the former Spanish mission in downtown San Antonio associated with an 1836 siege.",
+        "answer": "The Alamo, TX",
+        "lat": 29.426,
+        "lng": -98.4861
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find Ohio's capital where the Scioto and Olentangy rivers meet.",
+        "answer": "Columbus, OH",
+        "lat": 39.9612,
+        "lng": -82.9988
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "Which Nevada county includes the Las Vegas Strip and Boulder City?",
+        "answer": "Clark County, NV",
+        "lat": 36.2,
+        "lng": -115.01
+      }
+    ]
+  },
+  "2027-02-13": {
+    "puzzleNumber": 175,
+    "title": "Puzzle #175",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city on Cook Inlet sits between Turnagain Arm and the Chugach Mountains?",
+        "answer": "Anchorage, AK",
+        "lat": 61.2181,
+        "lng": -149.9003
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the science and engineering campus with the Great Dome on the Cambridge bank of the Charles.",
+        "answer": "MIT, Cambridge, MA",
+        "lat": 42.3601,
+        "lng": -71.0942
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Find Colorado's capital on the plains east of the Front Range.",
+        "answer": "Denver, CO",
+        "lat": 39.7392,
+        "lng": -104.9903
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the columned rock formation in northeastern Wyoming featured in Close Encounters of the Third Kind.",
+        "answer": "Devil's Tower National Monument, WY",
+        "lat": 44.5901,
+        "lng": -104.7146
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the South Dakota park with striped pinnacles and fossil beds surrounded by prairie.",
+        "answer": "Badlands National Park, SD",
+        "lat": 43.8554,
+        "lng": -102.3397
+      }
+    ]
+  },
+  "2027-02-14": {
+    "puzzleNumber": 176,
+    "title": "Puzzle #176",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Beale Street and the recording rooms of Sun Studio put which city on the music map?",
+        "answer": "Memphis, TN",
+        "lat": 35.1495,
+        "lng": -90.049
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find Wyoming's capital near the Colorado border, where Frontier Days draws rodeo fans.",
+        "answer": "Cheyenne, WY",
+        "lat": 41.14,
+        "lng": -104.8202
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the International Orange suspension bridge that carries traffic from San Francisco to Marin County.",
+        "answer": "Golden Gate Bridge, CA",
+        "lat": 37.8199,
+        "lng": -122.4783
+      },
+      {
+        "id": 4,
+        "type": "state",
+        "clue": "Find the state between the Missouri and Mississippi rivers, north of Missouri.",
+        "answer": "Iowa",
+        "lat": 41.878,
+        "lng": -93.0977,
+        "bbox": [
+          -96.7,
+          40.4,
+          -90.1,
+          43.5
+        ]
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the Oregon park where Wizard Island rises from a deep lake inside a volcanic caldera.",
+        "answer": "Crater Lake National Park, OR",
+        "lat": 42.9446,
+        "lng": -122.109
+      }
+    ]
+  },
+  "2027-02-15": {
+    "puzzleNumber": 177,
+    "title": "Puzzle #177",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city links the Old North Church and Faneuil Hall along its Freedom Trail?",
+        "answer": "Boston, MA",
+        "lat": 42.3601,
+        "lng": -71.0589
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find Wisconsin's capital, where the statehouse stands between lakes Mendota and Monona.",
+        "answer": "Madison, WI",
+        "lat": 43.0731,
+        "lng": -89.4012
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the Art Deco skyscraper where Fifth Avenue crosses 34th Street in Manhattan.",
+        "answer": "Empire State Building, NY",
+        "lat": 40.7484,
+        "lng": -73.9967
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "Which North Carolina county contains downtown Charlotte and the town of Davidson?",
+        "answer": "Mecklenburg County, NC",
+        "lat": 35.26,
+        "lng": -80.83
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the park with dunes along the southern shore of Lake Michigan, east of Gary.",
+        "answer": "Indiana Dunes National Park, IN",
+        "lat": 41.6533,
+        "lng": -87.0524
+      }
+    ]
+  },
+  "2027-02-16": {
+    "puzzleNumber": 178,
+    "title": "Puzzle #178",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which Missouri city has jazz in the 18th and Vine district and the Chiefs at Arrowhead?",
+        "answer": "Kansas City, MO",
+        "lat": 39.0997,
+        "lng": -94.5786
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find Arizona's capital, with Sky Harbor Airport in the Valley of the Sun.",
+        "answer": "Phoenix, AZ",
+        "lat": 33.4484,
+        "lng": -112.074
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the Black Hills mountainside where Washington, Jefferson, Roosevelt, and Lincoln were carved in granite.",
+        "answer": "Mount Rushmore, SD",
+        "lat": 43.8791,
+        "lng": -103.4591
+      },
+      {
+        "id": 4,
+        "type": "national_park",
+        "clue": "Find the park with Cades Cove that straddles the Tennessee–North Carolina border.",
+        "answer": "Great Smoky Mountains National Park, TN/NC",
+        "lat": 35.6118,
+        "lng": -83.4895
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the Ivy League campus where the Beinecke Rare Book Library stands beside a courtyard in New Haven.",
+        "answer": "Yale University, New Haven, CT",
+        "lat": 41.3163,
+        "lng": -72.9223
+      }
+    ]
+  },
+  "2027-02-17": {
+    "puzzleNumber": 179,
+    "title": "Puzzle #179",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city on the west bank of the Missouri River hosts the Men's College World Series?",
+        "answer": "Omaha, NE",
+        "lat": 41.2565,
+        "lng": -95.9345
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the site at Promontory Summit where two railroads joined to complete a transcontinental line in 1869.",
+        "answer": "Golden Spike National Historic Site, UT",
+        "lat": 41.6196,
+        "lng": -112.5471
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the West Virginia park where a steel arch bridge spans a gorge near Fayetteville.",
+        "answer": "New River Gorge National Park, WV",
+        "lat": 38.0705,
+        "lng": -81.0774
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find Nevada's capital just east of Lake Tahoe.",
+        "answer": "Carson City, NV",
+        "lat": 39.1638,
+        "lng": -119.7674
+      },
+      {
+        "id": 5,
+        "type": "state",
+        "clue": "Which state has the Black Hills in the west and Sioux Falls in the east?",
+        "answer": "South Dakota",
+        "lat": 43.9695,
+        "lng": -99.9018,
+        "bbox": [
+          -104.1,
+          42.5,
+          -96.4,
+          45.9
+        ]
+      }
+    ]
+  },
+  "2027-02-18": {
+    "puzzleNumber": 180,
+    "title": "Puzzle #180",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Calle Ocho runs through Little Havana in which city at the mouth of the Miami River?",
+        "answer": "Miami, FL",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      {
+        "id": 2,
+        "type": "state_capital",
+        "clue": "Find Connecticut's capital on the river that shares the state's name.",
+        "answer": "Hartford, CT",
+        "lat": 41.7658,
+        "lng": -72.6851
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the white memorial built above a sunken battleship in Pearl Harbor.",
+        "answer": "USS Arizona Memorial, HI",
+        "lat": 21.3645,
+        "lng": -157.9768
+      },
+      {
+        "id": 4,
+        "type": "county",
+        "clue": "Which California county includes San Jose, Palo Alto, and the headquarters of Apple in Cupertino?",
+        "answer": "Santa Clara County, CA",
+        "lat": 37.23,
+        "lng": -121.97
+      },
+      {
+        "id": 5,
+        "type": "national_park",
+        "clue": "Find the park where visitors on opposite rims look down at the Colorado River.",
+        "answer": "Grand Canyon National Park, AZ",
+        "lat": 36.1069,
+        "lng": -112.1129
+      }
+    ]
+  },
+  "2027-02-19": {
+    "puzzleNumber": 181,
+    "title": "Puzzle #181",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city would you visit to hear a brass band in the French Quarter and order beignets at Café du Monde?",
+        "answer": "New Orleans, LA",
+        "lat": 29.9511,
+        "lng": -90.0715
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Find the park protecting five islands off the coast of Southern California.",
+        "answer": "Channel Islands National Park, CA",
+        "lat": 34.0069,
+        "lng": -119.7785
+      },
+      {
+        "id": 3,
+        "type": "state_capital",
+        "clue": "Find Idaho's capital where the Boise River runs along the base of the foothills.",
+        "answer": "Boise, ID",
+        "lat": 43.615,
+        "lng": -116.2023
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the stainless-steel curve on the Mississippi riverfront that symbolizes a gateway to the West.",
+        "answer": "Gateway Arch, MO",
+        "lat": 38.6247,
+        "lng": -90.1848
+      },
+      {
+        "id": 5,
+        "type": "landmark",
+        "clue": "Find the Houston university's campus across Main Street from the Texas Medical Center.",
+        "answer": "Rice University, Houston, TX",
+        "lat": 29.7174,
+        "lng": -95.4018
+      }
+    ]
+  },
+  "2027-02-20": {
+    "puzzleNumber": 182,
+    "title": "Puzzle #182",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which Mississippi River city has Forest Park, the setting of the 1904 World's Fair?",
+        "answer": "St. Louis, MO",
+        "lat": 38.627,
+        "lng": -90.1994
+      },
+      {
+        "id": 2,
+        "type": "national_park",
+        "clue": "Find the Montana park where Going-to-the-Sun Road crosses the Continental Divide at Logan Pass.",
+        "answer": "Glacier National Park, MT",
+        "lat": 48.7596,
+        "lng": -113.787
+      },
+      {
+        "id": 3,
+        "type": "landmark",
+        "clue": "Find the suspension bridge joining the two peninsulas of Michigan at the meeting of two Great Lakes.",
+        "answer": "Mackinac Bridge, MI",
+        "lat": 45.8174,
+        "lng": -84.7278
+      },
+      {
+        "id": 4,
+        "type": "state",
+        "clue": "Find the state where the Colorado River cuts through the Grand Canyon before reaching the Nevada border.",
+        "answer": "Arizona",
+        "lat": 34.0489,
+        "lng": -111.0937,
+        "bbox": [
+          -114.8,
+          31.3,
+          -109,
+          37
+        ]
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Find Louisiana's capital upriver from New Orleans, home to LSU's Tiger Stadium.",
+        "answer": "Baton Rouge, LA",
+        "lat": 30.4515,
+        "lng": -91.1871
+      }
+    ]
+  },
+  "2027-02-21": {
+    "puzzleNumber": 183,
+    "title": "Puzzle #183",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "The elevated train known as the L circles the downtown Loop of which Lake Michigan city?",
+        "answer": "Chicago, IL",
+        "lat": 41.8781,
+        "lng": -87.6298
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the Yellowstone geyser whose predicted eruption times are posted for visitors.",
+        "answer": "Old Faithful, Yellowstone NP, WY",
+        "lat": 44.4605,
+        "lng": -110.8281
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the Guadalupe Mountains park in New Mexico where bats emerge from a cave's natural entrance.",
+        "answer": "Carlsbad Caverns National Park, NM",
+        "lat": 32.1479,
+        "lng": -104.5567
+      },
+      {
+        "id": 4,
+        "type": "state_capital",
+        "clue": "Find the Indiana capital with Monument Circle at the heart of downtown.",
+        "answer": "Indianapolis, IN",
+        "lat": 39.7684,
+        "lng": -86.1581
+      },
+      {
+        "id": 5,
+        "type": "county",
+        "clue": "Which Alabama county includes downtown Birmingham and the city of Bessemer?",
+        "answer": "Jefferson County, AL",
+        "lat": 33.52,
+        "lng": -86.84
+      }
+    ]
+  },
+  "2027-02-22": {
+    "puzzleNumber": 184,
+    "title": "Puzzle #184",
+    "rounds": [
+      {
+        "id": 1,
+        "type": "city",
+        "clue": "Which city connects its boroughs with the Staten Island Ferry and the Brooklyn Bridge?",
+        "answer": "New York, NY",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      {
+        "id": 2,
+        "type": "landmark",
+        "clue": "Find the star-shaped fort whose flag inspired the lyrics of the U.S. national anthem.",
+        "answer": "Fort McHenry, MD",
+        "lat": 39.2631,
+        "lng": -76.5796
+      },
+      {
+        "id": 3,
+        "type": "national_park",
+        "clue": "Find the park above Estes Park where Trail Ridge Road crosses alpine tundra.",
+        "answer": "Rocky Mountain National Park, CO",
+        "lat": 40.3428,
+        "lng": -105.6836
+      },
+      {
+        "id": 4,
+        "type": "landmark",
+        "clue": "Find the SEC campus just west of Nashville's Music Row, home to the Commodores.",
+        "answer": "Vanderbilt University, Nashville, TN",
+        "lat": 36.1447,
+        "lng": -86.8027
+      },
+      {
+        "id": 5,
+        "type": "state_capital",
+        "clue": "Find the Alaska capital tucked between the mountains and Gastineau Channel.",
+        "answer": "Juneau, AK",
+        "lat": 58.3005,
+        "lng": -134.4197
+      }
+    ]
   }
 }
