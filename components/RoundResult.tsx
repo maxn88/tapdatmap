@@ -1,6 +1,7 @@
 "use client";
 
 import type { GuessResult } from "@/lib/types";
+import { boundaryKind } from "@/lib/boundaries";
 import { formatDistance } from "@/lib/geo";
 import { distanceColor as scoreColor } from "@/lib/scoring";
 
@@ -25,9 +26,9 @@ export default function RoundResult({ result, roundNumber, totalRounds, onNext }
           </span>
           <span className="text-gray-400 text-xs ml-1">pts</span>
         </div>
-        {result.hitState && (
+        {result.hitBoundary && (
           <span className="text-green-400 text-xs font-semibold bg-green-500/10 border border-green-500/30 px-2 py-0.5 rounded-full">
-            Inside! Full pts
+            Inside · Full points
           </span>
         )}
       </div>
@@ -35,9 +36,9 @@ export default function RoundResult({ result, roundNumber, totalRounds, onNext }
       {/* Stats row */}
       <div className="bg-gray-800 rounded-xl p-2.5 md:p-4 flex flex-col gap-1.5 md:gap-2">
         <div className="flex items-center justify-between text-xs md:text-sm">
-          <span className="text-gray-400">Distance</span>
-          <span className={`font-bold ${result.hitState ? "text-green-400" : colorClass}`}>
-            {result.hitState ? "Inside!" : formatDistance(result.distanceMiles)}
+          <span className="text-gray-400">{boundaryKind(result.round.type) ? "Distance to boundary" : "Distance"}</span>
+          <span className={`font-bold ${result.hitBoundary ? "text-green-400" : colorClass}`}>
+            {result.hitBoundary ? "Inside" : formatDistance(result.distanceMiles)}
           </span>
         </div>
         <div className="flex items-center justify-between text-xs md:text-sm">
@@ -47,7 +48,7 @@ export default function RoundResult({ result, roundNumber, totalRounds, onNext }
           </span>
         </div>
         {/* Distance bar — hidden on mobile */}
-        {!result.hitState && <DistanceBar miles={result.distanceMiles} className="hidden md:block" />}
+        {!result.hitBoundary && <DistanceBar miles={result.distanceMiles} className="hidden md:block" />}
       </div>
 
       {/* Next button */}
