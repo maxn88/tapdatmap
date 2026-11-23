@@ -1,36 +1,44 @@
 import { booleanPointInPolygon, nearestPointOnLine, point, polygonToLine } from "@turf/turf";
 import type { MultiPolygon, Polygon } from "geojson";
 import boundaryIds from "../data/boundary-ids.json";
+import parkBoundaryIds from "../data/park-boundary-ids.json";
 import { calculateRoundScore, MAX_POINTS_PER_ROUND } from "./scoring";
-import type { Round, RoundType } from "./types";
+import type { Round } from "./types";
 
 export type Boundary = Polygon | MultiPolygon;
 
-export function boundaryKind(type: RoundType): "place" | "county" | "state" | null {
-  switch (type) {
+export function boundaryKind(round: Round): "place" | "county" | "state" | "park" | null {
+  switch (round.type) {
     case "city":
     case "capital":
     case "state_capital":
       return "place";
     case "county":
     case "state":
-      return type;
+      return round.type;
+    case "national_park":
+      return "park";
+    case "landmark":
+    case "monument":
+      return Object.hasOwn(parkBoundaryIds, round.answer) ? "park" : null;
     default:
       return null;
   }
 }
 
 export async function loadBoundary(round: Round): Promise<Boundary | null> {
-  const kind = boundaryKind(round.type);
+  const kind = boundaryKind(round);
   if (!kind) return null;
   const key = `${kind}:${round.answer}` as keyof typeof boundaryIds;
-  const id = boundaryIds[key];
+  const id = kind === "park"
+    ? parkBoundaryIds[round.answer as keyof typeof parkBoundaryIds]
+    : boundaryIds[key];
   if (!id) throw new Error(`Missing boundary for ${round.answer}`);
   const response = await fetch(`/boundaries/${id}.json`);
-  if (!response.ok) throw new Error(`Unable to load Census boundary ${id}`);
+  if (!response.ok) throw new Error(`Unable to load boundary ${id}`);
   const geometry = await response.json();
   if (geometry?.type !== "Polygon" && geometry?.type !== "MultiPolygon") {
-    throw new Error(`Invalid Census boundary ${id}`);
+    throw new Error(`Invalid boundary ${id}`);
   }
   return geometry;
 }

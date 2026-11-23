@@ -61,7 +61,7 @@ export default function CluePanel({ round, roundNumber, totalRounds }: Props) {
 
       {/* Scoring hint — hidden on mobile */}
       <div className="text-xs text-gray-500 leading-relaxed">
-        Up to <span className="text-yellow-400 font-semibold">{(1000 * multiplier).toLocaleString()} pts</span> — {boundaryKind(round.type) ? "tap inside for full points." : "closer to the location means more points."} This round has a{" "}
+        Up to <span className="text-yellow-400 font-semibold">{(1000 * multiplier).toLocaleString()} pts</span> — {boundaryKind(round) ? "tap inside for full points." : "closer to the location means more points."} This round has a{" "}
         <span className="text-yellow-400 font-semibold">{multiplier}x multiplier</span>.
       </div>
     </div>

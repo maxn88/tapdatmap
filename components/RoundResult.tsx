@@ -36,7 +36,7 @@ export default function RoundResult({ result, roundNumber, totalRounds, onNext }
       {/* Stats row */}
       <div className="bg-gray-800 rounded-xl p-2.5 md:p-4 flex flex-col gap-1.5 md:gap-2">
         <div className="flex items-center justify-between text-xs md:text-sm">
-          <span className="text-gray-400">{boundaryKind(result.round.type) ? "Distance to boundary" : "Distance"}</span>
+          <span className="text-gray-400">{boundaryKind(result.round) ? "Distance to boundary" : "Distance"}</span>
           <span className={`font-bold ${result.hitBoundary ? "text-green-400" : colorClass}`}>
             {result.hitBoundary ? "Inside" : formatDistance(result.distanceMiles)}
           </span>
